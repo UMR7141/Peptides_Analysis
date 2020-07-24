@@ -1,0 +1,39 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+CER1	Cecropin	2	Manduca sexta	http://www.camp.bicnirrh.res.in/	CAMPSQ54	Bactericidin B-4 	WNPFKELERAGQRVRDAIISAAPAVATVGQAAAIARG	
+CER2	Cecropin	2	Manduca sexta	http://www.camp.bicnirrh.res.in/	CAMPSQ55	Bactericidin B-5P precursor 	WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARGG	
+CER3	Cecropin	2	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ56	Cecropin-A 	KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK	
+CER4	Cecropin	2	Antheraea pernyi	http://www.camp.bicnirrh.res.in/	CAMPSQ57	Cecropin-B	KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL	
+CER5	Cecropin	2	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ58	Cecropin-B	KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL	
+CER6	Cecropin	2	Antheraea pernyi	http://www.camp.bicnirrh.res.in/	CAMPSQ59	Cecropin-D	WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK	
+CER7	Cecropin	2	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ60	Cecropin-D	WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK	
+CER8	Cecropin	2	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ125	Sarcotoxin-1A 	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATAR	
+CER9	Cecropin	2	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ126	Sarcotoxin-1B	GWLKKIGKKIERVGQHTRDATIQVIGVAQQAANVAATAR	
+CER10	Cecropin	2	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ127	Sarcotoxin-1C	GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATAR	
+CER11	Cecropin	2	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ128	Sarcotoxin-1D	GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG	
+CER12	Cecropin	2	Galleria mellonella	http://www.camp.bicnirrh.res.in/	CAMPSQ161	Cecropin-D-like peptide	ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD	
+CER13	Cecropin	2	Bombyx mori	http://www.camp.bicnirrh.res.in/	CAMPSQ251	Cecropin A1, Lepidopteran C. 	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSL	
+CER14	Cecropin	2	Bombyx mori	http://www.camp.bicnirrh.res.in/	CAMPSQ252	Cecropin B1	RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAI	
+CER15	Cecropin	2	Oiketicus kirbyi 	http://www.camp.bicnirrh.res.in/	CAMPSQ285	Cecropin	WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT	
+CER16	Cecropin	2	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ286	Cecropin-A	RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL	
+CER17	Cecropin	2	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ287	Cecropin-B	KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN	
+CER18	Cecropin	2	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ288	Cecropin-C	RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK	
+CER19	Cecropin	2	Anopheles gambiae	http://www.camp.bicnirrh.res.in/	CAMPSQ471	Cecropin-A precursor	GRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG	
+CER20	Cecropin	2	Culex pipiens pipiens	http://www.camp.bicnirrh.res.in/	CAMPSQ473	Cecropin-B2	GRSKKLGKKIEKAGKRVFNAAQKGLPVAAGVQAL	
+CER21	Cecropin	2	Culex pipiens pipiens	http://www.camp.bicnirrh.res.in/	CAMPSQ474	Cecropin-B1	GRLKKLGKKIEKAGKRVFNAVQKGLPVAAGVQAL	
+CER22	Cecropin	2	Ceratitis capitata	http://www.camp.bicnirrh.res.in/	CAMPSQ513	Cecropin-1	GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATAR	
+CER23	Cecropin	2	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ534	Cecropin P1	SWLSKTAKKLENSAKKRISEGIAIAIQGGPR	2N92
+CER24	Cecropin	2	Artogeia rapae	http://www.camp.bicnirrh.res.in/	CAMPSQ812	Hinnavin II	KWKIFKKIEHMGQNIRDGLIKAGPAVQVVGQAATIYKG	
+CER25	Cecropin	2	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ883	Andropin	VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK	
+CER26	Cecropin	2	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ886	Cecropin-A1/A2	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG	
+CER27	Cecropin	2	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ887	Cecropin-B	GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	
+CER28	Cecropin	2	Aedes aegypti	http://www.camp.bicnirrh.res.in/	CAMPSQ1107	Cecropin-A	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL	
+CER29	Cecropin	2	Spodoptera litura	http://www.camp.bicnirrh.res.in/	CAMPSQ1134	Cecropin-B	RWKVFKKIEKMGRNIRDGIVKAGPAIEVLGSAKALGK	
+CER30	Cecropin	2	Spodoptera litura	http://www.camp.bicnirrh.res.in/	CAMPSQ1135	Cecropin-A	RWKVFKKIEKVGRNVRDGIIKAGPAIGVLGQAKALG	
+CER31	Cecropin	2	Glossina morsitans morsitans 	http://www.camp.bicnirrh.res.in/	CAMPSQ1259	Cecropin	GWLKKIGKKIERVGQNTRDATVKGLEVAQQAANVAATVR	
+CER32	Cecropin	2	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2592	Cecropin-P3	WLSKTAKKLENSAKKRISEGIAIAIKGGSR	
+CER33	Cecropin	2	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2593	Cecropin-P2	WLSKTYKKLENSAKKRISEGIAIAIQGGPR	
+CER34	Cecropin	1	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2594	Cecropin-P4	WLSKTYKKLENSAKKRISEGVAIAILGGLR	
+CER35	Cecropin	2	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3309	  Cecropin P2 	SWLSKTYKKLENSAKKRISEGIAIAIQGGPR	
+CER36	Cecropin	2	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3310	  Cecropin P3 	SWLSKTAKKLENSAKKRISEGIAIAIKGGSR	
+CER37	Cecropin	1	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3311	  Cecropin P4 	SWLSKTYKKLENSAKKRISEGVAIAILGGLR	
+CER38	Cecropin	2	Plutella xylostella L	http://www.camp.bicnirrh.res.in/	CAMPSQ3703	  Px-cec1 	KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK	

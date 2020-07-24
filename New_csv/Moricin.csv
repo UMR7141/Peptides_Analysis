@@ -1,0 +1,14 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+MOR1	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ146	Moricin-like peptide A	KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	
+MOR2	Moricin	2	Bombyx mori [Silk moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1090	Moricin-1, Moricin-2	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKH	1KV4
+MOR3	Moricin	2	Heliothis virescens [Tobacco budworm moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1252	VIRE_HELVI Virescein	GKIPIGAIKKAGKAIGKGLRAVNIASTAHDVYTFFKPKKRH	
+MOR4	Moricin	2	Bombyx mori [Silk moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1657	Moricin	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA	1KV4
+MOR5	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ2910	G. mellonella moricin-like peptide A	KVNANAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	
+MOR6	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ147	Moricin-like peptide B	GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH	
+MOR7	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ148	Moricin-like peptide C1	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH	
+MOR8	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ149	Moricin-like peptide C2	KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ	
+MOR9	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ150	Moricin-like peptide C3	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ	
+MOR10	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ151	Moricin-like peptide C4, Moricin-like peptide C5	KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH	
+MOR11	Moricin	2	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ152	Moricin-like peptide D	KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ	
+MOR12	Moricin	2	Bean golden mosaic virus-[Brazil]	http://www.camp.bicnirrh.res.in/	CAMPSQ1027	SI Moricin	GKIPVKAIKKAGAAIGKGLRAINIASTAHDVYSFFKPKHKKK	1X22
+MOR13	Moricin	2	Manduca sexta [Tobacco hawkmoth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1032	Manduca Sexta Moricin	GKIPVKAIKQAGKVIGKGLRAINIAGTTHDVVSFFRPKKKKH	2JR8

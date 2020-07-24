@@ -1,0 +1,4 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+TRA1	Transferrin	2	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ460	Lactotransferrin precursor	FKCRRWQWRMKKLGAPSITCVRRAF	
+TRA2	Transferrin	2	Homo sapiens	http://www.camp.bicnirrh.res.in/	CAMPSQ2882	Human lactoferricin	GRRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQA	1Z6V
+TRA3	Transferrin	2	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ4608	Lactotransferrin-H, HLP1	FQWQRNMRKVRGPPVS	

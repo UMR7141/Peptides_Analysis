@@ -1,0 +1,21 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+CAT1	Cathelicidin	2	Oryctolagus cuniculus [Rabbit]	http://www.camp.bicnirrh.res.in/	CAMPSQ73	Antimicrobial protein CAP18 precursor	GLRKRLRKFRNKIKEKLKKI	1LYP
+CAT2	Cathelicidin	2	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ114	Myeloid antimicrobial peptide BMAP-27	GRFKRFRKKFKKLFKKLS	2KET
+CAT3	Cathelicidin	2	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ195	Cathelicidin antimicrobial peptide	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	2FBS, 2FBU, 2FCG, 2K6O, 2LMF
+CAT4	Cathelicidin	2	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ196	Antibacterial peptide BMAP-27	GRFKRFRKKFKKLFKKLSPVIPLLHLG	2KET
+CAT5	Cathelicidin	2	Gallus gallus [Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ644	Cathelicidin	RVKRVWPLVIRTVIAGYNLYRAIKKK	2AMN
+CAT6	Cathelicidin	2	Gallus gallus [Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ968	Fowlicidin 3	RVKRFWPLVPVAINTVAAGINLYKAIRRK	2HFR
+CAT7	Cathelicidin	2	Gallus gallus [ Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ1054	Fowlicidin-2 , Myeloid antimicrobial peptide 27	LVQRGRFGRFLRKIRRFRPKVTITIQGSARFG	2GDL
+CAT8	Cathelicidin	2	Macaca mulatta [Rhesus macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ2270	Cationic antimicrobial protein	GDFFRKSKEKIGKEFKRIVQRIKDFLRN	2FBS, 2FCG, 2LMF
+CAT9	Cathelicidin	2	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2816	Human LL-23	LLGDFFRKSKEKIGKEFKRIVQR	2FBU,2K6O,2LMF
+CAT10	Cathelicidin	2	Macaca mulatta [Rhesus macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ780	RL-37	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	
+CAT11	Cathelicidin	2	Mus musculus [Mouse]	http://www.camp.bicnirrh.res.in/	CAMPSQ979	Cathelin-related antimicrobial peptide	ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	
+CAT12	Cathelicidin	2	Rattus norvegicus [Norway rat]	http://www.camp.bicnirrh.res.in/	CAMPSQ2784	RCRAMP	GLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ	
+CAT13	Cathelicidin	2	Cavia porcellus [Guinea pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ898	Neutrophil cationic antibacterial polypeptide of 11 kDa	GLRKKFRKTRKRIQKLGRKIGKTGRKVWKAWREYGQIPYPCRI	
+CAT14	Cathelicidin	2	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ687	Cathelicidin-5 , Antibacterial peptide BMAP-28 , Myeloid antibacterial peptide 28	GGLRSLGRKILRAWKKYGPIIVPIIRIG	
+CAT15	Cathelicidin	2	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ341	Antibacterial peptide BMAP-34 precursor	GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG	
+CAT16	Cathelicidin	2	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ197	Antibacterial peptide PMAP-23	RIIDLLWRVRRPQKPKFVTVWVR	
+CAT17	Cathelicidin	2	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ198	Antibacterial peptide PMAP-36	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	
+CAT18	Cathelicidin	2	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ199	Antibacterial peptide PMAP-37	GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS	
+CAT19	Cathelicidin	2	Felis catus [Cat]	http://www.camp.bicnirrh.res.in/	CAMPSQ3490	FeCath	QLGELIQQGGQKIVEKIQKIGQRIRDFFSNLRPRQEA	
+CAT20	Cathelicidin	2	Myxine glutinosa [Atlantic hagfish]	http://www.camp.bicnirrh.res.in/	CAMPSQ2847	HFIAP-3	GWFKKAWRKVKNAGRRVLKGVGIHYGVGLI	

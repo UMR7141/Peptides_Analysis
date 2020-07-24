@@ -1,0 +1,45 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+DER1	Dermaseptin	2	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ36	Dermaseptin-1, DShypo 01	GLWSTIKNVGKEAAIAAGKAALGAL	
+DER2	Dermaseptin	1	Phyllomedusa bicolor 	http://www.camp.bicnirrh.res.in/	CAMPSQ138	Dermatoxin	SLGSFLKGVGTTLASVGKVVSDQFGKLLQAGQ	
+DER3	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ139	Dermaseptin-B3 	ALWKNMLKGIGKLAGQAALGAVKTLVGA	
+DER4	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ140	Dermaseptin-B4 	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	
+DER5	Dermaseptin	1	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ141	Phylloxin	GWMSKIASGIGTFLSGMQQ	
+DER6	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ194	Dermaseptin B2 	AMWKDVLKKIGTVALHAGKAALGAVADTISQ	
+DER7	Dermaseptin	1	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ327	Dermaseptin-like PBN2	GLVTSLIKGAGKLLGGLFGSVTGGQS	
+DER8	Dermaseptin	1	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ328	PBN1 	FLSLIPHIVSGVAALAKHL	
+DER9	Dermaseptin	2	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ332	Dermaseptin-1 	ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ	
+DER10	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ389	Dermaseptin-B5 	GLWNKIKEAASKAAGKAALGFVNEMV	
+DER11	Dermaseptin	2	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ418	Dermadistinctin-K 	GLWSKIKAAGKEAAKAAAKAAGKAALNAVSEAV	2JX6,2K9B
+DER12	Dermaseptin	2	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ419	Dermadistinctin-L 	ALWKTLLKNVGKAAGKAALNAVTDMVNQ	
+DER13	Dermaseptin	2	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ420	Dermadistinctin-M 	ALWKTMLKKLGTMALHAGKAAFGAAADTISQ	
+DER14	Dermaseptin	2	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ421	Dermadistinctin-Q1 	ALWKNMLKGIGKLAGQAALGAVKTLVGAES	
+DER15	Dermaseptin	2	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ422	Dermadistinctin-Q2 	GLWSKIKEAAKTAGLMAMGFVNDMV	
+DER16	Dermaseptin	2	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ465	Dermaseptin-2 	ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ	
+DER17	Dermaseptin	2	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ466	Dermaseptin-3	ALWKNMLKGIGKLAGKAALGAVKKLVGAES	
+DER18	Dermaseptin	2	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ467	Dermaseptin-4 	ALWMTLLKKVLKAAAKALNAVLVGANA	2DCX,2DD6
+DER19	Dermaseptin	2	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ468	Dermaseptin-5	GLWSKIKTAGKSVAKAAAKAAVKAVTNAV	
+DER20	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ538	Adenoregulin 	GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV	
+DER21	Dermaseptin	1	Litoria fallax	http://www.camp.bicnirrh.res.in/	CAMPSQ838	Fallaxidin 4.1	GLLSFLPKVIGVIGHLIHPPS	
+DER22	Dermaseptin	2	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ850	Dermaseptin-3	ALWKTIIKGAGKMIGSLAKNLLGSQAQPES	
+DER23	Dermaseptin	2	Phyllomedusa azurea 	http://www.camp.bicnirrh.res.in/	CAMPSQ1059	Dermaseptin-H5	GLWSTIKNVGKEAAIAAGKAVLGSL	
+DER24	Dermaseptin	2	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ1885	Dermaseptin-5	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	
+DER25	Dermaseptin	1	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2878	  Dermaseptin-S9 	GLRSKIWLWVLLMIWQESNKFKKM	
+DER26	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2957	  Dermaseptin-S6	GLWSKIKTAGKEAAKAAAKAAGKAALNAVSEAI	
+DER27	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2958	  Dermaseptin-S7	GLWKSLLKNVGKAAGKAALNAVTDMVNQ	
+DER28	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2959	  Dermaseptin-S8	ALWKTMLKKLGTVALHAGKAALGAAADTISQ	
+DER29	Dermaseptin	1	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ2961	Plasticin-B1a	GLVTSLIKGAGKLLGGLFGSVTG	
+DER30	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2962	Dermaseptin-S11	ALWKTLLKGAGKVFGHVAKQFLGSQGQPES	
+DER31	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2963	Dermaseptin-S12	GLWSKIKEAAKTAGKMAMGFVNDMV	
+DER32	Dermaseptin	2	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2964	Dermaseptin-S13	GLRSKIKEAAKTAGKMALGFVNDMA	
+DER33	Dermaseptin	2	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ2965	  Dermaseptin H2	ALWKSLLKNVGVAAGKAALNAVTDMVNQ	
+DER34	Dermaseptin	2	Hylomantis lemur	http://www.camp.bicnirrh.res.in/	CAMPSQ2968	  Dermaseptin-L1 	GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS	
+DER35	Dermaseptin	2	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ3184	  Dermaseptin H4 	GLWSTIKNVGKEAAIAAGKAALGALGEQ	
+DER36	Dermaseptin	2	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ3185	  Dermaseptin H5 	GLWSTIKNVGKEAAIAAGKAVLGSLGEQ	
+DER37	Dermaseptin	2	Pachymedusa dacnicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ3326	Dermaseptin DA4	GMWSKIKNAGKAAKAAAKAAGKAALGAVSEAM	
+DER38	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3879	Dermaseptin-7 	ALWKDVLKKIGTVALHAGKAALGAVADTISQ	
+DER39	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3880	Dermaseptin-8 	SLRGFLKGVGTALAGVGKVVADQFDKLLQAGQ	
+DER40	Dermaseptin	2	Schistosoma mansoni 	http://www.camp.bicnirrh.res.in/	CAMPSQ3944	Dermaseptin-like peptide 	DLWNSIKDMAAAAGRAALNAVTGMVNQ	
+DER41	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3945	Dermaseptin-3 	GLFKTLIKGAGKMLGHVAKQFLGSQGQPES	
+DER42	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3946	Dermaseptin-5 	GLWSKIKEAAKTAGKAAMGFVNEMV	
+DER43	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3951	Dermaseptin-4 	ALWKDILKNAGKAALNEINQIVQ	
+DER44	Dermaseptin	2	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ4507	Dermaseptin-1	GLWSKIKETGKEAAKAAGKAALNKIAEAV	

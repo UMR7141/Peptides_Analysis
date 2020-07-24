@@ -1,0 +1,222 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+CER34	Cecropin	1.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2594	Cecropin-P4	WLSKTYKKLENSAKKRISEGVAIAILGGLR	
+CER37	Cecropin	1.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3311	  Cecropin P4 	SWLSKTYKKLENSAKKRISEGVAIAILGGLR	
+DER2	Dermaseptin	1.0	Phyllomedusa bicolor 	http://www.camp.bicnirrh.res.in/	CAMPSQ138	Dermatoxin	SLGSFLKGVGTTLASVGKVVSDQFGKLLQAGQ	
+DER5	Dermaseptin	1.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ141	Phylloxin	GWMSKIASGIGTFLSGMQQ	
+DER7	Dermaseptin	1.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ327	Dermaseptin-like PBN2	GLVTSLIKGAGKLLGGLFGSVTGGQS	
+DER8	Dermaseptin	1.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ328	PBN1 	FLSLIPHIVSGVAALAKHL	
+DER21	Dermaseptin	1.0	Litoria fallax	http://www.camp.bicnirrh.res.in/	CAMPSQ838	Fallaxidin 4.1	GLLSFLPKVIGVIGHLIHPPS	
+DER25	Dermaseptin	1.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2878	  Dermaseptin-S9 	GLRSKIWLWVLLMIWQESNKFKKM	
+DER29	Dermaseptin	1.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ2961	Plasticin-B1a	GLVTSLIKGAGKLLGGLFGSVTG	
+MAX2	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3465	Maximin 68	GIGGALLSAGKAALKGLAKVLV	
+MAX7	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3468	Maximin 78	GIGGALLSVGKLALKGLANVLADKFAN	
+MAX12	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3464	Maximin 63	GIGGVLLGAGKATLKGLAKVLAEKYAN	
+MAX13	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ261	Maximin 4	GIGGVLLSAGKAALKGLAKVLAEKYAN	2MHW
+MAX14	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3463	Maximin 49	GIGGVLLSAGKAALKGLTKVLAEKYAN	
+MAX29	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ257	Maximin H1	ILGPVISTIGGVLGGLLKNL	
+MAX30	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ260	Maximin H2	ILGPVLSMVGSALGGLIKKI	
+MAX31	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ262	Maximin H3	ILGPVLGLVGNALGGLIKKI	
+MAX32	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ685	Maximin H4	ILGPVISKIGGVLGGLLKNL	
+MAX33	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1068	Maximin H5	ILGPVLGLVSDTLDDVLGIL	
+MAX34	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1312	Maximin Hu	ILGPVLSLVGNALGGLLKNE	
+MAX35	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ2719	Maximin Ht	ILGPVLGLVGNALGGLIKNE	
+MAX36	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1749	Maximin H8	ILGPVLGLVSNALGGLLKNI	
+MAX37	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1750	Maximin H9	ILGPVLGLVSNALGGLIKKI	
+MAX38	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1321	Maximin H11	ILGPVLGLVGSALGGLIKKI	
+MAX39	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1316	Maximin H12	LLGPVLGLVSNALGGLLKNI	
+MAX40	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1751	Maximin-H14	ILGPVLGLVGEPLGGLIKKI	
+MAX41	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1753	Maximin-H15	ILGPVLGLVGNALGGLLKNL	
+MAX42	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1322	Maximin-H16	ILGPVLSLVGNALGGLIKKI	
+MAX43	Maximin	1.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3462	Maximin H39	ILGPVLGLVGNALGGLIKKL	
+BAC6	Bacteriocin IIa	1.0		BACTIBASE	BAC065 	 curvacin-A	ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM	
+BAC7	Bacteriocin IIa	1.0		BACTIBASE	BAC067 	 bavaricin-MN	TKYYGNGVYCNSKKCWVDWGQAAGGIGQTVVGWLGGAIPGK	
+BAC8	Bacteriocin IIa	1.0		BACTIBASE	BAC069 	 carnobacteriocin BM1 (Carnobacteriocin B1)	AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH	
+BAC12	Bacteriocin IIa	1.0		BACTIBASE	BAC077 	 Divercin V41	TKYYGNGVYCNSKKCWVDWGQASGCIGQTVVGGWLGGAIPGKC	
+BAC36	Bacteriocin IIa	1.0		Drider and Rebuffat(2011)		Divergicin V41 	KYYGNGVYCNSKKCWVDWGQAHGCIGQTVVGGWLGGAIPGKC	
+BAC41	Bacteriocin IIa	1.0		Drider and Rebuffat(2011)		Curvicin A	ARSYGNGVYCNNKKCWVNRGEATCSIIGGMISGWASGLAGM	
+BAC42	Bacteriocin IIa	1.0		Drider and Rebuffat(2011)		Carnobacteriocin BM1 	AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAQMGH	
+MAS9	Mastoparan	1.0	Eumenes fraterculus [Solitary wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ4581	Eumenine mastoparan-EF	FDVMGIIKKIAGAL	
+MAS10	Mastoparan	1.0	Eumenes rubrofemoratus [Solitary wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ4582	Eumenine mastoparan-ER	FDIMGLIKKVAGAL	
+MAS16	Mastoparan	1.0	Agelaia pallipes [Neotropical social wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ558	Protonectin	ILGTILGLLKGL	
+PLE11	Pleurocidin	1.0	Hippoglossus hippoglossus [Atlantic halibut]	http://www.camp.bicnirrh.res.in/	CAMPSQ359	Pleurocidin-like peptide Hb26	FLGLLFHGVHHVGKWIHGLIHGHH	
+PLE12	Pleurocidin	1.0	Hippoglossus hippoglossus [Atlantic halibut]	http://www.camp.bicnirrh.res.in/	CAMPSQ360	Pleurocidin-like peptide Hb18	GFLGILFHGVHHGRKKALQMNSERRS	
+PLE13	Pleurocidin	1.0	Epinephelus coioides [Orange-spotted grouper]	http://www.camp.bicnirrh.res.in/	CAMPSQ366	Epinecidin-1	FIFHIIKGLFHAGKMIHGLVTRRRH	
+PLE20	Pleurocidin	1.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ861	Winter flounder 1	GKGRWLERIGKAGGIIIGGALDHL	
+PLE23	Pleurocidin	1.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ864	Winter flounder 3	FLGALIKGAIHGGRFIHGMIQNHH	
+PLE28	Pleurocidin	1.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ869	Witch flounder GcSc4B7	GFWGKLFKLGLHGIGLLHLHL	
+PLE30	Pleurocidin	1.0	Halibut	http://www.camp.bicnirrh.res.in/	CAMPSQ871	Halibut Hb18	GFLGILFHGVHHGRKKALHMNSERRS	
+RAN5	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ424	Ranatuerin-1	SMLSVLKNLGKVGLGFVACKINKQC	
+RAN8	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ427	Ranatuerin-4	FLPFIARLAAKVFPSIICSVTKKC	
+RAN9	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ428	Ranatuerin-5	FLPIASLLGKYL	
+RAN10	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ429	Ranatuerin-6	FISAIASMLGKFL	
+RAN11	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ430	Ranatuerin-7	FLSAIASMLGKFL	
+RAN12	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ431	Ranatuerin-8	FISAIASFLGKFL	
+RAN13	Ranatuerin	1.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ432	Ranatuerin-9	FLFPLITSFLSKVL	
+RAN17	Ranatuerin	1.0	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ436	Ranatuerin-1C	SMLSVLKNLGKVGLGLVACKINKQC	
+RAN31	Ranatuerin	1.0	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2905	Ranatuerin-1Ga	SMISVLKNLGKVGLGFVACKVNKQC	
+RAN32	Ranatuerin	1.0	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2906	Ranalexin-1G	FLGGLMKIIPAAFCAVTKKC	
+B2R36	Brevinin-2	1.0	Rana schmackeri [Schmacker's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2932	Brevinin-2HS3	SILGTVKDLLIGAGKSAALSVLKGLSCKLSKDC	
+B2R42	Brevinin-2	1.0	Hylarana erythraea [Green paddy frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3327	B2RP-ERa	GVIKSVLKGVAKTVALGML	
+B2R71	Brevinin-2	1.0	Rana chensinensis [Chinese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3625	Brevinin-2CE	FTSKKSMLLFFFLGTISLSLCQ	
+AUR1	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ227	Aurein-1.1	GLFDIIKKIAESI	
+AUR2	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ576	Aurein-2.1	GLLDIVKKVVGAFGSL	
+AUR3	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ578	Aurein-2.5	GLFDIVKKVVGAFGSL	
+AUR4	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ580	Aurein-3.1	GLFDIVKKIAGHIAGSI	
+AUR5	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ584	Aurein-5.2	GLMSSIGKALGGLIVDVLKPKTPAS	
+AUR10	Aurein	1.0	Litoria aurea [ Green and golden bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2706	Aurein 2.4	GLFDIVKKVVGTLAGL	
+AUR11	Aurein	1.0	Litoria aurea [Green and golden bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ229	Aurein-2.2	FDIVKKVVGALGSL	
+AUR12	Aurein	1.0	Litoria aurea [Green and golden bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ230	Aurein-2.3	GLFDIVKKVVGAIGSL	
+AUR13	Aurein	1.0	Litoria aurea [Green and golden bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ231	Aurein-2.4	FDIVKKVVGTIAGL	
+AUR14	Aurein	1.0	Litoria raniformis [Southern bell frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ232	Aurein-2.6	GLFDIAKKVIGVIGSL	
+AUR15	Aurein	1.0	Litoria dahlii [Dahl aquatic frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ522	Dahlein-1.2	GLFDIIKNIFSGL	
+AUR16	Aurein	1.0	Litoria dahlii [Dahl aquatic frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ523	Dahlein-1.1	GLFDIIKNIVSTL	
+CAE1	Caerin	1.0	Litoria splendida [magnificent tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ29	Caerin-1.10	GLLSVLGSVAKHVLPHVVPVIAEKL	
+CAE2	Caerin	1.0	Litoria gracilenta [Dainty green tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ92	Caerin-1.17	GLFSVLGSVAKHLLPHVAPIIAEKL	
+CAE3	Caerin	1.0	Litoria gracilenta [Dainty green tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ93	Caerin-1.18	GLFSVLGSVAKHLLPHVVPVIAEKL	
+CAE4	Caerin	1.0	Litoria gracilenta [Dainty green tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ94	Caerin-1.19	GLFKVLGSVAKHLLPHVAPIIAEKL	
+CAE5	Caerin	1.0	Litoria chloris [Blue-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ383	Caerin-1.8	GLFKVLGSVAKHLLPHVVPVIAEK	
+CAE6	Caerin	1.0	Litoria chloris [Blue-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ384	Caerin-1.9	GLFGVLGSIAKHVLPHVVPVIAEKL	
+CAE7	Caerin	1.0	Litoria xanthomera [Orange-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ492	Caerin-1.6	GLFSVLGAVAKHVLPHVVPVIAEKL	
+CAE8	Caerin	1.0	Litoria xanthomera [Orange-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ493	Caerin-1.7	GLFKVLGSVAKHLLPHVAPVIAEKL	
+CAE9	Caerin	1.0	Litoria splendida [magnificent tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ494	Caerin-1.1	GLLSVLGSVAKHVLPHVVPVIAEHL	
+CAE10	Caerin	1.0	Litoria chloris [Blue-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ718	Caerin-1.7	GLFKVLGSVAKHLLPHVAPVIAEK	
+CAE11	Caerin	1.0	Litoria chloris [Blue-thighed frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ719	Caerin-1.6	GLFSVLGAVAKHVLPHVVPVIAEK	
+CAE12	Caerin	1.0	Litoria caerulea [Green tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ796	Caerin 1.11	GLFSVLGSVAKHVVPRVVPVIAEHLG	
+CAE13	Caerin	1.0	Litoria eucnemis [Fringed tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2879	Caerin 1.11	GLLGAMFKVASKVLPHVVPAITEHF	
+CAE14	Caerin	1.0	Hybrid between female Litoria splendida and male Litoria	http://www.camp.bicnirrh.res.in/	CAMPSQ3689	Caerin 1.20	GLFGILGSVAKHVLPHVIPVVAEHL	
+GAE4	Gaegurin	1.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ72	Gaegurin-6	FLPLLAGLAANFLPTIICKISYKC	
+GAE6	Gaegurin	1.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ283	Gaegurin-5	FLGALFKVASKVLPSVFCAITKKC	
+GAE7	Gaegurin	1.0	Rana nigrovittata [Black-striped frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3646	Gaegurin-RN1	FIGPVLKIAAGILPTAICKIFKKC	
+GAE8	Gaegurin	1.0	Rana nigrovittata [Black-striped frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3647	Gaegurin-RN4	FVGPVLKIAAGILPTAICKIYKKC	
+GAE9	Gaegurin	1.0	Rana nigrovittata [Black-striped frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3648	Gaegurin-RN5	FLGPIIKIATGILPTAICKFLKKC	
+GAE10	Gaegurin	1.0	Limnonectes kuhlii [Kuhl's wart frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3763	Gaegurin-LK1	FIGPVLKMATSILPTAICKGFKKC	
+GAE11	Gaegurin	1.0	Limnonectes kuhlii [Kuhl's wart frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3764	Gaegurin-LK2	FLGPIIKMATGILPTAICKGLKKC	
+HIS1	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ103	Histatin-3	DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN	
+HIS2	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2891	Human histatin 9	RKFHEKHHSHRGYR	
+HIS3	Histatin	1.0	Macaca fascicularis [Crab-eating macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ3337	Mfa-hst5	DSHEERRQGRHGHHEYGRKFHEKHHSHRGY	
+HIS4	Histatin	1.0	Nomascus leucogenys [Northern white-cheeked gibbon]	http://www.camp.bicnirrh.res.in/	CAMPSQ3338	Hcl-hst5	DSHEKRHHEHRRKFHEKHHSHRGY	
+HIS5	Histatin	1.0	Macaca fascicularis [Crab-eating macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ469	Histatin-1	DSHEERHHGRHGHHKYGRKFHEKHHSHRGYRSNYLYDN	
+HIS6	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ738	Histatin-1	DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN	
+HIS7	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ899	Histatin-5	DSHAKRHHGYKRKFHEKHHSHRGY	
+HIS8	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2790	Human Histatin 8	KFHEKHHSHRGY	
+HIS9	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2887	Human Histatin 2	RKFHEKHHSHREFPFYGDYGSNYLYDN	
+HIS10	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2888	Human Histatin 4	RKFHEKHHSHRGYRSNYLYDN	
+HIS11	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2889	Human Histatin 6	DSHAKRHHGYKRKFHEKHHSHRGYR	
+HIS12	Histatin	1.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2890	Human Histatin 7	RKFHEKHHSHRGY	
+PHY1	Phylloseptin	1.0	Phyllomedusa azurea [Orange-legged monkey frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ5	Phylloseptin 12	FLSLLPSIVSGAVSLAKKLG	
+PHY2	Phylloseptin	1.0	Phyllomedusa hypochondrialis [orange-legged leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ154	Phylloseptin-7	FLSLIPHAINAVSAIAKHFG	
+PHY3	Phylloseptin	1.0	Phyllomedusa hypochondrialis [orange-legged leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ588	Phylloseptin-1	FLSLIPHAINAVSAIAKHN	2JQ0
+PHY4	Phylloseptin	1.0	Phyllomedusa oreades [Orange-legged leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ589	Phylloseptin-4	FLSLIPHAINAVSTLVHHSG	
+PHY5	Phylloseptin	1.0	Phyllomedusa oreades [Orange-legged leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ590	Phylloseptin-5	FLSLIPHAINAVSAIAKHS	
+PHY6	Phylloseptin	1.0	Phyllomedusa sauvagii [Sauvage leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2671	Phylloseptin-1 precursor	LSLIPHIVSGVASIAKHF	
+PHY7	Phylloseptin	1.0	Phyllomedusa hypochondrialis [Brazilian tree-frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2877	Phylloseptin-H5	FLSLIPHAINAVSAIAKHF	
+PHY8	Phylloseptin	1.0	Hylomantis lemur, Agalychnis callidryas [Lemur leaf frog, Red-eyed tree frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2971	Phylloseptin-L1	LLGMIPLAISAISALSKL	
+PHY9	Phylloseptin	1.0	Phyllomedusa hypochondrialis [Orange-legged leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3183	Phylloseptin 12, Phylloseptin-H10	FLSLLPSIVSGAVSLAKKL	
+PHY10	Phylloseptin	1.0	Scylla Phyllomedusa sauvagei [Sauvage's leaf frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3350	Phylloseptin-1	FLSLIPHIVSGVASIAKHF	
+B1R1	Brevinin-1	1.0	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ88	Brevinin-1SE	FLPLVRGAAKLIPSVVCAISKRC	
+B1R2	Brevinin-1	1.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ180	Brevinin-1DYa	FLSLALAALPKFLCLVFKKC	
+B1R3	Brevinin-1	1.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ181	Brevinin-1DYb	FLSLALAALPKLFCLIFKKC	
+B1R4	Brevinin-1	1.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ182	Brevinin-1DYc	FLPLLLAGLPKLLCLFFKKC	
+B1R5	Brevinin-1	1.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ330	Brevinin-1Pb precursor	FLPIIAGIAAKVFPKIFCAISKKC	
+B1R6	Brevinin-1	1.0	Rana sphenocephala [Southern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ361	Brevinin-1Sa	FLPAIVGAAGQFLPKIFCAISKKC	
+B1R7	Brevinin-1	1.0	Rana sphenocephala [Southern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ362	Brevinin-1Sb	FLPAIVGAAGKFLPKIFCAISKKC	
+B1R8	Brevinin-1	1.0	Rana sphenocephala [Southern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ363	Brevinin-1Sc	FFPIVAGVAGQVLKKIYCTISKKC	
+B1R9	Brevinin-1	1.0	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ398	Brevinin-1T	VNPIILGVLPKFVCLITKKC	
+B1R10	Brevinin-1	1.0	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ399	Brevinin-1Ta	FITLLLRKFICSITKKC	
+B1R11	Brevinin-1	1.0	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ402	Brevinin-1La	FLPMLAGLAASMVPKLVCLITKKC	
+B1R12	Brevinin-1	1.0	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ403	Brevinin-1Lb	FLPMLAGLAASMVPKFVCLITKKC	
+B1R13	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ404	Brevinin-1Ba	FLPFIAGMAAKFLPKIFCAISKKC	
+B1R14	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ405	Brevinin-1Bb	FLPAIAGMAAKFLPKIFCAISKKC	
+B1R15	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ406	Brevinin-1Bc	FLPFIAGVAAKFLPKIFCAISKKC	
+B1R16	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ407	Brevinin-1Bd	FLPAIAGVAAKFLPKIFCAISKKC	
+B1R17	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ408	Brevinin-1Be	FLPAIVGAAAKFLPKIFCVISKKC	
+B1R18	Brevinin-1	1.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ409	Brevinin-1Bf	FLPFIAGMAANFLPKIFCAISKKC	
+B1R19	Brevinin-1	1.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ410	Brevinin-1Pa	FLPIIAGVAAKVFPKIFCAISKKC	
+B1R20	Brevinin-1	1.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ411	Brevinin-1Pc	FLPIIASVAAKVFSKIFCAISKKC	
+B1R21	Brevinin-1	1.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ412	Brevinin-1Pd	FLPIIASVAANVFSKIFCAISKKC	
+B1R22	Brevinin-1	1.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ413	Brevinin-1Pe	FLPIIASVAAKVFPKIFCAISKKC	
+B1R23	Brevinin-1	1.0	Rana sylvatica [Wood frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ414	Brevinin-1S	FLPVVAGLAAKVLPSIICAVTKKC	
+B1R24	Brevinin-1	1.0	Rana porosa brevipoda [Japanese frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ453	Brevinin-1	FLPVLAGIAAKVVPALFCKITKKC	
+B1R25	Brevinin-1	1.0	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ499	Brevinin-1BYa	FLPILASLAAKFGPKLFCLVTKKC	6G4I,6G4U,6G4K,6G4V,6R95,6G4X,6R96
+B1R26	Brevinin-1	1.0	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ500	Brevinin-1BYb	FLPILASLAAKLGPKLFCLVTKKC	
+B1R27	Brevinin-1	1.0	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ501	Brevinin-1BYc	FLPILASLAATLGPKLLCLITKKC	
+B1R28	Brevinin-1	1.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ596	Brevinin-1Ea	FLPAIFRMAAKVVPTIICSITKKC	
+B1R29	Brevinin-1	1.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ597	Brevinin-1Eb	VIPFVASVAAEMMPHVYCAASRKC	
+B1R30	Brevinin-1	1.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ598	Brevinin-1E	FLPLLAGLAANFLPKIFCKITRKC	
+B1R31	Brevinin-1	1.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ660	Brevinin-1Ec	FLPLLAGLAANFFPKIFCKITRKC	
+B1R32	Brevinin-1	1.0	Rana sakuraii [Japanese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ661	Brevinin-1SKa	FLPVILPVIGKLLNGIL	
+B1R33	Brevinin-1	1.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ690	Brevinin-1DYe , Dybowskin-2	FLIGMTQGLICLITRKC	
+B1R34	Brevinin-1	1.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ691	Brevinin-1DYd , Dybowskin-1	FLIGMTHGLICLISRKC	
+B1R35	Brevinin-1	1.0	Rana grahami [Yunnanfu frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ993	Brevinin -1 Gra	FLPLLAGLAANFLPKIFCKITKKC	
+B1R36	Brevinin-1	1.0	Rana cascadae	http://www.camp.bicnirrh.res.in/	CAMPSQ997	Brevinin-1CSa	FLPILAGLAAKIVPKLFCLATKKC	
+B1R37	Brevinin-1	1.0	Rana tsushimensis	http://www.camp.bicnirrh.res.in/	CAMPSQ1009	Brevinin-1TSa	FLGSIVGALASALPSLISKIRN	
+B1R38	Brevinin-1	1.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1085	Brevinin-1PTa	FMGGLIKAATKIVPAAYCAITKKC	
+B1R39	Brevinin-1	1.0	Rana hosii [Hose rock frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1086	Brevinin-1HSb	FLPAVLRVAAQVVPTVFCAISKKC	
+B1R40	Brevinin-1	1.0	Rana hosii [Hose rock frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1087	Brevinin-1HSa	FLPAVLRVAAKIVPTVFCAISKKC	
+B1R41	Brevinin-1	1.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1815	Brevinin-1PTb	FMGGLIKAATKALPAAFCAITKKC	
+B1R42	Brevinin-1	1.0	Odorrana hainanensis	http://www.camp.bicnirrh.res.in/	CAMPSQ2322	Brevinin-1HN1 antimicrobial peptide precursor, Brevinin-1HN1_2 antimicrobial peptide precursor	LPLIASLAANFVPKIFCKITKKC	
+B1R43	Brevinin-1	1.0	Rana dybowskii [Dybowski frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2578	Brevinin-1CDYa	LSLALAALPKLFCLIFKKC	
+B1R44	Brevinin-1	1.0	Odorrana hainanensis	http://www.camp.bicnirrh.res.in/	CAMPSQ2609	Brevinin-1V	LPLIASVAANLVPKIFCKITKKC	
+B1R45	Brevinin-1	1.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2824	Brevinin-1PLb	FLPLIAGLAANFLPKIFCAITKKC	
+B1R46	Brevinin-1	1.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2825	Brevinin-1PLc	FLPVIAGVAAKFLPKIFCAITKKC	
+B1R47	Brevinin-1	1.0	Rana schmackeri [Schmacker's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2933	Brevinin-1HS2	FLPLIASVAANLAPKIICKITKTC	
+B1R48	Brevinin-1	1.0	Hylarana latouchii [Broad-folded frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3178	Brevinin-1LTa	FFGTALKIAANVLPTAICKILKKC	
+B1R49	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3225	Brevinin-1BLa	FLPAIVGAAAKFLPKIFCAISKKC	
+B1R50	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3226	Brevinin-1BLb	FLPIIAGVAAKVLPKIFCAISKKC	
+B1R51	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3227	Brevinin-1BLc	FLPIIAGIAAKFLPKIFCTISKKC	
+B1R52	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3228	Brevinin-1Ya	FLPVIAGVAANFLPKLFCAISKKC	
+B1R53	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3229	Brevinin-1Yb	FLPIIAGAAAKVVQKIFCAISKKC	
+B1R54	Brevinin-1	1.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3230	Brevinin-1Yc	FLPIIAGAAAKVVEKIFCAISKKC	
+B1R55	Brevinin-1	1.0	Rana aurora aurora [Northern red-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3233	Brevinin-1AUa	FLPILAGLAAKLVPKVFCSITKKC	
+B1R56	Brevinin-1	1.0	Rana aurora aurora [Northern red-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3234	Brevinin-1AUb	FLPILAGLAANILPKVFCSITKKC	
+B1R57	Brevinin-1	1.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3235	Brevinin-1SPb	FLPIIAGMAAKVICAITKKC	
+B1R58	Brevinin-1	1.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3236	Brevinin-1SPd	FFPIIAGMAAKVICAITKKC	
+B1R59	Brevinin-1	1.0	Hylarana latouchii [Broad-folded frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3240	Brevinin-1LT1	FMGSALRIAAKVLPAALCQIFKKC	
+B1R60	Brevinin-1	1.0	Hylarana latouchii [Broad-folded frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3241	Brevinin-1LT2	FFGSVLKVAAKVLPAALCQIFKKC	
+B1R61	Brevinin-1	1.0	Rana chensinensis [Chinese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3245	Brevinin-1CDYa	LLSLALAALPKLFCLIFKKC	
+B1R62	Brevinin-1	1.0	Rana esculenta [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3407	Brevinin-1Ed	VIPFVASVAAEMMHHVYCAASKRC	
+B1R63	Brevinin-1	1.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3446	Brevinin-1PRa	FLPVLTGLTPSIVPKLVCLLTKKC	
+B1R64	Brevinin-1	1.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3447	Brevinin-1PRb	FLPVLAGLTPSIVPKLVCLLTKKC	
+B1R65	Brevinin-1	1.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3448	Brevinin-1PRc	FFPMLAGVAARVVPKVICLITKKC	
+B1R66	Brevinin-1	1.0	Rana dalmatina [Agile frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3493	Brevinin-1Da	ILPLLLGKVVCAITKKC	
+B1R67	Brevinin-1	1.0	Odorrana ishikawae [Ishikawa's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3503	Brevinin-1ISa	FLPGVLRLVTKVGPAVVCAITRNC	
+B1R68	Brevinin-1	1.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3531	Brevinin-1-OA1	VIVFVASVAAEMMQHVYCAASKKC	
+B1R69	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3533	Brevinin-1-OR3	IDPFVAGVAAEMMQHVYCAASKKC	
+B1R70	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3534	Brevinin-1-OR4	INPFVAGVAAEMMQHVYCAASKKC	
+B1R71	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3535	Brevinin-1-OR5	ILPFVAGVAAEMMKHVYCAASKKC	
+B1R72	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3536	Brevinin-1-OR6	IIPFVAGVAAEMMEHVYCAASKKC	
+B1R73	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3537	Brevinin-1-OR7	QLPFVAGVACEMCQCVYCAASKKC	
+B1R74	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3538	Brevinin-1-OR8	ILPFVAGVAAEMMEHVYCAASKKC	
+B1R75	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3539	Brevinin-1-OR9	ILPFVAGVAAMEMEHVYCAASKKC	
+B1R76	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3540	Brevinin-1-OR10	FLPAVLLVATHVLPTVFCAITRKC	
+B1R77	Brevinin-1	1.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3541	Brevinin-1-OR11	LAFVAGVAAEMMQHVYCAASKKC	
+B1R78	Brevinin-1	1.0	Amolops ricketti [Chinese sucker frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3600	Brevinin-1RTa	FLPLLAGVVANFLPQIICKIARKC	
+B1R79	Brevinin-1	1.0	Amolops ricketti [Chinese sucker frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3601	Brevinin-1RTb	FLGSLLGLVGKVVPTLFCKISKKC	
+B1R80	Brevinin-1	1.0	Odorrana hainanensis [Odor frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3662	Brevinin-1HN1	FLPLIASLAANFVPKIFCKITKKC	
+B1R81	Brevinin-1	1.0	Amolops chunganensis [Chungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3719	Brevinin-1CG1	FLSTALKVAANVVPTLFCKITKKC	
+B1R82	Brevinin-1	1.0	Amolops chunganensis [Chungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3720	Brevinin-1CG2	FLPIVAGLAANFLPKIVCKITKKC	
+B1R83	Brevinin-1	1.0	Amolops chunganensis [Chungan torrent frogChungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3721	Brevinin-1CG3	FLSTLLNVASNVVPTLICKITKKC	
+B1R84	Brevinin-1	1.0	Amolops chunganensis [Chungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3722	Brevinin-1CG4	FLSTLLNVASKVVPTLFCKITKKC	
+B1R85	Brevinin-1	1.0	Amolops chunganensis [Chungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3723	Brevinin-1CG5	FLPMLAGLAANFLPKIVCKITKKC	
+B1R86	Brevinin-1	1.0	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3770	Brevinin-1CHa	FLPIIAGVAAKVLPKLFCAITKKC	
+B1R87	Brevinin-1	1.0	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3771	Brevinin-1CHc	FFPTIAGLTKLFCAITKKC	
+B1R88	Brevinin-1	1.0	Rana temporaria	http://www.camp.bicnirrh.res.in/	CAMPSQ3811	Brevinin 1Tb	LVPLFLSKLICFITKKC	
+B1R89	Brevinin-1	1.0	Amolops jingdongensis [Chinese torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4041	Brevinin-1-AJ1 antimicrobial peptide precursor	FLSTLLKVAFKVVPTLFCPITKKC	
+B1R90	Brevinin-1	1.0	Odorrana jingdongensis [Jingdong frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4142	Brevinin-1JDc	FLPAVLRVAAKVVPTVFCLISKKC	
+B1R91	Brevinin-1	1.0	Odorrana jingdongensis [Jingdong frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4143	Brevinin-1JDa	FLPAVIRVAANVLPTVFCAISKKC	
+B1R92	Brevinin-1	1.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4336	Brevinin-1SPa	FFPIIAGMAAKLIPSLFCKITKKC	
+B1R93	Brevinin-1	1.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4337	Brevinin-1SPb	FLPIIAGMAAKVIPSLFCAITKKC	
+B1R94	Brevinin-1	1.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ4338	Brevinin-1SPd	FLPIIASVAAKLIPSIVCRITKKC	
+B1R95	Brevinin-1	1.0	Rana japonica [Japanese reddish frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2928	Brevinin-1Ja	FLGSLIGAAIPAIKQLLGLKK	
+BOM5	Bombinin	1.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ648	Bombinin-H1/H3	IIGPVLGMVGSALGGLLKKIG	
+BOM6	Bombinin	1.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ649	Bombinin-H4	LIGPVLGLVGSALGGLLKKIG	
+BOM7	Bombinin	1.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ650	Bombinin-H5	IIGPVLGLVGSALGGLLKKI	2AP7,2AP8
+BOM8	Bombinin	1.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ2717	Bombinin H1  	IIGPVLGMVGSALGGLLKKI	
+BOM9	Bombinin	1.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ2718	Bombinin H4  	LIGPVLGLVGSALGGLLKKI	
+MEL1	Melittin	1.0	Apis mellifera	http://www.camp.bicnirrh.res.in/	CAMPSQ1142	Melittin	GIGAVLKVLTTGLPALISWIKRKRQQ	
+CLA1	Clavanin	1.0	Styela clava	http://www.camp.bicnirrh.res.in/	CAMPSQ346	Clavanin-A	VFQFLGKIIHHVGNFVHGFSHVF	6C41
+CLA2	Clavanin	1.0	Styela clava	http://www.camp.bicnirrh.res.in/	CAMPSQ347	Clavanin-C	VFHLLGKIIHHVGNFVYGFSHVF	
+CLA3	Clavanin	1.0	Styela clava	http://www.camp.bicnirrh.res.in/	CAMPSQ348	Clavanin-B	VFQFLGRIIHHVGNFVHGFSHVF	
+CLA5	Clavanin	1.0	Styela clava	http://www.camp.bicnirrh.res.in/	CAMPSQ572	Clavaspirin	FLRFIGSVIHGIGHLVHHIGVAL	
+UP2	Uperin	1.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ639	Uperin-4.1	GVGSFIHKVVSAIKNVA	
+PAR1	Pardaxin	1.0	Pardachirus marmoratus [Finless sole]	http://www.camp.bicnirrh.res.in/	CAMPSQ1659	Pardaxin Pa4	GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE	
