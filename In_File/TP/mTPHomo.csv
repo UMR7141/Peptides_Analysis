@@ -1,0 +1,73 @@
+Index	Accession number	Name	Peptide
+mTPHOM1	P49411	Elongation factor Tu, mitochondrial (EF-Tu) (P43)	MAAATLLRATPHFSGLAAGRTFLLQGLLRLLKAPALPLLCRGL
+mTPHOM2	P30084	Enoyl-CoA hydratase, mitochondrial (EC 4.2.1.17) (Enoyl-CoA hydratase 1) (Short-chain enoyl-CoA hydratase) (SCEH)	MAALRVLLSCVRGPLRPPVRCPAWRPF
+mTPHOM3	P38646	Stress-70 protein, mitochondrial (75 kDa glucose-regulated protein) (GRP-75) (Heat shock 70 kDa protein 9) (Mortalin) (MOT) (Peptide-binding protein 74) (PBP74)	MISASRAAAARLVGAAASRGPTAARHQDSWNGLSHEAFRLVSRRDY
+mTPHOM4	P55084	Trifunctional enzyme subunit beta, mitochondrial (TP-beta) [Includes: 3-ketoacyl-CoA thiolase (EC 2.3.1.16) (Acetyl-CoA acyltransferase) (Beta-ketothiolase)]	MTILTYPFKNLPTASKWALRFSIRPLSCSSQLR
+mTPHOM5	Q96E29	Transcription termination factor 3, mitochondrial (Mitochondrial transcription termination factor 3) (mTERF3) (mTERF domain-containing protein 1, mitochondrial)	MALSAQQIPRWFNSVKLRSLINAAQLTKRFTRPARTLLHGFSAQPQISSDNCFLQWGFKTYRTSSLWN
+mTPHOM6	Q7Z6M4	Transcription termination factor 4, mitochondrial (Mitochondrial transcription termination factor 4) (mTERF domain-containing protein 2) [Cleaved into: mTERF domain-containing protein 2 processed]	MAAFGRQVLDWHRLIPLTWACMARQTPHLGEQRRTTASLLRK
+mTPHOM7	Q9H2U2	Inorganic pyrophosphatase 2, mitochondrial (EC 3.6.1.1) (Pyrophosphatase SID6-306) (Pyrophosphate phospho-hydrolase 2) (PPase 2)	MSALLRLLRTGAPAAACLRLGTSAGTGSRRAM
+mTPHOM8	P26440	Isovaleryl-CoA dehydrogenase, mitochondrial (IVD) (EC 1.3.8.4)	MAEMATATRLLGWRVASWRLRPPLAGFVSQRA
+mTPHOM9	P17540	Creatine kinase S-type, mitochondrial (EC 2.7.3.2) (Basic-type mitochondrial creatine kinase) (Mib-CK) (Sarcomeric mitochondrial creatine kinase) (S-MtCK)	MASIFSKLLTGRNASLLFATMGTSVLTTGYLLNRQKVCA
+mTPHOM10	O75489	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial (EC 1.6.5.3) (EC 1.6.99.3) (Complex I-30kD) (CI-30kD) (NADH-ubiquinone oxidoreductase 30 kDa subunit)	MAAAAVARLWWRGILGASALTRGTGRPSVLLLPVRR
+mTPHOM11	P04181	Ornithine aminotransferase, mitochondrial (EC 2.6.1.13) (Ornithine delta-aminotransferase) (Ornithine--oxo-acid aminotransferase) [Cleaved into: Ornithine aminotransferase, hepatic form; Ornithine aminotransferase, renal form]	MFSKLAHLQRFAVLSRGVHSSVASATSVATKKTVQ
+mTPHOM12	P36957	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex) (E2K)	MLSRSRCVSRAFSRSLSAFQKGNCPLGRRSLPGVSLCQGPGYPNSRKVVINNSVFSVRFFRTTAVCK
+mTPHOM13	O75439	Mitochondrial-processing peptidase subunit beta (EC 3.4.24.64) (Beta-MPP) (P-52)	MAAAAARVVLSSAARRRLWGFSESLLIRGAAGRSLYFGENRLRST
+mTPHOM14	P12694	2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial (EC 1.2.4.4) (Branched-chain alpha-keto acid dehydrogenase E1 component alpha chain) (BCKDE1A) (BCKDH E1-alpha)	MAVAIAAARVWRLNRGLSQAALLLLRQPGARGLARSHPPRQQQQF
+mTPHOM15	P23368	NAD-dependent malic enzyme, mitochondrial (NAD-ME) (EC 1.1.1.38) (Malic enzyme 2)	MLSRLRVVSTTCTLACRH
+mTPHOM16	P22557	5-aminolevulinate synthase, erythroid-specific, mitochondrial (ALAS-E) (EC 2.3.1.37) (5-aminolevulinic acid synthase 2) (Delta-ALA synthase 2) (Delta-aminolevulinate synthase 2)	MVTAAMLLQCCPVLARGPTSLLGKVVKTHQFLFGIGRCPILATQGPNCS
+mTPHOM17	Q96RQ3	Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial (MCCase subunit alpha) (EC 6.4.1.4) (3-methylcrotonyl-CoA carboxylase 1) (3-methylcrotonyl-CoA carboxylase biotin-containing subunit) (3-methylcrotonyl-CoA:carbon dioxide ligase subunit alpha)	MAAASAVSVLLVAAERNRWHRLPSLLLPPRTWVWRQRTMKY
+mTPHOM18	Q9HCC0	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial (MCCase subunit beta) (EC 6.4.1.4) (3-methylcrotonyl-CoA carboxylase 2) (3-methylcrotonyl-CoA carboxylase non-biotin-containing subunit) (3-methylcrotonyl-CoA:carbon dioxide ligase subunit beta)	MWAVLRLALRPCARASPAGPRA
+mTPHOM19	P33316	Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase)	MTPLCPRPALCYHFLTSLLRSAMQNARGARQRAEAAVLSGPGPPLGRAAQHGIPRPLSSAGRLSQGCRG
+mTPHOM20	P30038	Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial (P5C dehydrogenase) (EC 1.2.1.88) (Aldehyde dehydrogenase family 4 member A1) (L-glutamate gamma-semialdehyde dehydrogenase)	MLLPAPALRRALLSRPWTGAGLRW
+mTPHOM21	Q9BYV1	Alanine--glyoxylate aminotransferase 2, mitochondrial (AGT 2) (EC 2.6.1.44) ((R)-3-amino-2-methylpropionate--pyruvate transaminase) (EC 2.6.1.40) (Beta-ALAAT II) (Beta-alanine-pyruvate aminotransferase) (D-AIBAT)	MTLIWRHLLRPLCLVTSAPRILEMHPFLSLGTSRTSVTKLS
+mTPHOM22	O14561	Acyl carrier protein, mitochondrial (ACP) (CI-SDAP) (NADH-ubiquinone oxidoreductase 9.6 kDa subunit)	MASRVLSAYVSRLPAAFAPLPRVRMLAVARPLSTALCSAGTQTRLGTLQPALVLAQVPGRVTQLCRQY
+mTPHOM23	P16219	Short-chain specific acyl-CoA dehydrogenase, mitochondrial (SCAD) (EC 1.3.8.1) (Butyryl-CoA dehydrogenase)	MAAALLARASGPARRALCPRAWRQ
+mTPHOM24	Q9UII2	ATPase inhibitor, mitochondrial (ATP synthase F1 subunit epsilon) (Inhibitor of F(1)F(o)-ATPase) (IF(1)) (IF1)	MAVTALAARTWLGVWGVRTMQARGF
+mTPHOM25	P00505	Aspartate aminotransferase, mitochondrial (mAspAT) (EC 2.6.1.1) (EC 2.6.1.7) (Fatty acid-binding protein) (FABP-1) (Glutamate oxaloacetate transaminase 2) (Kynurenine aminotransferase 4) (Kynurenine aminotransferase IV) (Kynurenine--oxoglutarate transaminase 4) (Kynurenine--oxoglutarate transaminase IV) (Plasma membrane-associated fatty acid-binding protein) (FABPpm) (Transaminase A)	MALLHSGRVLPGIAAAFHPGLAAAASARA
+mTPHOM26	Q9NPH0	Lysophosphatidic acid phosphatase type 6 (EC 3.1.3.2) (Acid phosphatase 6, lysophosphatidic) (Acid phosphatase-like protein 1) (PACPL1)	MITGVFSMRLWTPVGVLTSLAYCLHQRRVALA
+mTPHOM27	Q9H300	Presenilins-associated rhomboid-like protein, mitochondrial (EC 3.4.21.105) (Mitochondrial intramembrane cleaving protease PARL) [Cleaved into: P-beta (Pbeta)]	MAWRGWAQRGWGCGQAWGASVGGRSCEELTAVLTPPQLLGRRFNFFIQQKCG
+mTPHOM28	Q96CB9	5-methylcytosine rRNA methyltransferase NSUN4 (EC 2.1.1.-) (NOL1/NOP2/Sun domain family member 4)	MAALTLRGVRELLKRVDLATVPRRH
+mTPHOM29	P08559	Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial (EC 1.2.4.1) (PDHE1-A type I)	MRKMLAAVSRVLSGASQKPASRVLVASRNF
+mTPHOM30	P78549	Endonuclease III-like protein 1 (hNTH1) (EC 3.2.2.-) (EC 4.2.99.18) (Bifunctional DNA N-glycosylase/DNA-(apurinic or apyrimidinic site) lyase) (DNA glycosylase/AP lyase)	MCSPQESGMTALSARMLTRSRSLGPGAGPR
+mTPHOM31	P05165	Propionyl-CoA carboxylase alpha chain, mitochondrial (PCCase subunit alpha) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit alpha)	MAGFWVGTAPLVAAGRRGRWPPQQLMLSAALRTLKHVLYYSRQCLMVSRNLG
+mTPHOM32	P11177	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial (PDHE1-B) (EC 1.2.4.1)	MAAVSGLVRRPLREVSGLLKRRFHWTAPAA
+mTPHOM33	P31930	Cytochrome b-c1 complex subunit 1, mitochondrial (Complex III subunit 1) (Core protein I) (Ubiquinol-cytochrome-c reductase complex core protein 1)	MAASVVCRAATAGAQVLLRARRSPALLRTPALRS
+mTPHOM34	P05166	Propionyl-CoA carboxylase beta chain, mitochondrial (PCCase subunit beta) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit beta)	MAAALRVAAVGARLSVLASGLRAAVRSL
+mTPHOM35	P55809	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial (EC 2.8.3.5) (3-oxoacid CoA-transferase 1) (Somatic-type succinyl-CoA:3-oxoacid CoA-transferase) (SCOT-s)	MAALKLLSSGLRLCASARGSGATWYKGCVCSFSTSAHRH
+mTPHOM36	Q99757	Thioredoxin, mitochondrial (MTRX) (Mt-Trx) (Thioredoxin-2)	MAQRLLLRRFLASVISRKPSQGQWPPLTSRALQTPQCSPGGLTVTPNPARTIYTTRISL
+mTPHOM37	Q04837	Single-stranded DNA-binding protein, mitochondrial (Mt-SSB) (MtSSB) (PWP1-interacting protein 17)	MFRRPVLQVLRQFVRH
+mTPHOM38	P04179	Superoxide dismutase [Mn], mitochondrial (EC 1.15.1.1)	MLSRAVCGTSRQLAPVLGYLGSRQ
+mTPHOM39	Q9NVH6	Trimethyllysine dioxygenase, mitochondrial (EC 1.14.11.8) (Epsilon-trimethyllysine 2-oxoglutarate dioxygenase) (Epsilon-trimethyllysine hydroxylase) (TML hydroxylase) (TML-alpha-ketoglutarate dioxygenase) (TML dioxygenase) (TMLD)	MWYHRLSHLHSRLQD
+mTPHOM40	Q9Y6E7	NAD-dependent protein lipoamidase sirtuin-4, mitochondrial (EC 3.5.1.-) (NAD-dependent ADP-ribosyltransferase sirtuin-4) (EC 2.4.2.-) (NAD-dependent protein deacetylase sirtuin-4) (EC 3.5.1.-) (Regulatory protein SIR2 homolog 4) (SIR2-like protein 4)	MKMSFALTFRSAKGRWIANPSQPCSKAS
+mTPHOM41	P13073	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial (Cytochrome c oxidase polypeptide IV) (Cytochrome c oxidase subunit IV isoform 1) (COX IV-1)	MLATRVFSLVGKRAISTSVCVR
+mTPHOM42	P49448	Glutamate dehydrogenase 2, mitochondrial (GDH 2) (EC 1.4.1.3)	MYRYLAKALLPSRAGPAALGSAANHSAALLGRGRGQPAAASQPGLALAARRHY
+mTPHOM43	P10606	Cytochrome c oxidase subunit 5B, mitochondrial (Cytochrome c oxidase polypeptide Vb)	MASRLLRGAGTLAAQALRARGPSGAAAMRSM
+mTPHOM44	P00367	Glutamate dehydrogenase 1, mitochondrial (GDH 1) (EC 1.4.1.3)	MYRYLGEALLLSRAGPAALGSASADSAALLGWARGQPAAAPQPGLALAARRHY
+mTPHOM45	Q16740	ATP-dependent Clp protease proteolytic subunit, mitochondrial (EC 3.4.21.92) (Endopeptidase Clp)	MWPGILVGGARVASCRYPALGPRLAAHFPAQRPPQRTLQNGLALQRCLHATATRAL
+mTPHOM46	P25705	ATP synthase subunit alpha, mitochondrial (ATP synthase F1 subunit alpha)	MLSVRVAAAVVRALPRRAGLVSRNALGSSFIAARNFHASNTHL
+mTPHOM47	Q6UB35	Monofunctional C1-tetrahydrofolate synthase, mitochondrial (EC 6.3.4.3) (Formyltetrahydrofolate synthetase)	MGTRLPLVLRQLRRPPQPPGPPRRLRVPCRA
+mTPHOM48	Q07021	Complement component 1 Q subcomponent-binding protein, mitochondrial (ASF/SF2-associated protein p32) (Glycoprotein gC1qBP) (C1qBP) (Hyaluronan-binding protein 1) (Mitochondrial matrix protein p32) (gC1q-R protein) (p33) (SF2AP32)	MLPLLRCVPRVLGSSVAGLRAAAPASPFRQLLQPAPRLCTRPFGLLSVRAGSERRPGLLRPRGPCACGCGCGS
+mTPHOM49	Q13825	Methylglutaconyl-CoA hydratase, mitochondrial (EC 4.2.1.18) (AU-specific RNA-binding enoyl-CoA hydratase) (AU-binding protein/enoyl-CoA hydratase) (Itaconyl-CoA hydratase) (EC 4.2.1.56)	MAAAVAAAPGALGSLHAGGARLVAACSAWLCPGLRLPGSLAGRRAGPAIWAQGWVPAAGGPAPKRGY
+mTPHOM50	P48047	ATP synthase subunit O, mitochondrial (ATP synthase peripheral stalk subunit OSCP) (Oligomycin sensitivity conferral protein) (OSCP)	MAAPAVSGLSRQVRCFSTSVVRP
+mTPHOM51	P06576	ATP synthase subunit beta, mitochondrial (EC 3.6.3.14) (ATP synthase F1 subunit beta)	MLGFVGRVAAAPASGALRRLTPSASLPPAQLLLRAAPTAVHPVRDYA
+mTPHOM52	P18859	ATP synthase-coupling factor 6, mitochondrial (ATPase subunit F6) (ATP synthase peripheral stalk subunit F6)	MILQRLFRFSSVIRSAVSVHLRRNIGVTAVAF
+mTPHOM53	P10809	60 kDa heat shock protein, mitochondrial (EC 3.6.4.9) (60 kDa chaperonin) (Chaperonin 60) (CPN60) (Heat shock protein 60) (HSP-60) (Hsp60) (HuCHA60) (Mitochondrial matrix protein P1) (P60 lymphocyte protein)	MLRLPTVFRQMRPVSRVLAPHLTRAY
+mTPHOM54	Q13268	Dehydrogenase/reductase SDR family member 2, mitochondrial (EC 1.1.1.-) (Dicarbonyl reductase HEP27) (Protein D) (Short chain dehydrogenase/reductase family 25C member 1)	MLSAVARGYQGWFHPCARLSVRM
+mTPHOM55	Q9NUB1	Acetyl-coenzyme A synthetase 2-like, mitochondrial (EC 6.2.1.1) (Acetate--CoA ligase 2) (Acetyl-CoA synthetase 2) (AceCS2) (Acyl-CoA synthetase short-chain family member 1)	MAARTLGRGVGRLLGSLRGLSGQPARPPCGVSAPRRA
+mTPHOM56	O95831	Apoptosis-inducing factor 1, mitochondrial (EC 1.1.1.-) (Programmed cell death protein 8)	MFRCGGLAAGALKQKLVPLVRTVCVRSPRQRNRLPGNLFQRWHVPLELQMTRQM
+mTPHOM57	P47985	Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 1.10.2.2) (Complex III subunit 5) (Cytochrome b-c1 complex subunit 5) (Rieske iron-sulfur protein) (RISP) (Rieske protein UQCRFS1) (Ubiquinol-cytochrome c reductase iron-sulfur subunit) [Cleaved into: Cytochrome b-c1 complex subunit 9 (Su9) (Subunit 9) (8 kDa subunit 9) (Complex III subunit IX) (Cytochrome b-c1 complex subunit 11) (Ubiquinol-cytochrome c reductase 8 kDa protein)]	MLSVASRSGPFAPVLSATSRGVAGALRPLVQATVPATPEQPVLDLKRPFLSRESLSGQAVRRPLVASVGLNVPASVCY
+mTPHOM58	A8MUP2	Citrate synthase-lysine N-methyltransferase CSKMT, mitochondrial (CS-KMT) (EC 2.1.1.-) (Methyltransferase-like protein 12, mitochondrial)	MAALRRMLHLPSLMMGTCRPFAGSLADS
+mTPHOM59	P20674	Cytochrome c oxidase subunit 5A, mitochondrial (Cytochrome c oxidase polypeptide Va)	MLGAALRRCAVAATTRADPRGLLHSARTPGPAVAIQSVRCY
+mTPHOM60	P30049	ATP synthase subunit delta, mitochondrial (ATP synthase F1 subunit delta) (F-ATPase delta subunit)	MLPAALLRRPGLGRLVRHARAY
+mTPHOM61	P31937	3-hydroxyisobutyrate dehydrogenase, mitochondrial (HIBADH) (EC 1.1.1.31)	MAASLRLLGAASGLRYWSRRLRPAAGSFAAVCSRSV
+mTPHOM62	Q49AM1	Transcription termination factor 2, mitochondrial (Mitochondrial transcription termination factor 2) (mTERF2) (Mitochondrial transcription termination factor-like protein) (mTERF-like) (mTERFL) (mTERF domain-containing protein 3, mitochondrial)	MLWKLLLRSQSCRLCSFRKMRSPPKYRPFLACFTY
+mTPHOM63	Q96KR6	Protein FAM210B, mitochondrial	MAGLLALLGPAGRVGARVRPRATWLLGATAPCAPPPLALALLPPRLDARLLRTARGDC
+mTPHOM64	P12074	Cytochrome c oxidase subunit 6A1, mitochondrial (Cytochrome c oxidase polypeptide VIa-liver) (Cytochrome c oxidase subunit VIA-liver) (COX VIa-L)	MAVVGVSSVSRLLGRSRPQLGRPM
+mTPHOM65	P24311	Cytochrome c oxidase subunit 7B, mitochondrial (Cytochrome c oxidase polypeptide VIIb)	MFPLVKSALNRLQVRSIQQTMARQ
+mTPHOM66	P10176	Cytochrome c oxidase subunit 8A, mitochondrial (Cytochrome c oxidase polypeptide VIII-liver/heart) (Cytochrome c oxidase subunit 8-2)	MSVLTPLLLRGLTGSARRLPVPRAK
+mTPHOM67	O95178	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial (Complex I-AGGG) (CI-AGGG) (NADH-ubiquinone oxidoreductase AGGG subunit)	MSALTRLASFARVGGRLFRSGCARTAGDGGVRH
+mTPHOM68	P15954	Cytochrome c oxidase subunit 7C, mitochondrial (Cytochrome c oxidase polypeptide VIIc)	MLGQSIRRFTTSVVRR
+mTPHOM69	P24310	Cytochrome c oxidase subunit 7A1, mitochondrial (Cytochrome c oxidase subunit VIIa-heart) (Cytochrome c oxidase subunit VIIa-H) (Cytochrome c oxidase subunit VIIa-muscle) (Cytochrome c oxidase subunit VIIa-M)	MQALRVSQALIRSFSSTARNR
+mTPHOM70	P14406	Cytochrome c oxidase subunit 7A2, mitochondrial (Cytochrome c oxidase subunit VIIa-liver/heart) (Cytochrome c oxidase subunit VIIa-L) (Cytochrome c oxidase subunit VIIaL)	MLRNLLALRQIGQRTISTASRRH
+mTPHOM71	A0A0B4J2D5	Glutamine amidotransferase-like class 1 domain-containing protein 3B, mitochondrial (Keio novel protein-I) (KNP-I) (Protein GT335) (Protein HES1)	MAAVRALVASRLAAASAFTSLSPGGRTPSQRAALHLSVPRP
+mTPHOM72	P0DPI2	Glutamine amidotransferase-like class 1 domain-containing protein 3A, mitochondrial	MAAVRVLVASRLAAASAFTSLSPGGRTPSQRAALHLSVPRP

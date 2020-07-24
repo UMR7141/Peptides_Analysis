@@ -1,0 +1,75 @@
+Index	Accession number	Name	Peptide
+mTPCER1	P0CS90	Heat shock protein SSC1, mitochondrial (Endonuclease SceI 75 kDa subunit) (Endo.SceI 75 kDa subunit) (mtHSP70)	MLAAKNILNRSSLSSSFRIATRL
+mTPCER2	P32340	Rotenone-insensitive NADH-ubiquinone oxidoreductase, mitochondrial (EC 1.6.5.9) (Internal NADH dehydrogenase) (NADH:ubiquinone reductase (non-electrogenic))	MLSKNLYSNKRLLTSTNTLVRFASTR
+mTPCER3	P32266	Dynamin-like GTPase MGM1, mitochondrial (Mitochondrial division and morphology protein 17) (Mitochondrial genome maintenance protein 1) [Cleaved into: Dynamin-like GTPase MGM1 large isoform (l-MGM1); Dynamin-like GTPase MGM1 small isoform (s-MGM1)]	MNASPVRLLILRRQLATHPAILYSSPYIKSPLVHLHSRMSNVHRSAHANALSFVITRRS
+mTPCER4	P25846	DNA mismatch repair protein MSH1, mitochondrial (MutS protein homolog 1)	MKHFFRLPTAFRPISRVSLRY
+mTPCER5	P10507	Mitochondrial-processing peptidase subunit beta (EC 3.4.24.64) (Beta-MPP) (PEP)	MFSRTASKFRNTRRLLSTIS
+mTPCER6	P17695	Glutaredoxin-2, mitochondrial (Glutathione-dependent oxidoreductase 2) (Thioltransferase)	METNFSFDSNLIVIIIITLFATRIIAKRFLSTPKM
+mTPCER7	P36046	Mitochondrial intermembrane space import and assembly protein 40 (Mitochondrial import inner membrane translocase TIM40)	MLRNLVVRNACRNRPSIQVARGLCRHQTRRL
+mTPCER8	P28241	Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH)	MLRNTFFRNTSRRFL
+mTPCER9	P21954	Isocitrate dehydrogenase [NADP], mitochondrial (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	MSMLSRRLFSTSRLAA
+mTPCER10	P17505	Malate dehydrogenase, mitochondrial (EC 1.1.1.37)	MLSRVAKRAFSSTVANP
+mTPCER11	P19414	Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.3) (Citrate hydro-lyase)	MLSARSAIKRPIVRGL
+mTPCER12	P07271	ATP-dependent DNA helicase PIF1 (EC 3.6.4.12) (DNA repair and recombination helicase PIF1) (Petite integration frequency protein 1) (Telomere stability protein 1)	MPKWIRSTLNHIIPRRPFICSFNSFLLLKNVSHAKLSFSMSSRGF
+mTPCER13	P16387	Pyruvate dehydrogenase E1 component subunit alpha, mitochondrial (EC 1.2.4.1) (Pyruvate dehydrogenase complex component E1 alpha) (PDHE1-A)	MLAASFKRQPSQLVRGLGAVLRTPTRIGHVRTM
+mTPCER14	P42844	Mitochondrial protein import protein ZIM17 (Mitochondrial import inner membrane translocase subunit TIM15) (mtHsp70 escort protein 1) (mtHsp70-associated motor and chaperone protein TIM15/ZIM17) (MMC)	MIPRTRTLLQSKIPITRYFARCWAPRVRYNVCRTLPAAALHTNIIAH
+mTPCER15	Q08230	Succinate dehydrogenase assembly factor 2, mitochondrial (SDH assembly factor 2) (SDHAF2)	MHNMFPALTKTLSLQGYKIINSQTGSAAWSCGRRW
+mTPCER16	P39952	Mitochondrial inner membrane protein OXA1 (Cytochrome oxidase biogenesis protein OXA1) (Oxidase assembly protein 1)	MFKLTSRLVTSRFAASSRLATARTIVLPRPHPSWISFQAKRF
+mTPCER17	P33421	Succinate dehydrogenase [ubiquinone] cytochrome b subunit, mitochondrial	MSAMMVKLGLNKSALLLKPSAFSRAAALSSSRRLLFNTARTNFLSTSPLK
+mTPCER18	Q00711	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1) (Flavoprotein subunit of complex II) (FP)	MLSLKKSALSKLTLLRNTRTFTSSALVR
+mTPCER19	P04037	Cytochrome c oxidase subunit 4, mitochondrial (EC 1.9.3.1) (Cytochrome c oxidase polypeptide IV)	MLSLRQSIRFFKPATRTLCSSRYLL
+mTPCER20	P37298	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial (CybS) (Succinate-ubiquinone reductase membrane anchor subunit)	MMLPRSMKFMTGRRIFHTATVRAFQSTAKKS
+mTPCER21	P09624	Dihydrolipoyl dehydrogenase, mitochondrial (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (Glycine decarboxylase complex subunit L) (Lipoamide dehydrogenase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex E3 component)	MLRIRSLLNNKRAFSSTVRTL
+mTPCER22	P39112	Exoribonuclease II, mitochondrial (RNase II) (Ribonuclease II) (EC 3.1.13.1) (Deletion of SUV3 suppressor 1) (Mitochondrial biogenesis protein MSU1)	MVVRRKVHVLLIARSFHSYTPCFRVTTRGKRQRSKSKQQAK
+mTPCER23	P25605	Acetolactate synthase small subunit, mitochondrial (Acetohydroxy-acid synthase small subunit) (AHAS) (ALS)	MLRSLLQSGHRRVVASSCATMVRC
+mTPCER24	P53163	54S ribosomal protein L12, mitochondrial (Mitochondrial large ribosomal subunit protein bL12m) (Mitochondrial-nucleoid protein 1)	MSLRILAKRSSSIWMKTRVTPALISPITITTRF
+mTPCER25	P40185	Protein MMF1, mitochondrial (Isoleucine biosynthesis and maintenance of intact mitochondria 1) (Maintenance of mitochondrial function 1)	MFLRNSVLRTAPVLRRG
+mTPCER26	P12695	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex component E2) (PDC-E2) (PDCE2)	MSAFVRVVPRISRSSVLTRSLRLQLRCY
+mTPCER27	P11914	Mitochondrial-processing peptidase subunit alpha (EC 3.4.24.64) (Alpha-MPP)	MLRNGVQRLYSNI
+mTPCER28	Q02784	Monothiol glutaredoxin-5, mitochondrial	MFLPKFNPIRSFSPILRAKTLLRYQNRMY
+mTPCER29	Q02486	ARS-binding factor 2, mitochondrial	MNSYSLLTRSFHESSKPLFNLASTLL
+mTPCER30	P53875	54S ribosomal protein L19, mitochondrial (Mitochondrial large ribosomal subunit protein uL11m) (YmL19)	MSQAAKNVIVKLIVGAGQAAPSPPVGPALGSKGIKAIDFCKEFNARSANYQPGVPVPVLITIKPDRTFTFEMK
+mTPCER31	P51998	54S ribosomal protein YmL6, mitochondrial (Mitochondrial large ribosomal subunit protein uL4m)	MTIKRNLVKTLQSIRYQATTATAHAE
+mTPCER32	P31334	54S ribosomal protein L9, mitochondrial (Mitochondrial large ribosomal subunit protein uL3m) (YmL9)	MSKFLQGSIFSISKLHVRY
+mTPCER33	P36523	54S ribosomal protein L15, mitochondrial (Mitochondrial large ribosomal subunit protein mL57) (YmL15)	MENSMMFISRSLRRPVTALNCNLQSVRT
+mTPCER34	P36525	54S ribosomal protein L24, mitochondrial (Mitochondrial large ribosomal subunit protein bL28m) (YmL14/YmL24)	MQKIFRPFQLTRGFTSSVKNF
+mTPCER35	P36516	54S ribosomal protein L3, mitochondrial (Mitochondrial large ribosomal subunit protein mL44) (YmL3)	MGIVLKRAIAAGMKPFPNSTWHWSRTIRPFSQHLSSTCFLQQSSRFTSKRYLHLSTLTQ
+mTPCER36	P14063	54S ribosomal protein L31, mitochondrial (Mitochondrial large ribosomal subunit protein mL60) (YmL31)	MFGPFKLTSPVA
+mTPCER37	P32473	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial (EC 1.2.4.1) (Pyruvate dehydrogenase complex component E1 beta) (PDHE1-B)	MFSRLPTSLARNVARRAPTSFVRPSAAAAALRF
+mTPCER38	P16451	Pyruvate dehydrogenase complex protein X component, mitochondrial (Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex) (E3-binding protein) (Pyruvate dehydrogenase complex component E3BP)	MLSAISKVSTLKSCTRYLTKCNYHASAKLL
+mTPCER39	P32904	54S ribosomal protein L6, mitochondrial (Mitochondrial large ribosomal subunit protein uL6m) (YmL16)	MSFIQRRLLSQTLFLR
+mTPCER40	P36527	54S ribosomal protein L28, mitochondrial (Mitochondrial large ribosomal subunit protein mL40) (YmL28)	MLAQTFKKPHRAVLEQVSGTTVFIRN
+mTPCER41	P36520	54S ribosomal protein L10, mitochondrial (Mitochondrial large ribosomal subunit protein uL15m) (YmL10/YmL18)	MKAERQTGLRNSFTTVIGRKLINTFVPSMMLTSVAGNDIFFRGLFKSPVLAFQSYRY
+mTPCER42	P25348	54S ribosomal protein L32, mitochondrial (Mitochondrial large ribosomal subunit protein bL32m) (YmL32)	MNSLIFGKQLAFHKIVPTTAIGWLVPLGNPSLQIPGQKQLGSIHRWLREKLQQDHKDTEDKDFFSNNGILL
+mTPCER43	P36519	54S ribosomal protein L7, mitochondrial (Mitochondrial large ribosomal subunit protein uL5m) (YmL5) (YmL7)	MQRFSLVTHRSFSHSCVKP
+mTPCER44	P22354	54S ribosomal protein L20, mitochondrial (Mitochondrial large ribosomal subunit protein mL58) (YmL20)	MIGRGVCCRSFHTAGSAW
+mTPCER45	P32387	54S ribosomal protein L41, mitochondrial (Mitochondrial large ribosomal subunit protein uL23m) (YmL41)	MPRLTVGTKNMLYPLQKTLAVGSCKPEQVPIRSLASVVESSSKIL
+mTPCER46	P36517	54S ribosomal protein L4, mitochondrial (Mitochondrial large ribosomal subunit protein uL29m) (YmL4)	MWKRSFHSQGGPLR
+mTPCER47	Q02204	54S ribosomal protein L13, mitochondrial (Mitochondrial large ribosomal subunit protein mL50) (YmL13)	MSSLLKLHCIRPLPQRSVWLSGYKQKARCIHSSAANGDFMSWFKRKKQEEHQEPVKDTKQLIKDIEEGTNEASSQ
+mTPCER48	P36531	54S ribosomal protein L36, mitochondrial (Mitochondrial large ribosomal subunit protein bL31m) (YmL36)	MLKSIFAKRFASTG
+mTPCER49	P36532	54S ribosomal protein L37, mitochondrial (Mitochondrial large ribosomal subunit protein mL54) (YmL37)	MLARSLGYRLISTSRILYNKPTVK
+mTPCER50	P36521	54S ribosomal protein L11, mitochondrial (Mitochondrial large ribosomal subunit protein uL10m) (YmL11)	MLQLRFMPGWVPRNGFFGLKETIGTVHKRFY
+mTPCER51	P12687	54S ribosomal protein L2, mitochondrial (Mitochondrial large ribosomal subunit protein bL27m) (YMR6) (YmL2)	MWNPILLDTSSFSFQKHVSGVFLQVRN
+mTPCER52	P36528	54S ribosomal protein L17, mitochondrial (Mitochondrial large ribosomal subunit protein mL46) (YmL17/YmL30)	MKVNLMLKRGLATATATAS
+mTPCER53	P36526	54S ribosomal protein L27, mitochondrial (Mitochondrial large ribosomal subunit protein mL41) (YmL27)	MKGSPISQFSKTSINA
+mTPCER54	P12686	37S ribosomal protein MRP13, mitochondrial (Mitochondrial small ribosomal subunit protein mS44) (YmS-A)	MGTITVVINEGPILLIRALHRATTNKKMFRSTVWRRF
+mTPCER55	P21771	37S ribosomal protein S28, mitochondrial (Mitochondrial small ribosomal subunit protein uS15m)	MSIVGRNAILNLRISLCPLFMGKRSFVSSPVSN
+mTPCER56	P16622	Ferrochelatase, mitochondrial (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)	MLSRTIRTQGSFLRRSQLTITRSFSVTFNMQ
+mTPCER57	P21375	Fumarate reductase 2 (FRDS2) (EC 1.3.1.6) (NADH-dependent fumarate reductase) (Osmotic sensitivity protein 1) (Soluble fumarate reductase, mitochondrial isozyme)	MIRSVRRVFIYVSIFVLIIVLKRTLSGTDQTS
+mTPCER58	Q04401	Succinate dehydrogenase assembly factor 3, mitochondrial (SDH assembly factor 3) (SDHAF3) (Acetate non-utilizing protein 9)	MNNKLIYRSVRF
+mTPCER59	P42847	37S ribosomal protein S18, mitochondrial (Mitochondrial small ribosomal subunit protein uS11m) (YmS18)	MLLQPVWKGCRWTQFVRPIRRWNSTGTNRGVPFSFKDISNQEDITNISYPSSSDSVLTK
+mTPCER60	P01098	ATPase-stabilizing factor 9 kDa, mitochondrial (ATP synthase F1 subunit epsilon)	MLNRCISRNTRLPVNLRIASRFY
+mTPCER61	P00447	Superoxide dismutase [Mn], mitochondrial (EC 1.15.1.1)	MFAKTAAANLTKKGGLSLLSTTARRT
+mTPCER62	P04039	Cytochrome c oxidase polypeptide VIII, mitochondrial (EC 1.9.3.1)	MLCQQMIRTTAKRSSNIMTRPIIMKRS
+mTPCER63	P00424	Cytochrome c oxidase polypeptide 5A, mitochondrial (EC 1.9.3.1) (Cytochrome c oxidase polypeptide Va)	MLRNTFTRAGGLSRITSVRF
+mTPCER64	P00427	Cytochrome c oxidase subunit 6, mitochondrial (EC 1.9.3.1) (Cytochrome c oxidase polypeptide VI)	MLSRAIFRNPVINRTLLRARPGAYHATRLTKNTFIQSRKY
+mTPCER65	P25719	Peptidyl-prolyl cis-trans isomerase C, mitochondrial (PPIase C) (EC 5.2.1.8) (Cyclophilin C) (PPI-III) (Rotamase C)	MFKRSIIQQSRLFSNSASRL
+mTPCER66	P09440	C-1-tetrahydrofolate synthase, mitochondrial (C1-THF synthase) [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9); Formyltetrahydrofolate synthetase (EC 6.3.4.3)]	MLSRLSLLSNSRAFQQARWRIYRLKVSPTVHASQ
+mTPCER67	P05626	ATP synthase subunit 4, mitochondrial	MSMSMGVRGLALRSVSKTLFSQGVRCPSMVIGARY
+mTPCER68	P00175	Cytochrome b2, mitochondrial (EC 1.1.2.3) (L-lactate dehydrogenase [Cytochrome]) (L-lactate ferricytochrome C oxidoreductase) (L-LCR)	MLKYKPLLKISKNCEAAILRASKTRLNTIRAYGSTVPKSKSFEQDSRKRTQSWTALRVGAILAATSSVAYLNWHNGQIDN
+mTPCER69	P38077	ATP synthase subunit gamma, mitochondrial (F-ATPase gamma subunit)	MLSRIVSNNATRSVMCHQAQVGILYKTNPVRTY
+mTPCER70	Q12165	ATP synthase subunit delta, mitochondrial (F-ATPase delta subunit)	MLRSIIGKSASRSLNFVAKRSY
+mTPCER71	P01097	ATPase inhibitor, mitochondrial (ATP synthase F1 subunit epsilon)	MLPRSALARSLQLQRGVAARFY
+mTPCER72	P14066	Cytochrome b translational activator protein CBS1, mitochondrial (COB-specific translational activator protein CBS1)	MLRTKVFATTVARISGIRRYIPIRT
+mTPCER73	P00431	Cytochrome c peroxidase, mitochondrial (CCP) (EC 1.11.1.5)	MTTAVRLLPSLGRTAHKRSLYLFSAAAAAAAAATFAYSQSQKRSSSSPGGGSNHGWNNWGKAAALAS
+mTPCER74	P46367	Potassium-activated aldehyde dehydrogenase, mitochondrial (EC 1.2.1.5) (K(+)-activated acetaldehyde dehydrogenase) (K(+)-ACDH)	MFSRSTLCLKTSASSIGRLQLRYF

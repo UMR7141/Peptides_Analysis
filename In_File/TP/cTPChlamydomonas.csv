@@ -1,0 +1,93 @@
+Index	Organelle	Species	Source	Accession number	Name	Peptide
+cTPCHL1	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|104827|e_gwH.29.78.1 {LhcSR3}; aka 104720--e_gwH.29.77.1		MLANVVSRKASGLRQTPARATVAVKSVSGRRTTAAEPQTAAPVAAEDVFAYTKNLPGVTAPFEGVF
+cTPCHL2	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|104082|e_gwH.26.231.1		MALLMRSQTLRPVSAVASRRVSVVVRAQAGAEKSASNTTGKAKL
+cTPCHL3	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|99271|e_gwH.2.436.1	{PRPL7/L12} Plastid ribosomal protein L12, imported to chloroplast, large ribosomal subunit	MALCMQTRSVGAVRRTSAVRSAPFRGSRMVVRAT
+cTPCHL4	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|101763|e_gwH.1.720.1	{TEF15} Unknown function, chloroplast location proposed	MQALASHRTLATPARPRALGCASLPFRPIGAQAMRRPAREGAVTVHARSGGYSAPGGGRGYSSTPGIVDRVLAALPY
+cTPCHL5	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|99956|e_gwH.11.118.1	{PSAL}	MAVAMRSSTGLRATAARRQMPLGLGRVSTVRVCAADTKKAQVISPVNGD
+cTPCHL6	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|101671|e_gwH.1.614.1		MVAVRGRRALAVRA
+cTPCHL7	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|152568|Chlre2_kg.scaffold_46000101		MWEEECKNMQASKKRSS
+cTPCHL8	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|195038|estExt_fgenesh2_pg.C_880022	{GGPS} geranylgeranyl diphosphate synthase, putative chloroplast precursor	MQMQQQRMRFSRDARRIG
+cTPCHL9	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|114879|e_gwW.11.383.1		MLILGAQEYYALVCNAEWF
+cTPCHL10	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|185040|estExt_fgenesh2_kg.C_330024 	{PRPL4 } Plastid ribosomal protein L4, imported to chloroplast, large ribosomal subunit	MQTMRVAFRPAATSRSTVVTRA
+cTPCHL11	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|55838|estExt_GenewiseH_1.C_140147 	{RPI} Ribose-5-phosphate isomerase, plastid precursor	MMLKASPAARAAARPAARNVRMM
+cTPCHL12	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|128836|estExt_gwp_1H.C_160072 	{LHCA9} light-harvesting protein of photosystem I	MIAAKSQVALGRRAPVRGQRVVAA
+cTPCHL13	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|183029|estExt_fgenesh2_kg.C_110047 	{Lhca2}	MAMLLKSRVSAGVSRPSRATVRVSA
+cTPCHL14	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|108727|e_gwH.90.9.1 	putative Peptidyl-tRNA hydrolase 2/Bcl-2 inhibitor of transcription 1	ELKMVLCVNMSLKMGTGKVGAQCAH
+cTPCHL15	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|192478|estExt_fgenesh2_pg.C_320104 	{PSAK} photosystem I reaction center subunit psaK, chloroplast precursor	MQALATRPSAIRPTKAARRSSVVVRA
+cTPCHL16	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|134203|estExt_gwp_1W.C_30129 	{Lhca8}	MALTMKRSGVAARSASSRKSVVTCVA
+cTPCHL17	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|78552|estExt_GenewiseW_1.C_140139 	{Lhca7}	MALSMIAQRRAGAFSARQAPRAVRAQ
+cTPCHL18	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|149978|Chlre2_kg.scaffold_30000036		MLSTRTRASAAPASRRSRSTVVSVRA
+cTPCHL19	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|59760|estExt_GenewiseH_1.C_580060 	{FBA3} fructose-1,6-bisphosphate aldolase aka 24459--estExt_fgenesh1_pm.C_580004	MALMMKSSASLKAVSAGRSRRAVVVRA
+cTPCHL20	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|19800|fgenesh1_pg.C_scaffold_52000065 	{FBA1} fructose-1,6-bisphosphate aldolase aka 152892--Chlre2_kg.scaffold_52000060	MQAKMQTRAVSGRAAARSRVSTTKVVC
+cTPCHL21	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|187654|estExt_fgenesh2_pg.C_40128		MQTLSVKSTRASVVPRRGRATTVAVKA
+cTPCHL22	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|137786|estExt_gwp_1W.C_230119 	{ELI2*} Early light-inducible protein aka 137766--estExt_gwp_1W.C_230089	MQSLASRPCVLRAQRPFTAKRSSVVRVRA
+cTPCHL23	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|129639|estExt_gwp_1H.C_190078 	{AAD1} acetohydroxyacid dehydratase	MSSTATMPGQRSAMKAAGAQSRRAVKVMA
+cTPCHL24	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|132194|estExt_gwp_1H.C_480002 	{UROD1} Uroporphyrinogen-III decarboxylase, chloroplast precursor	MQTKAFTSARPQRAAALKAQRTSSVTVRA
+cTPCHL25	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|165416|fgenesh2_kg.C_scaffold_87000009 	{PSAG} photosystem I reaction center subunit V, chloroplast precursor	MQTLASRPSLRASARVAPRRAPRVAVVTKA
+cTPCHL26	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|190311|estExt_fgenesh2_pg.C_180098		MQVSFARSTVSRARAGISGRTSRRTHVAVSN
+cTPCHL27	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|186064|estExt_fgenesh2_kg.C_940003 	{LhcII -- probably some specific type (1.3? M7?),LhcbM3}	MAFALSFSRKALQVSAKATGKKGTGKTAAKQ
+cTPCHL28	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|184532|estExt_fgenesh2_kg.C_250008		MLAHTNLTSSGASTVRPAHKRFHGRVSVVPRA
+cTPCHL29	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|194303|estExt_fgenesh2_pg.C_580037		MSMCIARGSVRGCARPVVAQHRPARSRVVSIAC
+cTPCHL30	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|175375|fgenesh2_pg.C_scaffold_30000053 	{LDE1}	VSTGVTLRENNLREIEGGNIMESQGILVANRKSL
+cTPCHL31	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|174723|fgenesh2_pg.C_scaffold_26000105 	{Lhca1}	MALSMRTLSARTAAPRGFSGRRVAAVSNGSRVTM
+cTPCHL32	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|136718|estExt_gwp_1W.C_10569	EMP/nonaspanin domain family	MRLLVACALLALLQLSAAVRLPAAIEQAVGRQLL
+cTPCHL33	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|131444|estExt_gwp_1H.C_310232 	{APR,MET16}	MMLTQGRAFAAQRPAVQQRRMAVRANVARVPQVN
+cTPCHL34	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|133575|estExt_gwp_1W.C_80187 	{Lhca5}	MAALMQKSALSRPACSTRSSRRAVVVRAAADRKLWA
+cTPCHL35	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|136252|estExt_gwp_1W.C_160069 	{CRD1} Copper response defect 1 protein, chloroplast precursor	MQTTLKQQRASGRVSARQPFRSAAVARPRRSTVRVQA
+cTPCHL36	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|182463|estExt_fgenesh2_kg.C_60058 	{RBD1} rubredoxin	MALLAPTTRCLSRPASSSRAAVAVPRLPIRARNVRVF
+cTPCHL37	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|54374|estExt_GenewiseH_1.C_60074		MQQTVLRASSGAVSGRPTAVPVATRASQRGRVALRPVA
+cTPCHL38	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|188287|estExt_fgenesh2_pg.C_90288 	{TEF7} Unknown function, chloroplast location proposed	MQVMQTRTVSGARPIGASSSRVTLAAVKQVKVSSTTTS
+cTPCHL39	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|142363|Chlre2_kg.scaffold_3000336 	{PRX1} 2-cys peroxiredoxin, chloroplastic	MAALQSASRSSAVAFSRQARVAPRVAASVARRSLVVRA
+cTPCHL40	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|193711|estExt_fgenesh2_pg.C_460027		MQLLNRQAGRQTARNAAASKRAARAPARASRSAAVHVRA
+cTPCHL41	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|130414|estExt_gwp_1H.C_280020 	{Lhcb5}	MQIQALFKKTGASAPAKKGTASTKVVKPSKAGGKATRGW
+cTPCHL42	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|148810|Chlre2_kg.scaffold_24000209 	{ASSD}	MQLTRTQVSRSGVRPTRASRRVLVAKAAKTANGPRVAIV
+cTPCHL43	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|183051|estExt_fgenesh2_kg.C_110069 	{C_490088}	MALAMQRSAAPRQAFGAKPAVRSGVRVARSRASAVSVRA
+cTPCHL44	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|126226|estExt_gwp_1H.C_70008 	{PRPL1 } Plastid ribosomal protein L1, imported to chloroplast, large ribosomal subunit	MAMMSLQQRLLQPSAGVRSVAPFRPVVAPRPVVVVRAAAL
+cTPCHL45	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|126835|estExt_gwp_1H.C_30261 	{HSP70B} Heat shock protein 70B	MPVQQMTSMRSQSLAGAPVAPVKAGRAGVSRRGLAVSVRA
+cTPCHL46	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|182933|estExt_fgenesh2_kg.C_100077 	{FSD1} superoxide dismutase [Fe], chloroplast precursor	MALAMKAQASSLVAGQRRAVRPASGRRAVITRAALELKSP
+cTPCHL47	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|183750|estExt_fgenesh2_kg.C_10255		MNLLARPHIAAGLYPSTRRKCYVQTGAQQLKNRLNTSIRAQ
+cTPCHL48	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|139758|estExt_gwp_1W.C_510016 	{NADTH} Probable NAD(P) transhydrogenase, mitochondrial localization assumed	MLSMLGRKGQAMCLRSSRQVPSTRASIARLLAQTPRPNVRAN
+cTPCHL49	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|194448|estExt_fgenesh2_pg.C_670042 	{TEF6} unknown function, chloroplast location proposed	MAALLARSSASTAFAGRRASGVACPRAPVSPVCIRRSVVSVRA
+cTPCHL50	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|120177|e_gwW.36.28.1 {PSAD}		MRTQAPAATRASSRVAVAARPAARRAVVVRAEAEAAPAAAKKAA
+cTPCHL51	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|182959|estExt_fgenesh2_kg.C_100106		MALVARPVLSARVAASRPRVAARKAVRVSAKYGENSRYFDLQDMEN
+cTPCHL52	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|184810|estExt_fgenesh2_kg.C_320006 	{Lhcb4}	MVFKFPTPPGTQKKAGTTATKPAPKATTKKVATSTGTRSGGVGYRKY
+cTPCHL53	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|58140|estExt_GenewiseH_1.C_300124 	{AGS1} arginosuccinate synthase	MLGMKLSPRHVSSRAKPAPAMRGRKVCVSVNAAAPKMGQVKKVVLAY
+cTPCHL54	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|182705|estExt_fgenesh2_kg.C_20063		MLAAKTCPALPARAARASARVGLRPASGVSSRRVATKAIEDTNLFVNIL
+cTPCHL55	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|168365|fgenesh2_pg.C_scaffold_2000011		MATRMVSAFRAAPLSTMASRTLLHRVSITATPSLVRPGAGSRGFRTTTVA
+cTPCHL56	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|76641|estExt_GenewiseW_1.C_50277		MAVNMVLSSSKVMSCGKVGQRRVSTASPLAVVRRGAARVNAARPLSRPPA
+cTPCHL57	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|184868|estExt_fgenesh2_kg.C_320070		MSEPGAGPSDGQVVTRKIRLHKVMRPLDESSPSSQEQHMDRRLAEILPAIA
+cTPCHL58	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|132888|estExt_gwp_1H.C_720023		MSLQATMNAPCATGRVARRSVKVSAISAPPTPARAPSSTGSVKRAMTMTEKI
+cTPCHL59	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|503|fgenesh1_pm.C_scaffold_32000005 	{STA2} Putative granule-bound starch synthase I	MAVASTSRPSSARPIVINAASFGVKKTANQLLRELARGSARKSTSRSAVTGATGATC
+cTPCHL60	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|148057|Chlre2_kg.scaffold_20000199 	{PSBP} Oxygen Evolution Enhancer 2 of photosystem II	MATALCNKAFAAAPVARPASRRSAVVVRASGSDVSRRAALAGFAGAAALVSSSPANA
+cTPCHL61	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|112806|e_gwW.3.111.1 {HCF136}		RNPTKGFLLGTRQTLLETNDGGKTWAPRSIDAARDEGFNYRFNSISFAGKEGWIVGKP
+cTPCHL62	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|105641|e_gwH.33.40.1 {ATPG}		MPAAAEAGKIFDFNLTLPVMAGEFLLLMVFLEKTWFTPVGKVLDERDNLIRSKLGSVKDN
+cTPCHL63	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|193790|estExt_fgenesh2_pg.C_480074		MLQAQKRVVFGQAQRRSAVAVVRTAPVARRMVCQAANWKGDSEEKLQPKEIVLRSVNVMVLG
+cTPCHL64	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|191433|estExt_fgenesh2_pg.C_230117		MPAGAGGAARALLLKLLSLLRTGIRMRTAVRKRVHTPAATVMGTFSRRLMRICESAVGMLQRVA
+cTPCHL65	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|120516|e_gwW.38.102.1		GKTTLGFIGIGIMGLAMTRNLLKAGYQVVVWNRNPDKCAALAAEGAKVASTPQEVAAAATYTFAM
+cTPCHL66	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|132067|estExt_gwp_1H.C_470047 	isoamylase, starch debranching enzyme	MQLRQAGLRARSTASGAVPCIPVGLHAGAIGMQSALAGGRAAGRGRVATRLPAPKRQSERVRVVAQ
+cTPCHL67	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|98021|e_gwH.3.306.1 {PSBR}		RRVVKPVASGGGKTDITKVGLNSIEDPVVKQNLMGKSRFMNKKDWKDASGRKGKGYGVYRYEDKYGAN
+cTPCHL68	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|194475|estExt_fgenesh2_pg.C_670072 	{PBGD1} Porphobilinogen deaminase, putative chloroplast precursor	MQQCVGRSVRAPSSRAVAPKVAGARVSRRVCRVYASAVATKTVKIGTRGSPLALAQAYMTRDLLKKSF
+cTPCHL69	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|193296|estExt_fgenesh2_pg.C_410021 	{PETC} Rieske iron-sulfur subunit of the Cytochrome B6-F complex , chloroplast precursor	MAMLSSRRVAAPAKASAIRRSRVMPVVRAAAASSEVPDMNKRNIMNLILAGGAGLPITTLALGYGAFFV
+cTPCHL70	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|153678|Chlre2_kg.scaffold_66000007 	{LHCA3} light-harvesting chlorophyll-a/b protein of photosystem I (Type III)	MMLTKSAQAAFSGKVARPAKANRARLVCRAEEKSIAKVDRSKDQLYVGASQSSLAYLDGSLPGDFGFDPL
+cTPCHL71	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|136413|estExt_gwp_1W.C_10120 	{TRXm} Thioredoxin m, chloroplastic	MALVARRAAVPSARSSARPAFARAAPRRSVVVRAEAGAVNDDTFKNVVLESSVPVLVDFWAPWCGPCRII
+cTPCHL72	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|190369|estExt_fgenesh2_pg.C_180193 	{PRPL19 } Plastid ribosomal protein L19, imported to chloroplast, large ribosomal subunit	MLASRSAVRPFVAGRRPTVACSAKLSLHTLRQDMARSQLKTNLPAVVVGDNVKVGLAVQEGNGKTRTQTL
+cTPCHL73	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|189186|estExt_fgenesh2_pg.C_140031 	{SBP1} sedoheptulose-1,7-bisphosphatase	MAAMMMRQKVAGAIAGERRSAVAPKMGRAATAPVVVASANASAFKGAAVTARVKRSTRAARVQSRRTAVLTQA
+cTPCHL74	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|195635|MAY_chlre3.43.90.2.11 	{PRPL15 } Plastid ribosomal protein L15, imported to chloroplast, large ribosomal subunit	MQVASRASVRPFTAARQPRSLVVVNASSDARLRLHNLSPEPGSRRDEKRKGRGYAAGQGGTCGFGNRGQKARSG
+cTPCHL75	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|24036|estExt_fgenesh1_pm.C_40007 	{Lhca4}	MAFVLAKSSAFGVAAKPVSRRSSVAVKASAVPENVKEAREWIDAWKSKSGGAKRDAALPSWMPGADLPGYLNGTL
+cTPCHL76	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|162449|fgenesh2_kg.C_scaffold_16000041		MAIMLRSHQLKQEEVPPTVRCIVRCGAGVNNIPVPKMTELGIPVFNTPGANANAVKELVICGLLLASRGILEGNKY
+cTPCHL77	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|192083|estExt_fgenesh2_pg.C_300054 	{MDHP} NADP-Malate Dehydrogenase aka 80866--estExt_GenewiseW_1.C_300124	MALNMKQQQAGLSRKAARSVSSRAPVVVRAVAAPVAPAAEAEAKKAYGVFRLSYDTQNEDASLTRSWKKTVKVAVT
+cTPCHL78	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|195632|MAY_chlre3.31.189.3.11 	{PRPS6 } Plastid ribosomal protein S6, imported to chloroplast, small ribosomal subunit	MATMQKSSVAVRSSSSANLVAARPIAQRLCFQPVVRQSAQQQRSSVGRAMPKVVAAAVAADAAAETVKLPAGYHWYETM
+cTPCHL79	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|76146|estExt_GenewiseW_1.C_80164 	{PSAE}	MQALSSRVNIAAKPQRAQRLVVRAEEVKAAPKKEVGPKRGSLVKILRPESYWFNQVGKVVSVDQSGVRYPVVVRFENQNY
+cTPCHL80	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|135614|estExt_gwp_1W.C_110362 	{RPE1} Ribulose phosphate-3-epimerase, chloroplast precursor	MQALQMRSSSKAVGARSAKPSRASAVRVQATSRVDKCKKSDIIVSPSILSADFSRLGDEVRAIDQAGCDWVHIDVMDGRFV
+cTPCHL81	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|185971|estExt_fgenesh2_kg.C_800008 	{PETO}	MALRCKTPAATCAARSRRSVRVSAHKGAFEQAQVAAAAFVAAAVIAAPANAGVVLQQPVLKKAFQDDTPAAPPPKREFRGL
+cTPCHL82	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|187295|estExt_fgenesh2_pg.C_30493 	{ALB3.1} Inner membrane ALBINO3-like protein 1, chloroplast precursor	MSSSMCLARCSASLSAGNFPSRMFMGRLHAQRRTRTLQLRCAASLLPDQPTLAASSAISPVPSDLPEVLGDALHRLGAMYVLA
+cTPCHL83	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|193552|estExt_fgenesh2_pg.C_470003 	{LIL,low molecular mass early light-induced protein}	MQMLASSSRSAIRASRPTGSSRSSVVVRATAEAPVVEKKERKLGPLERGGTLSGDAAAGKASPKMNFFVDAGDKARAMATGVT
+cTPCHL84	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|195636|MAY_e_gwW.12.137.1 	{PRPL27 } Plastid ribosomal protein L27, imported to chloroplast, large ribosomal subunit	MLASTIQSSVLRSSVRAAPAPKRALVIQNAHKKGSGSTKNGRDSNAKRRGVKVYGGQPVKAGGIIVRQCGSTWNAGDNCMLGRDFTVF
+cTPCHL85	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|155007|Chlre2_kg.scaffold_124000001 aka 140850--Chlre2_kg.scaffold_8000021		MMLKASTVTTLPARKGVRAVARSAALPVPVNKRAVLVRAEPESSTSAEDPSVKLQKQAEEVLKQVQGKWESTDDSEKPAAIAIIVGVIVAQ
+cTPCHL86	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|116544|e_gwW.1.170.1		YALNIGFNLLNKTIFKYFPYPYTVSTIHVVVGLVYCVLVYAVGLKSWSFGRPVTKQEFKNIFGPAAMHAVGHVAANISFAAVAISLTHTVKTLE
+cTPCHL87	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|184724|estExt_fgenesh2_kg.C_290018 	{LI818r-1} stress-related chlorophyll a/b binding protein	MAMMMRKAAAVPASSRRSVAVNSVSGKRTVSGKAGAPVPEDVLAYAKTLPGVTAPFDNVFDPAGFLATASVKDVRRWRESEITHGRVAMLAALGF
+cTPCHL88	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|101528|e_gwH.1.346.1 {PGLS}		VLLYVTPEKAQAGLVKLVEEAAAEAVKAKGAFTLVLSGGSLPSLLAPLAASKSVDWSKTHIFYVDERNVPHSSADSTHKAVSEALLSKVPIPAAQVY
+cTPCHL89	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|195629|MAY_CACW7214.fwd 	{PRPS16 } Plastid ribosomal protein S16, imported to chloroplast, small ribosomal subunit	MQALSAKRSLGSIQPFTSSRVAVARPARVATVIENRVALRFQRFGRKKLPFYRLVAIDSKKRRDGEPLEYLGWYDPLKKETNLNAPAIKEWLAKGAL
+cTPCHL90	Chloroplaste	Chlamydomonas reinhardtii	Terashima et al(2011)	jgi|Chlre3|193756|estExt_fgenesh2_pg.C_480012 	{YCF39} Putative pyridine nucleotide binding protein	MQVLRGAAQHGHSQLGTSQTRAARSTKPCVHMSTSVKSHASHVNRQELAPEATARPVDAVDAPAPTPGVPTRRRGLLLFGLASVAASCSGLDLAACA
+cTPCHL91	Chloroplaste	Chlamydomonas reinhardtii	Bruce et al(2000)		Rubisco activase	MQVTMKSSAVSGQRVGGARVATRSVRRAQLQV
+cTPCHL92	Chloroplaste	Chlamydomonas reinhardtii	Bruce et al(2000)		Ferredoxin	MAMAMRSTFAARVGAKPAVRGARPASRMSCMA
