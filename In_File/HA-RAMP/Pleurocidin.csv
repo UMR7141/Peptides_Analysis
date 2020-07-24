@@ -1,0 +1,32 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+PLE1	Pleurocidin	2	Morone chrysops [White bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ206	Moronecidin	FFHHIFRGIVHVGKTIHKLVTGG	
+PLE2	Pleurocidin	2	Morone saxatilis [Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ207	Moronecidin	FFHHIFRGIVHVGKTIHRLVTGG	2JOS, 2OJM
+PLE3	Pleurocidin	2	Morone chrysops [White bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ208	Moronecidin	FFHHIFRGIVHVGRTIHKLVTGG	
+PLE4	Pleurocidin	2	Morone saxatilis [Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ209	Moronecidin	FFHHIFRGIVHVGRTIHRLVTGG	2JOS, 2OJM
+PLE5	Pleurocidin	2	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ353	Pleurocidin-like peptide AP1	GWKSVFRKAKKVGKTVGGLALDHYLG	
+PLE6	Pleurocidin	2	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ354	Pleurocidin-like peptide AP2	GWKKWFNRAKKVGKTVGGLAVDHYLG	
+PLE7	Pleurocidin	2	Limanda ferruginea [Yellowtail flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ355	Pleurocidin-like peptide YT2	RWGKWFKKATHVGKHVGKAALTAYL	
+PLE8	Pleurocidin	2	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ356	Pleurocidin-like peptide GcSc4C5	GWGSIFKHIFKAGKFIHGAIQAHNDG	
+PLE9	Pleurocidin	2	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ357	Pleurocidin-like peptide GcSc4B7	FWGKLLKLGMHGIGLLHQHLG	
+PLE10	Pleurocidin	2	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ358	Pleurocidin-like peptide GC3.2	GWKKWFTKGERLSQRHFA	
+PLE11	Pleurocidin	1	Hippoglossus hippoglossus [Atlantic halibut]	http://www.camp.bicnirrh.res.in/	CAMPSQ359	Pleurocidin-like peptide Hb26	FLGLLFHGVHHVGKWIHGLIHGHH	
+PLE12	Pleurocidin	1	Hippoglossus hippoglossus [Atlantic halibut]	http://www.camp.bicnirrh.res.in/	CAMPSQ360	Pleurocidin-like peptide Hb18	GFLGILFHGVHHGRKKALQMNSERRS	
+PLE13	Pleurocidin	1	Epinephelus coioides [Orange-spotted grouper]	http://www.camp.bicnirrh.res.in/	CAMPSQ366	Epinecidin-1	FIFHIIKGLFHAGKMIHGLVTRRRH	
+PLE14	Pleurocidin	2	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ372	Moronecidin	FFHHIFRGIVHVGKTIHRLVTG	2JOS, 2OJM
+PLE15	Pleurocidin	2	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ373	Moronecidin	FFHHIFRGIVHVGKTIHKLVTG	
+PLE16	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ374	Pleurocidin	GWGSFFKKAAHVGKHVGKAALTHYL	1Z64
+PLE17	Pleurocidin	2	Siniperca chuatsi [Chinese perch]	http://www.camp.bicnirrh.res.in/	CAMPSQ520	Moronecidin	IFHHIFKGIVHVGKTIHRLVTG	
+PLE18	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ672	Pleurocidin-like peptide WFX	RSTEDIIKSISGGGFLNAMNA	
+PLE19	Pleurocidin	2	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ675	Pleurocidin-like peptide AP3	GWRTLLKKAEVKTVGKLALKHYL	
+PLE20	Pleurocidin	1	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ861	Winter flounder 1	GKGRWLERIGKAGGIIIGGALDHL	
+PLE21	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ862	Winter flounder 1a	WLRRIGKGVKIIGGAALDHL	
+PLE22	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ863	Winter flounder 1a1	GRRKRKWLRRIGKGVKIIGGAALDHL	
+PLE23	Pleurocidin	1	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ864	Winter flounder 3	FLGALIKGAIHGGRFIHGMIQNHH	
+PLE24	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ865	Winter flounder 4	GWGSIFKHGRHAAKHIGHAAVNHYL	
+PLE25	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ866	Winter flounder Y	FFRLLFHGVHHGGGYLNAA	
+PLE26	Pleurocidin	2	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ867	Winter flounder Z	FFRLLFHGVHHVGKIKPRA	
+PLE27	Pleurocidin	2	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ868	Witch flounder GcSc4C5	AGWGSIFKHIFKAGKFIHGAIQAHND	
+PLE28	Pleurocidin	1	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ869	Witch flounder GcSc4B7	GFWGKLFKLGLHGIGLLHLHL	
+PLE29	Pleurocidin	2	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ870	Witch flounder GC3.8-t	GWKKWLRKGAKHLGQAAIK	
+PLE30	Pleurocidin	1	Halibut	http://www.camp.bicnirrh.res.in/	CAMPSQ871	Halibut Hb18	GFLGILFHGVHHGRKKALHMNSERRS	
+PLE31	Pleurocidin	2	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ3199	Piscidin 4	FFRHLFRGAKAIFRGARQGWRAHKVVSRYRNRDVPETDNNQEEP	

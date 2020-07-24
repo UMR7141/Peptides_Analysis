@@ -1,0 +1,45 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+RAN1	Ranatuerin	2	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ100	Ranatuerin-2SEA	GFISTVKNLATNVAGTVIDTIKCKVTGGC	
+RAN2	Ranatuerin	2	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ101	Ranatuerin-2SEB	AIMDTIKDTAKTVAVGLLNKLKCKITGC	
+RAN3	Ranatuerin	2	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ102	Ranatuerin-2SEC	GIMDTIKDTAKTVAVGLLNKLKCKITGC	
+RAN4	Ranatuerin	2	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ423	Ranatuerin-1T	GLLSGLKKVGKHVAKNVAVSLMDSLKCKISGDC	
+RAN5	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ424	Ranatuerin-1	SMLSVLKNLGKVGLGFVACKINKQC	
+RAN6	Ranatuerin	2	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ425	Ranatuerin-2	GLFLDTLKGAAKDVAGKLEGLKCKITGCKLP	
+RAN7	Ranatuerin	2	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ426	Ranatuerin-3	GFLDIINKLGKTFAGHMLDKIKCTIGTCPPSP	
+RAN8	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ427	Ranatuerin-4	FLPFIARLAAKVFPSIICSVTKKC	
+RAN9	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ428	Ranatuerin-5	FLPIASLLGKYL	
+RAN10	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ429	Ranatuerin-6	FISAIASMLGKFL	
+RAN11	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ430	Ranatuerin-7	FLSAIASMLGKFL	
+RAN12	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ431	Ranatuerin-8	FISAIASFLGKFL	
+RAN13	Ranatuerin	1	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ432	Ranatuerin-9	FLFPLITSFLSKVL	
+RAN14	Ranatuerin	2	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ433	Ranatuerin-2La	GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC	
+RAN15	Ranatuerin	2	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ434	Ranatuerin-2Lb	GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC	
+RAN16	Ranatuerin	2	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ435	Ranatuerin-2B	GLLDTIKGVAKTVAASMLDKLKCKISGC	
+RAN17	Ranatuerin	1	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ436	Ranatuerin-1C	SMLSVLKNLGKVGLGLVACKINKQC	
+RAN18	Ranatuerin	2	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ439	Ranatuerin-2Ca	GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP	
+RAN19	Ranatuerin	2	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ440	Ranatuerin-2Cb	GLFLDTLKGLAGKLLQGLKCIKAGCKP	
+RAN20	Ranatuerin	2	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ503	Ranatuerin-2BYa	GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC	
+RAN21	Ranatuerin	2	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ504	Ranatuerin-2BYb	GIMDSVKGLAKNLAGKLLDSLKCKITGC	
+RAN22	Ranatuerin	2	Rana sakuraii [Japanese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ682	Ranatuerin 2SKa	GLLDAIKDTAQNLFANVLDKIKCKFTKC	
+RAN23	Ranatuerin	2	Rana cascadae	http://www.camp.bicnirrh.res.in/	CAMPSQ996	Ranatuerin-2CSa	GILSSFKGVAKGVAKDLAGKLLETLKCKITGC	2K10
+RAN24	Ranatuerin	2	Rana dybowskii [Dybowsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2676	Ranatuerin-2YJ precursor	LMDIFKVAVNKLLAAGMNKPRCKAAHC	
+RAN25	Ranatuerin	2	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2727	RANATUERIN 2P	LMDTVKNVAKNLAGHMLDKLKCKITGC	
+RAN26	Ranatuerin	2	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2828	Ranatuerin-2PLa	GIMDTVKNVAKNLAGQLLDKLKCKITAC	
+RAN27	Ranatuerin	2	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2829	Ranatuerin-2PLb	GIMDTVKNAAKDLAGQLLDKLKCRITGC	
+RAN28	Ranatuerin	2	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2830	Ranatuerin-2PLd	GIMDSVKNVAKNIAGQLLDKLKCKITGC	
+RAN29	Ranatuerin	2	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2831	Ranatuerin-2PLc	GLLDTKNTAKNLAVGLLDKIKCKMTGC	
+RAN30	Ranatuerin	2	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2832	Ranatuerin-2PLf	GIMDTVKNAAKDLAGQLDKLKCRITGC	
+RAN31	Ranatuerin	1	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2905	Ranatuerin-1Ga	SMISVLKNLGKVGLGFVACKVNKQC	
+RAN32	Ranatuerin	1	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2906	Ranalexin-1G	FLGGLMKIIPAAFCAVTKKC	
+RAN33	Ranatuerin	2	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2907	Ranatuerin-2G	GLLLDTLKGAAKDIAGIALEKLKCKITGCKP	
+RAN34	Ranatuerin	2	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3137	Ranatuerin-2PRa	GLMDVFKGAAKNLLASALDKIRCKVTKC	
+RAN35	Ranatuerin	2	Rana areolata [Crawfish frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3145	Ranatuerin-2ARa	GLMDTVKNAAKNLAGQLLDTIKCKMTGC	
+RAN36	Ranatuerin	2	Rana areolata [Crawfish frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3146	Ranatuerin-2ARb	GILDTIKNAAKTVAVGLLEKIKCKMTGC	
+RAN37	Ranatuerin	2	Rana muscosa [Mountain yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3223	Ranatuerin-2Ma	GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC	
+RAN38	Ranatuerin	2	Rana muscosa [Mountain yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3224	Ranatuerin-2Mb	GIMDSVKGVAKNLAAKLLEKLKCKITGC	
+RAN39	Ranatuerin	2	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3231	Ranatuerin-2Ya	GLMDTIKGVAKTVAASWLDKLKCKITGC	
+RAN40	Ranatuerin	2	Rana aurora aurora [Northern red-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3232	Ranatuerin-2AUa	GILSSFKGVAKGVAKNLAGKLLDELKCKITGC	
+RAN41	Ranatuerin	2	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3445	Ranatuerin-2PRb	GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC	
+RAN42	Ranatuerin	2	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3768	Ranatuerin-2CHa	GLMDTVKNAAKNLAGQLLDRLKCKITGC	
+RAN43	Ranatuerin	2	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3769	Ranatuerin-2CHb	GLMDTIKGVAKNVAASLLEKLKCKVTGC	
+RAN44	Ranatuerin	2	Rana arvalis [Moor frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3868	Ranatuerin-2AVa	GLLDVVKGAAKNLLASALDKLKCKVTGC	

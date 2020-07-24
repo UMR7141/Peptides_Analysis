@@ -1,0 +1,466 @@
+Index	Familly	Group	Species	Source	ID	Title	Sequence	PDB
+MAG1	Magainin	2.0	Xenopus laevis	http://www.camp.bicnirrh.res.in/	CAMPSQ109	Magainin-1 	GIGKFLHSAGKFGKAFVGEIMKS	
+MAG2	Magainin	2.0	Xenopus laevis	http://www.camp.bicnirrh.res.in/	CAMPSQ110	Magainin 2	GIGKFLHSAKKFGKAFVGEIMNS	1DUM,2MAG
+CER1	Cecropin	2.0	Manduca sexta	http://www.camp.bicnirrh.res.in/	CAMPSQ54	Bactericidin B-4 	WNPFKELERAGQRVRDAIISAAPAVATVGQAAAIARG	
+CER2	Cecropin	2.0	Manduca sexta	http://www.camp.bicnirrh.res.in/	CAMPSQ55	Bactericidin B-5P precursor 	WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARGG	
+CER3	Cecropin	2.0	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ56	Cecropin-A 	KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK	
+CER4	Cecropin	2.0	Antheraea pernyi	http://www.camp.bicnirrh.res.in/	CAMPSQ57	Cecropin-B	KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL	
+CER5	Cecropin	2.0	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ58	Cecropin-B	KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL	
+CER6	Cecropin	2.0	Antheraea pernyi	http://www.camp.bicnirrh.res.in/	CAMPSQ59	Cecropin-D	WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK	
+CER7	Cecropin	2.0	Hyalophora cecropia	http://www.camp.bicnirrh.res.in/	CAMPSQ60	Cecropin-D	WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK	
+CER8	Cecropin	2.0	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ125	Sarcotoxin-1A 	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATAR	
+CER9	Cecropin	2.0	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ126	Sarcotoxin-1B	GWLKKIGKKIERVGQHTRDATIQVIGVAQQAANVAATAR	
+CER10	Cecropin	2.0	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ127	Sarcotoxin-1C	GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATAR	
+CER11	Cecropin	2.0	Sarcophaga peregrina	http://www.camp.bicnirrh.res.in/	CAMPSQ128	Sarcotoxin-1D	GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG	
+CER12	Cecropin	2.0	Galleria mellonella	http://www.camp.bicnirrh.res.in/	CAMPSQ161	Cecropin-D-like peptide	ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD	
+CER13	Cecropin	2.0	Bombyx mori	http://www.camp.bicnirrh.res.in/	CAMPSQ251	Cecropin A1, Lepidopteran C. 	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSL	
+CER14	Cecropin	2.0	Bombyx mori	http://www.camp.bicnirrh.res.in/	CAMPSQ252	Cecropin B1	RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAI	
+CER15	Cecropin	2.0	Oiketicus kirbyi 	http://www.camp.bicnirrh.res.in/	CAMPSQ285	Cecropin	WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT	
+CER16	Cecropin	2.0	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ286	Cecropin-A	RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL	
+CER17	Cecropin	2.0	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ287	Cecropin-B	KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN	
+CER18	Cecropin	2.0	Heliothis virescens	http://www.camp.bicnirrh.res.in/	CAMPSQ288	Cecropin-C	RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK	
+CER19	Cecropin	2.0	Anopheles gambiae	http://www.camp.bicnirrh.res.in/	CAMPSQ471	Cecropin-A precursor	GRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG	
+CER20	Cecropin	2.0	Culex pipiens pipiens	http://www.camp.bicnirrh.res.in/	CAMPSQ473	Cecropin-B2	GRSKKLGKKIEKAGKRVFNAAQKGLPVAAGVQAL	
+CER21	Cecropin	2.0	Culex pipiens pipiens	http://www.camp.bicnirrh.res.in/	CAMPSQ474	Cecropin-B1	GRLKKLGKKIEKAGKRVFNAVQKGLPVAAGVQAL	
+CER22	Cecropin	2.0	Ceratitis capitata	http://www.camp.bicnirrh.res.in/	CAMPSQ513	Cecropin-1	GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATAR	
+CER23	Cecropin	2.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ534	Cecropin P1	SWLSKTAKKLENSAKKRISEGIAIAIQGGPR	2N92
+CER24	Cecropin	2.0	Artogeia rapae	http://www.camp.bicnirrh.res.in/	CAMPSQ812	Hinnavin II	KWKIFKKIEHMGQNIRDGLIKAGPAVQVVGQAATIYKG	
+CER25	Cecropin	2.0	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ883	Andropin	VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK	
+CER26	Cecropin	2.0	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ886	Cecropin-A1/A2	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG	
+CER27	Cecropin	2.0	Drosophila melanogaster	http://www.camp.bicnirrh.res.in/	CAMPSQ887	Cecropin-B	GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	
+CER28	Cecropin	2.0	Aedes aegypti	http://www.camp.bicnirrh.res.in/	CAMPSQ1107	Cecropin-A	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL	
+CER29	Cecropin	2.0	Spodoptera litura	http://www.camp.bicnirrh.res.in/	CAMPSQ1134	Cecropin-B	RWKVFKKIEKMGRNIRDGIVKAGPAIEVLGSAKALGK	
+CER30	Cecropin	2.0	Spodoptera litura	http://www.camp.bicnirrh.res.in/	CAMPSQ1135	Cecropin-A	RWKVFKKIEKVGRNVRDGIIKAGPAIGVLGQAKALG	
+CER31	Cecropin	2.0	Glossina morsitans morsitans 	http://www.camp.bicnirrh.res.in/	CAMPSQ1259	Cecropin	GWLKKIGKKIERVGQNTRDATVKGLEVAQQAANVAATVR	
+CER32	Cecropin	2.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2592	Cecropin-P3	WLSKTAKKLENSAKKRISEGIAIAIKGGSR	
+CER33	Cecropin	2.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ2593	Cecropin-P2	WLSKTYKKLENSAKKRISEGIAIAIQGGPR	
+CER35	Cecropin	2.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3309	  Cecropin P2 	SWLSKTYKKLENSAKKRISEGIAIAIQGGPR	
+CER36	Cecropin	2.0	Ascaris suum	http://www.camp.bicnirrh.res.in/	CAMPSQ3310	  Cecropin P3 	SWLSKTAKKLENSAKKRISEGIAIAIKGGSR	
+CER38	Cecropin	2.0	Plutella xylostella L	http://www.camp.bicnirrh.res.in/	CAMPSQ3703	  Px-cec1 	KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK	
+DER1	Dermaseptin	2.0	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ36	Dermaseptin-1, DShypo 01	GLWSTIKNVGKEAAIAAGKAALGAL	
+DER3	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ139	Dermaseptin-B3 	ALWKNMLKGIGKLAGQAALGAVKTLVGA	
+DER4	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ140	Dermaseptin-B4 	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	
+DER6	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ194	Dermaseptin B2 	AMWKDVLKKIGTVALHAGKAALGAVADTISQ	
+DER9	Dermaseptin	2.0	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ332	Dermaseptin-1 	ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ	
+DER10	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ389	Dermaseptin-B5 	GLWNKIKEAASKAAGKAALGFVNEMV	
+DER11	Dermaseptin	2.0	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ418	Dermadistinctin-K 	GLWSKIKAAGKEAAKAAAKAAGKAALNAVSEAV	2JX6,2K9B
+DER12	Dermaseptin	2.0	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ419	Dermadistinctin-L 	ALWKTLLKNVGKAAGKAALNAVTDMVNQ	
+DER13	Dermaseptin	2.0	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ420	Dermadistinctin-M 	ALWKTMLKKLGTMALHAGKAAFGAAADTISQ	
+DER14	Dermaseptin	2.0	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ421	Dermadistinctin-Q1 	ALWKNMLKGIGKLAGQAALGAVKTLVGAES	
+DER15	Dermaseptin	2.0	Phyllomedusa distincta	http://www.camp.bicnirrh.res.in/	CAMPSQ422	Dermadistinctin-Q2 	GLWSKIKEAAKTAGLMAMGFVNDMV	
+DER16	Dermaseptin	2.0	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ465	Dermaseptin-2 	ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ	
+DER17	Dermaseptin	2.0	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ466	Dermaseptin-3	ALWKNMLKGIGKLAGKAALGAVKKLVGAES	
+DER18	Dermaseptin	2.0	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ467	Dermaseptin-4 	ALWMTLLKKVLKAAAKALNAVLVGANA	2DCX,2DD6
+DER19	Dermaseptin	2.0	Phyllomedusa sauvagii	http://www.camp.bicnirrh.res.in/	CAMPSQ468	Dermaseptin-5	GLWSKIKTAGKSVAKAAAKAAVKAVTNAV	
+DER20	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ538	Adenoregulin 	GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV	
+DER22	Dermaseptin	2.0	Phyllomedusa bicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ850	Dermaseptin-3	ALWKTIIKGAGKMIGSLAKNLLGSQAQPES	
+DER23	Dermaseptin	2.0	Phyllomedusa azurea 	http://www.camp.bicnirrh.res.in/	CAMPSQ1059	Dermaseptin-H5	GLWSTIKNVGKEAAIAAGKAVLGSL	
+DER24	Dermaseptin	2.0	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ1885	Dermaseptin-5	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	
+DER26	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2957	  Dermaseptin-S6	GLWSKIKTAGKEAAKAAAKAAGKAALNAVSEAI	
+DER27	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2958	  Dermaseptin-S7	GLWKSLLKNVGKAAGKAALNAVTDMVNQ	
+DER28	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2959	  Dermaseptin-S8	ALWKTMLKKLGTVALHAGKAALGAAADTISQ	
+DER30	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2962	Dermaseptin-S11	ALWKTLLKGAGKVFGHVAKQFLGSQGQPES	
+DER31	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2963	Dermaseptin-S12	GLWSKIKEAAKTAGKMAMGFVNDMV	
+DER32	Dermaseptin	2.0	Phyllomedusa sauvagei	http://www.camp.bicnirrh.res.in/	CAMPSQ2964	Dermaseptin-S13	GLRSKIKEAAKTAGKMALGFVNDMA	
+DER33	Dermaseptin	2.0	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ2965	  Dermaseptin H2	ALWKSLLKNVGVAAGKAALNAVTDMVNQ	
+DER34	Dermaseptin	2.0	Hylomantis lemur	http://www.camp.bicnirrh.res.in/	CAMPSQ2968	  Dermaseptin-L1 	GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS	
+DER35	Dermaseptin	2.0	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ3184	  Dermaseptin H4 	GLWSTIKNVGKEAAIAAGKAALGALGEQ	
+DER36	Dermaseptin	2.0	Phyllomedusa hypochondrialis	http://www.camp.bicnirrh.res.in/	CAMPSQ3185	  Dermaseptin H5 	GLWSTIKNVGKEAAIAAGKAVLGSLGEQ	
+DER37	Dermaseptin	2.0	Pachymedusa dacnicolor	http://www.camp.bicnirrh.res.in/	CAMPSQ3326	Dermaseptin DA4	GMWSKIKNAGKAAKAAAKAAGKAALGAVSEAM	
+DER38	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3879	Dermaseptin-7 	ALWKDVLKKIGTVALHAGKAALGAVADTISQ	
+DER39	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3880	Dermaseptin-8 	SLRGFLKGVGTALAGVGKVVADQFDKLLQAGQ	
+DER40	Dermaseptin	2.0	Schistosoma mansoni 	http://www.camp.bicnirrh.res.in/	CAMPSQ3944	Dermaseptin-like peptide 	DLWNSIKDMAAAAGRAALNAVTGMVNQ	
+DER41	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3945	Dermaseptin-3 	GLFKTLIKGAGKMLGHVAKQFLGSQGQPES	
+DER42	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3946	Dermaseptin-5 	GLWSKIKEAAKTAGKAAMGFVNEMV	
+DER43	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ3951	Dermaseptin-4 	ALWKDILKNAGKAALNEINQIVQ	
+DER44	Dermaseptin	2.0	Phyllomedusa tarsius 	http://www.camp.bicnirrh.res.in/	CAMPSQ4507	Dermaseptin-1	GLWSKIKETGKEAAKAAGKAALNKIAEAV	
+E1S1	Esculentin 1	2.0	Rana sevosa	http://www.camp.bicnirrh.res.in/	CAMPSQ96	Esculentin-1SEA	GLFSKFNKKKIKSGLIKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	
+E1S2	Esculentin 1	2.0	Rana sevosa	http://www.camp.bicnirrh.res.in/	CAMPSQ97	Esculentin-1SEB	GLFSKFNKKKIKSGLFKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	
+E1S3	Esculentin 1	2.0	Rana esculenta	http://www.camp.bicnirrh.res.in/	CAMPSQ459	Esculentin-1	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	
+E1S4	Esculentin 1	2.0	Rana esculenta (edible frog )	http://www.camp.bicnirrh.res.in/	CAMPSQ605	Esculentin-1A	GIFSKLAGKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	5XDJ,2N6M
+E1S5	Esculentin 1	2.0	Rana grahami	http://www.camp.bicnirrh.res.in/	CAMPSQ991	Esculentin-IGra	GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	
+E1S6	Esculentin 1	2.0	Rana hosii	http://www.camp.bicnirrh.res.in/	CAMPSQ1077	Esculentin-1HSa	GIFSKFGGKAIKNLFIKGAKNIGKEVGMDVIRTGIDVAGCKIKGEC	
+E1S7	Esculentin 1	2.0	Rana palustris	http://www.camp.bicnirrh.res.in/	CAMPSQ2826	  Esculentin-1PLa   	GLFPKINKKKAKTGVFNIIKTVGKEAGMDLIRTGIDTIGCKIKGEC	
+E1S8	Esculentin 1	2.0	Rana areolata	http://www.camp.bicnirrh.res.in/	CAMPSQ3143	  Esculentin-1ARa 	GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC	
+E1S9	Esculentin 1	2.0	Rana areolata	http://www.camp.bicnirrh.res.in/	CAMPSQ3144	  Esculentin-1ARb 	GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC	
+E1S10	Esculentin 1	2.0	Rana esculenta	http://www.camp.bicnirrh.res.in/	CAMPSQ3406	Esculentin-1c	GIFSKLAGKKIKNLLISGLKNIGKEVGMDVVRTGIDIAGCKIKGEC	
+E1S11	Esculentin 1	2.0	Odorrana ishikawae	http://www.camp.bicnirrh.res.in/	CAMPSQ3430	  Esculentin-1ISa  	GIFSKFAGKGIKNLLVKGVKNIGKEVGMDVIRTGIDIAGCKIKGEC	
+E1S12	Esculentin 1	2.0	Odorrana ishikawae	http://www.camp.bicnirrh.res.in/	CAMPSQ3431	  Esculentin-1ISb  	RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC	
+E1S13	Esculentin 1	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3562	  Esculentin-1-OA1 	GLFSKFVGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	
+E1S14	Esculentin 1	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3563	  Esculentin-1-OA2 	GLFSKFSGKGIKNFLIKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	
+E1S15	Esculentin 1	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3564	  Esculentin-1-OA3 	GLFSKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	
+E1S16	Esculentin 1	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3565	  Esculentin-1-OA4 	GLFTKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	
+E1S17	Esculentin 1	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3566	  Esculentin-1-OA5 	GLFSKFAGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	
+E1S18	Esculentin 1	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3568	  Esculentin-1-OR1 	GIFSKISGKAIKNLFIKGAKNVGKEVGMDVVRTGIDVVGCKIKGEC	
+E1S19	Esculentin 1	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3570	  Esculentin-1-OR3 	GIFSKISGKAIKNLFIKGAKNVGKRVGMDVVRTGMDVVGCKIKGEC	
+E1S20	Esculentin 1	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3571	  Esculentin-1-OR4 	GIFSKISGKAIKNLFIKGAENVGKHVGIDVVRTGIDVVGCKIKGEC	
+E1S21	Esculentin 1	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3572	  Esculentin-1-OR5 	GIFSKISGKAIKNLFIKGAKNVGKEVGIDVVRTGMDVVGCKIKGEC	
+E1S22	Esculentin 1	2.0	Rana palustris	http://www.camp.bicnirrh.res.in/	CAMPSQ4335	  Esculentin-1PLb 	GIFTKINKKKAKTGVFNIIKTIGKEAGMDVIRAGIDTISCKIKGEC	
+E2S1	Esculentin 2	2.0	Rana sevosa	http://www.camp.bicnirrh.res.in/	CAMPSQ98	Esculentin-2SE	GFFSLIKGVAKIATKGLAKNLGKMGLDLVGCKISKEC	
+E2S2	Esculentin 2	2.0	Rana luteiventris	http://www.camp.bicnirrh.res.in/	CAMPSQ415	Esculentin-2L	GILSLFTGGIKALGKTLFKMAGKAGAEHLACKATNQC	
+E2S3	Esculentin 2	2.0	Rana berlandieri	http://www.camp.bicnirrh.res.in/	CAMPSQ416	Esculentin-2B	GLFSILRGAAKFASKGLGKDLTKLGVDLVACKISKQC	
+E2S4	Esculentin 2	2.0	Rana pipiens	http://www.camp.bicnirrh.res.in/	CAMPSQ417	Esculentin-2P	GFSSIFRGVAKFASKGLGKDLARLGVNLVACKISKQC	
+E2S5	Esculentin 2	2.0	Rana esculenta (edible frog )	http://www.camp.bicnirrh.res.in/	CAMPSQ606	Esculentin-2A	GILSLVKGVAKLAGKGLAKEGGKFGLELIACKIAKQC	
+E2S6	Esculentin 2	2.0	Rana esculenta (edible frog )	http://www.camp.bicnirrh.res.in/	CAMPSQ607	Esculentin-2B	GIFSLVKGAAKLAGKGLAKEGGKFGLELIACKIAKQC	
+E2S7	Esculentin 2	2.0	Odorrana schmackeri	http://www.camp.bicnirrh.res.in/	CAMPSQ656	Esculentin-2S	GLFTLIKGAVKMIGKTVAKEAGKTGLELMACKVTNQC	
+E2S8	Esculentin 2	2.0	Rana esculenta	http://www.camp.bicnirrh.res.in/	CAMPSQ688	Esculentin-1B precursor	GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	
+E2S9	Esculentin 2	2.0	Rana grahami	http://www.camp.bicnirrh.res.in/	CAMPSQ994	Esculentin-2-OG10	GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	
+E2S10	Esculentin 2	2.0	Rana hosii	http://www.camp.bicnirrh.res.in/	CAMPSQ1076	Esculentin-2HSa	GIFSLIKGAAQLIGKTVAKEAGKTGLELMACKVTKQC	
+E2S11	Esculentin 2	2.0	Rana palustris	http://www.camp.bicnirrh.res.in/	CAMPSQ2827	  Esculentin-2PLa   	GLFSILKGVGKIALKGLAKNMGKMGLDLVSCKISKEC	
+E2S12	Esculentin 2	2.0	Odorrana ishikawae	http://www.camp.bicnirrh.res.in/	CAMPSQ3432	  Esculentin-2ISa  	GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC	
+E2S13	Esculentin 2	2.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3442	  Esculentin-2PRa 	GVFSFLKTGAKLLGSTLLKMAGKAGAEHLACKATNQC	
+E2S14	Esculentin 2	2.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3443	  Esculentin-2PRb	GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC	
+E2S15	Esculentin 2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3573	  Esculentin-2-OA1	GIFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	
+E2S16	Esculentin 2	2.0	Odorrana andersonii	http://www.camp.bicnirrh.res.in/	CAMPSQ3574	  Esculentin-2-OA2 	GLFTLIKGAAKLIGKTTAKEAGKTGKLEMACKITNQC	
+E2S17	Esculentin 2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3577	  Esculentin-2-OR2 	GVFTLIKGATQLIGKTLGKEVGKTGLELMACKITKQC	
+E2S18	Esculentin 2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3578	  Esculentin-2-OR3 	GVFTLLKGATQLIGKTLGKELGKTGLELMACKITNQC	
+E2S19	Esculentin 2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3579	  Esculentin-2-OR4 	GVFTLIKGATQLIGKTLGKELGKTGLELMACKITEQC	
+E2S20	Esculentin 2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3580	  Esculentin-2-OR5 	GVFTLIKGATQLIGKTLGKELGKTGLEIMACKITKQC	
+E2S21	Esculentin 2	2.0	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3767	  Esculentin-2CHa 	GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC	
+E2S22	Esculentin 2	2.0	Amolops loloensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3630	  Esculentin-2-ALa 	GIFALIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC	
+E2S23	Esculentin 2	2.0	Amolops loloensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3631	  Esculentin-2-ALb 	GIFSLIKTAAKFVGKNLLKQAGKAGVEHLACKANNQC	
+E2S24	Esculentin 2	2.0	Amolops chunganensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3717	Esculentin-2CG1	SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC	
+MAX1	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1538	Maximin-7	GIGAKILGGVKTALKGALKELASTYVN	
+MAX3	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3457	Maximin 31	GIGGALLSAGKSALKGLAKGLAEHF	
+MAX4	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1311	Maximin-6	GIGGALLSAGKSALKGLAKGLAEHFAN	
+MAX5	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1752	Maximin-10	GIGGALLSAGKSALKGLAKGLAEHFAS	
+MAX6	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3467	Maximin 77	GIGGALLSAGKSALKGLAKGLAEHL	
+MAX8	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3460	Maximin 41	GIGGALLSVGKSALKGLTKGLAEHF	
+MAX9	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3458	Maximin 32	GIGGKILGGLKTALKGAAKELASTYLH	
+MAX10	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3461	Maximin 45	GIGGKILGGLRTALKGAAKELAATYLH	
+MAX11	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ259	Maximin 3	GIGGKILSGLKTALKGAAKELASTYLH	6HZ2
+MAX15	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1754	Maximin-9	GIGRKFLGGVKTTFRCGVKDFASKHLY	
+MAX16	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3459	Maximin 39	GIGTKFLGGVKTALKGALKELAFTYVN	
+MAX17	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3456	Maximin 28	GIGTKFLGGVKTALKGALKELASTYVN	
+MAX18	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ1778	Maximin-11	GIGTKIIGGLKTAVKGALKELASTYVN	
+MAX19	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3455	Maximin 15	GIGTKILGGVKAALKGALKELASTYVN	
+MAX20	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ256	Maximin 1	GIGTKILGGVKTALKGALKELASTYAN	
+MAX21	Maximin	2.0	Bombina maxima	Lee et al. (2005)		Maximin 8	GIGTKILGGLKTAVKGALKELASTYVN	
+MAX22	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ258	Maximin 2	GIGTKILGGVKTALKGALKELASTYVN	
+MAX23	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ3466	Maximin 42	SIGAKILGGVKTFFKGALKELAFTYLQ	
+MAX24	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ263	Maximin 5	SIGAKILGGVKTFFKGALKELASTYLQ	
+MAX25	Maximin	2.0	Bombina maxima	Wang et al. (2005)		Maximin S1	GSNTGFNFKTLDKE	
+MAX26	Maximin	2.0	Bombina maxima	Wang et al. (2005)		Maximin S2	GSNKGFNFMVDMIQALSN	
+MAX27	Maximin	2.0	Bombina maxima	Wang et al. (2005)		Maximin S3	GSNKGFNFMVDMINALSN	
+MAX28	Maximin	2.0	Bombina maxima	http://www.camp.bicnirrh.res.in/	CAMPSQ532	Maximin S4	RSNKGFNFMVDMIQALSK	
+DEF1	Defensin	2.0	Homo sapiens (Human)	UNIPROT	O15263	Beta-defensin 4A (Beta-defensin 2) (BD-2) (hBD-2) (Defensin, beta 2) (Skin-antimicrobial peptide 1) (SAP1)	GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP	1E4Q;1FD3;1FD4;1FQQ;6CS9;
+DEF2	Defensin	2.0	Homo sapiens (Human)	UNIPROT	Q8N104	Beta-defensin 106 (Beta-defensin 6) (BD-6) (DEFB-6) (Defensin, beta 106)	FFDEKCNKLKGTCKNNCGKNEELIALCQKSLKCCRTIQPCGSIID	2LWL;
+DEF3	Defensin	2.0	Homo sapiens (Human)	UNIPROT	P60022	Beta-defensin 1 (BD-1) (hBD-1) (Defensin, beta 1)	DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK	1E4S;1IJU;1IJV;1KJ5;2NLB;2NLC;2NLD;2NLE;2NLF;2NLG;2NLH;2NLP;2NLQ;2NLS;2PLZ;
+DEF4	Defensin	2.0	Raphanus sativus (Radish) (Raphanus raphanistrum var. sativus)	UNIPROT	P30230	Defensin-like protein 2 (Cysteine-rich antifungal protein 2) (AFP2) (RAFP2)	QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC	2N2R;
+DEF5	Defensin	2.0	Arabidopsis thaliana (Mouse-ear cress)	UNIPROT	Q4VP08	Protein LURE 1.2 (AtLURE1.2) (Cysteine-Rich Peptide 810_1.2) (CRP810_1.2) (Defensin-like protein 213)	TLINGSSDEERTYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISDIK	5Y9W;5YAH;
+DEF6	Defensin	2.0	Nicotiana suaveolens (Australian tobacco)	UNIPROT	C0HK49	Defensin NsD7	KDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC	5KK4;5VYP;
+DEF7	Defensin	2.0	Archaeoprepona demophon (One-spotted leafwing butterfly)	UNIPROT	P84156	Defensin ARD1	DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	1OZZ;1P00;1P0A;
+DEF8	Defensin	2.0	Raphanus sativus (Radish) (Raphanus raphanistrum var. sativus)	UNIPROT	P69241	Defensin-like protein 1 (Cysteine-rich antifungal protein 1) (AFP1)	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC	1AYJ;
+DEF9	Defensin	2.0	Arabidopsis thaliana (Mouse-ear cress)	UNIPROT	Q42328	Defensin-like protein 195 (ATTp) (Trypsin inhibitor ATTI-1) (diDi 4T-1)	QGNECLKEYGGDVGFGFCAPRIFPTICYTRCRENKGAKGGRCRWGQGSNVKCLCDFCDDTPQ	1JXC;
+DEF10	Defensin	2.0	Centruroides limpidus (Mexican scorpion)	UNIPROT	Q6GU94	Defensin-1 (Cll-dlp)	ACQFWSCNSSCISRGYRQGYCWGIQYKYCQCQ	6B9W;6BAM;6BB6;6BI5;
+DEF11	Defensin	2.0	Protophormia terraenovae (Northern blowfly) (Lucilia terraenovae)	UNIPROT	P10891	Phormicin (Insect defensin A/B)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN	1ICA;
+DEF12	Defensin	2.0	Mytilus galloprovincialis (Mediterranean mussel)	UNIPROT	P80571	Defensin MGD-1 (Fragment)	GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRC	1FJN;
+DEF13	Defensin	2.0	Pentadiplandra brazzeana	UNIPROT	P56552	Defensin-like protein (Brazzein)	QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY	1BRZ;2BRZ;2KGQ;2KYQ;2LY5;2LY6;2N66;2N69;4HE7;
+DEF14	Defensin	2.0	Lens culinaris subsp. culinaris (Cultivated lentil) (Lens esculenta)	UNIPROT	B3F051	Defensin Lc-def	KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC	2LJ7;
+DEF15	Defensin	2.0	Heliothis virescens (Tobacco budworm moth)	UNIPROT	P81544	Defensin heliomicin	DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET	1I2U;1I2V;
+DEF16	Defensin	2.0	Aesculus hippocastanum (Horse chestnut)	UNIPROT	Q7M1F3	Defensin-like protein 1 (Cysteine-rich antimicrobial protein 1) (Defensin AMP1) (AhAMP1)	LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC	1BK8;
+DEF17	Defensin	2.0	Pisum sativum (Garden pea)	UNIPROT	P81929	Defensin-1 (Antifungal protein Psd1) (Defense-related peptide 1)	KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC	1JKZ;2IIW;2IJ1;2IJT;2IJU;2IJV;2IJW;2IKL;2IKM;2IKN;2IKP;2IKR;2IKT;2IKV;2IKW;2IKX;2IKY;2IKZ;2IL0;2ILC;2ILD;2ILE;2ILF;2ILG;2ILH;2ILJ;
+DEF18	Defensin	2.0	Lucilia sericata (Green bottle fly) (Phaenicia sericata)	UNIPROT	P86471	Lucifensin (Sericasin)	ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN	2LLD;
+DEF19	Defensin	2.0	Heuchera sanguinea (Coralbells)	UNIPROT	P0C8Y5	Defensin-like protein 1 (Cysteine-rich antifungal protein 1) (Defensin AFP1) (HsAFP1)	DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC	2N2Q;
+DEF20	Defensin	2.0	Triticum aestivum (Wheat)	UNIPROT	P20158	Defensin-like protein 1 (Gamma-1-purothionin)	KICRRRSAGFKGPCMSNKNCAQVCQQEGWGGGNCDGPFRRCKCIRQC	1GPS;
+DEF21	Defensin	2.0	Pinus sylvestris (Scots pine)	UNIPROT	A4L7R7	Defensin-1	RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP	5NCE;
+DEF22	Defensin	2.0	Hordeum vulgare (Barley)	UNIPROT	P20230	Defensin-like protein 1 (Gamma-hordothionin)	RICRRRSAGFKGPCVSNKNCAQVCMQEGWGGGNCDGPLRRCKCMRRC	1GPT;
+DEF23	Defensin	2.0	Arabidopsis thaliana (Mouse-ear cress)	UNIPROT	Q2V4I8	Defensin-like protein 32	KDIDGRKPLLIGTCIEFPTEKCNKTCIESNFAGGKCVHIGQSLDFVCVCFPKYYI	2MZ0;
+DEF24	Defensin	2.0	Pseudoplectania nigrella (Ebony cup)	UNIPROT	Q53I06	Plectasin	GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY	1ZFU;3E7R;3E7U;
+DEF25	Defensin	2.0	Sarcophaga peregrina (Flesh fly) (Boettcherisca peregrina)	UNIPROT	P18313	Sapecin	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKAVCVCRN	1L4V;
+DEF26	Defensin	2.0	Homo sapiens (Human)	UNIPROT	P78556	C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20) [Cleaved into: CCL20(1-67); CCL20(1-64); CCL20(2-70)]	ASNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM	1M8A;2HCI;2JYO;5UR7;
+DEF27	Defensin	2.0	Hottentotta judaicus (Black scorpion) (Buthotus judaicus)	UNIPROT	P56637	Beta-insect excitatory toxin Bj-xtrIT (Bjxtr-IT) (BjxtrIT)	KKNGYPLDRNGKTTECSGVNAIAPHYCNSECTKVYYAESGYCCWGACYCFGLEDDKPIGPMKDITKKYCDVQIIPS	1BCG;4KYP;
+DEF28	Defensin	2.0	Leiurus hebraeus (Deathstalker scorpion) (Leiurus quinquestriatus hebraeus)	UNIPROT	Q26292	Beta-insect depressant toxin LqhIT2 (Insect toxin 2) (Lqh IT2) (LqhIT2-44)	DGYIKRRDGCKVACLIGNEGCDKECKAYGGSYGYCWTWGLACWCEGLPDDKTWKSETNTCG	2I61;
+DEF29	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P45697	Alpha-like toxin BmK-M1 (BmK I) (BmK-I) (BmKI) (BmK1) (Bmk M1) (BmKM1)	VRDAYIAKPHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCIELPDNVPIRVPGKCH	1DJT;1SN1;1T7A;1T7B;1T7E;1ZU3;1ZUT;1ZVE;1ZVG;1ZYV;1ZYW;
+DEF30	Defensin	2.0	Leiurus hebraeus (Deathstalker scorpion) (Leiurus quinquestriatus hebraeus)	UNIPROT	P17728	Alpha-insect toxin LqhaIT (Lqh-alpha-IT) (Alpha-IT)	VRDAYIAKNYNCVYECFRDAYCNELCTKNGASSGYCQWAGKYGNACWCYALPDNVPIRVPGKCHRK	1LQH;1LQI;2ASC;2ATB;2YEO;
+DEF31	Defensin	2.0	Tityus serrulatus (Brazilian scorpion)	UNIPROT	P15226	Beta-mammal/insect toxin Ts1 (PT-Mice-Ins-beta NaTx6.1) (Tityustoxin VII) (Ts VII) (Ts7) (TsTX-VII) (Toxin II-11) (Toxin III-10) (Toxin T2-IV) (Toxin gamma) (TsTX-I)	KEGYLMDHEGCKLSCFIRPSGYCGRECGIKKGSSGYCAWPACYCYGLPNWVKVWDRATNKC	1B7D;1NPI;
+DEF32	Defensin	2.0	Androctonus australis (Sahara scorpion)	UNIPROT	P01484	Alpha-mammal toxin AaH2 (AaH II) (AaHII) (Neurotoxin 2)	VKDGYIVDDVNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYKLPDHVRTKGPGRCH	1AHO;1PTX;1SEG;4AEI;
+DEF33	Defensin	2.0	Odontobuthus doriae (Yellow Iranian scorpion)	UNIPROT	P84646	Alpha-toxin OD1	GVRDAYIADDKNCVYTCASNGYCNTECTKNGAESGYCQWIGRYGNACWCIKLPDEVPIRIPGKCR	4HHF;
+DEF34	Defensin	2.0	Centruroides suffusus (Durango bark scorpion)	UNIPROT	P08900	Beta-mammal toxin Css2 (Css II) (CssII)	KEGYLVSKSTGCKYECLKLGDNDYCLRECKQQYGKSSGGYCYAFACWCTHLYEQAVVWPLPNKTCN	2LI7;2LJM;
+DEF35	Defensin	2.0	Mus musculus (Mouse)	UNIPROT	O89093	C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (CC chemokine ST38) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20)	ASNYDCCLSYIQTPLPSRAIVGFTRQMADEACDINAIIFHTKKRKSVCADPKQNWVKRAVNLLSLRVKKM	1HA6;
+DEF36	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	O61705	Neurotoxin BmK-M10 (Alpha-neurotoxin TX9) (BmK AngM1) (BmK-X) (BmKX) (BmK10) (BmKalphaTx9) (Bmk M10) (BmkM10) (Neurotoxin M10)	VRDAYIAKPENCVYECGITQDCNKLCTENGAESGYCQWGGKYGNACWCIKLPDSVPIRVPGKCQ	2KBK;
+DEF37	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P01492	Toxin CsEv1 (CsE v1) (Neurotoxin 1)	KEGYLVKKSDGCKYDCFWLGKNEHCDTECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSC	1VNA;1VNB;
+DEF38	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	Q9NJC7	BmK AGP-SYPU2 (Alpha-neurotoxin Tx11) (Alpha-toxin 2) (BmKalpha2) (BmKalphaTx11) (BmKalphaTx11') (Toxin BmTX11') (Toxin Bmka2)	VKDGYIADDRNCPYFCGRNAYCDGECKKNRAESGYCQWASKYGNACWCYKLPDDARIMKPGRCNGG	2KBH;2KBJ;
+DEF39	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	O61668	Beta-insect excitatory toxin BmKIT1 (Bm32-VI) (BmK IT1) (BmK IT) (BmKIT) (BmKIT1) (BmK-betaIT)	KKNGYAVDSSGKVSECLLNNYCNNICTKVYYATSGYCCLLSCYCFGLDDDKAVLKIKDATKSYCDVQII	1WWN;
+DEF40	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P01493	Toxin CsEv2 (CsE v2) (Neurotoxin 2)	KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSCS	1JZA;1JZB;
+DEF41	Defensin	2.0	Centruroides noxius (Mexican scorpion)	UNIPROT	P01495	Beta-mammal toxin Cn2 (Toxin 2) (Toxin II.9.2.2) (Fragment)	KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYAFACWCTHLYEQAIVWPLPNKRCS	1CN2;2YBR;2YC1;4V1D;
+DEF42	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P01494	Toxin CsEv3 (CsE v3) (Neurotoxin 3)	KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSC	2SN3;
+DEF43	Defensin	2.0	Leiurus hebraeus (Deathstalker scorpion) (Leiurus quinquestriatus hebraeus)	UNIPROT	P56678	Alpha-like toxin Lqh3 (Lqh III) (LqhIII)	VRDGYIAQPENCVYHCFPGSSGCDTLCKEKGGTSGHCGFKVGHGLACWCNALPDNVGIIVEGEKCHS	1BMR;1FH3;
+DEF44	Defensin	2.0	Centruroides noxius (Mexican scorpion)	UNIPROT	P45663	Beta-toxin Cn5 (CngtII)	KEGYLVNKSTGCKYGCLLLGKNEGCDKECKAKNQGGSYGYCYAFGCWCEGLPESTPTYPLPNKSCS	2KJA;
+DEF45	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P01491	Beta-toxin CsEI (CsE-I) (Neurotoxin I)	KDGYLVEKTGCKKTCYKLGENDFCNRECKWKHIGGSYGYCYGFGCYCEGLPDSTQTWPLPNKTC	1B3C;2B3C;
+DEF46	Defensin	2.0	Mesobuthus eupeus (Lesser Asian scorpion) (Buthus eupeus)	UNIPROT	P09981	Alpha-like toxin BeM9 (Neurotoxin M9)	ARDAYIAKPHNCVYECYNPKGSYCNDLCTENGAESGYCQILGKYGNACWCIQLPDNVPIRIPGKCH	5MOU;
+DEF47	Defensin	2.0	Tityus serrulatus (Brazilian scorpion)	UNIPROT	P01496	Toxin-5 (Tityustoxin V) (Ts V) (TsV) (Toxin V) [Cleaved into: Alpha-mammal toxin Ts3 (PT-Mice-alpha NaTx3.1) (Tityustoxin IV) (Toxin IV) (Ts IV) (TsIV) (Tityustoxin IV-5) (Toxin IV-5) (TsIV-5) (Toxin-4); Toxin-3 (Tityustoxin III) (Toxin III) (Ts III) (TsIII)] (Fragment)	KKDGYPVEYDNCAYICWNYDNAYCDKLCKDKKADSGYCYWVHILCYCYGLPDSEPTKTNGKCKSGK	5CY0;
+DEF48	Defensin	2.0	Leiurus quinquestriatus quinquestriatus (Egyptian scorpion) (Deathstalker scorpion)	UNIPROT	P01487	Alpha-insect toxin Lqq3 (Lqq III) (LqqIII)	VRDAYIAKNYNCVYECFRDSYCNDLCTKNGASSGYCQWAGKYGNACWCYALPDNVPIRVPGKCH	1LQQ;
+DEF49	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P54135	Alpha-mammal toxin BmK-M8 (BmK8) (Bmk M8) (BmK-VIII) (BmKVIII)	GRDAYIADSENCTYFCGSNPYCNDVCTENGAKSGYCQWAGRYGNACYCIDLPASERIKEPGKCG	1SNB;
+DEF50	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P46066	Alpha-toxin CsE5 (B140-1) (CsE-V) (CsEV) (Neurotoxin V)	KKDGYPVDSGNCKYECLKDDYCNDLCLERKADKGYCYWGKVSCYCYGLPDNSPTKTSGKCNPA	1NRA;1NRB;
+DEF51	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	Q9GQW3	Toxin BmKaIT1 (BmKalphaIT1) (Alpha-neurotoxin IT01) (Alpha-neurotoxin TX12) (BmKalphaIT01) (BmKalphaTx12)	VRDAYIAQNYNCVYHCARDAYCNELCTKNGAKSGSCPYLGEHKFACYCKDLPDNVPIRVPGKCH	1OMY;2E0H;
+DEF52	Defensin	2.0	Parabuthus transvaalicus (South African fattail scorpion)	UNIPROT	P58910	Kurtoxin (Ktx)	KIDGYPVDYWNCKRICWYNNKYCNDLCKGLKADSGYCWGWTLSCYCQGLPDNARIKRSGRCRA	1T1T;
+DEF53	Defensin	2.0	Centruroides noxius (Mexican scorpion)	UNIPROT	P63019	Alpha-toxin Cn12	RDGYPLASNGCKFGCSGLGENNPTCNHVCEKKAGSDYGYCYAWTCYCEHVAEGTVLWGDSGTGPCRS	1PE4;
+DEF54	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P45698	Neurotoxin BmK-M9 (BmK9) (Bmk M9) (BmkM9) (BmK-IX)	VRDAYIAKPENCVYHCATNEGCNKLCTDNGAESGYCQWGGRYGNACWCIKLPDRVPIRVPGKCH	1SN4;
+DEF55	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P58328	Alpha-like toxin BmK-M4 (BmK4) (BmKM4) (Bmk M4) (BmK-IV)	VRDAYIAKPENCVYHCAGNEGCNKLCTDNGAESGYCQWGGRYGNACWCIKLPDDVPIRVPGKCH	1SN4;
+DEF56	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P59854	Alpha-like toxin BmK-M7 (BmKM7) (Bmk M7)	VRDGYIALPHNCAYGCLNNEYCNNLCTKDGAKIGYCNIVGKYGNACWCIQLPDNVPIRVPGRCHPA	1KV0;
+DEF57	Defensin	2.0	Mesobuthus eupeus (Lesser Asian scorpion) (Buthus eupeus)	UNIPROT	P86405	Neurotoxin MeuNaTx-5	ARDAYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCQILGTYGNGCWCIALPDNVPIRIPGKCH	2LKB;
+DEF58	Defensin	2.0	Mesobuthus martensii (Manchurian scorpion) (Buthus martensii)	UNIPROT	P58488	Alpha-like toxin BmK-M2 (BmK M2) (BmKM2)	VRDAYIAKPHNCVYECARNEYCNNLCTKNGAKSGYCQWSGKYGNGCWCIELPDNVPIRVPGKCH	1CHZ;
+DEF59	Defensin	2.0	Centruroides sculpturatus (Arizona bark scorpion)	UNIPROT	P58779	Alpha-like toxin CsEv5 (CsE v5) (CsE-v5)	KDGYPVDSKGCKLSCVANNYCDNQCKMKKASGGHCYAMSCYCEGLPENAKVSDSATNIC	1I6F;1I6G;1NH5;
+DEF60	Defensin	2.0	Hottentotta tamulus (Eastern Indian scorpion) (Mesobuthus tamulus)	UNIPROT	P60277	Neurotoxin BTN	GEDGYIADGDNCTYICTFNNYCHALCTDKKGDSGACDWWVPYGVVCWCEDLPTPVPIRGSGKCR	1DQ7;2A7T;
+BAC1	Bacteriocin IIa	2.0		BACTIBASE	BAC056 	 Plantaricin C19	KYYGNGLSCSKKGCTVNWGQAFSCGVNRVATAGHGK	
+BAC2	Bacteriocin IIa	2.0		BACTIBASE	BAC058 	 leucocin-A  (Leucocin A-UAL 187)	KYYGNGVHCTKSGCSVNWGEAFSAGVHRLANGGNGFW	1CW6,2LEU,3LEU
+BAC3	Bacteriocin IIa	2.0		BACTIBASE	BAC060 	 lactococcin MMFII	TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILW	
+BAC4	Bacteriocin IIa	2.0		BACTIBASE	BAC061 	 mesentericin Y105	KYYGNGVHCTKSGCSVNWGEAASAGIHRLANGGNGFW	
+BAC5	Bacteriocin IIa	2.0		BACTIBASE	BAC064 	 bavaricin-A	KYYGNGVHGKHSTVDWGTAIGNIGNNAAANATGNAGG	
+BAC9	Bacteriocin IIa	2.0		BACTIBASE	BAC070 	 Divergicin M35	TKYYGNGVYCNSKKCWVDWGTAQGCIDVVIGQLGGGIPGKGKC	
+BAC10	Bacteriocin IIa	2.0		BACTIBASE	BAC071 	 leucocin C	KNYGNGVHCTKKGCSVDWGYAWTNIANNSVMNGLTGGNAGWHN	
+BAC11	Bacteriocin IIa	2.0		BACTIBASE	BAC073 	 mundticin	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWSK	
+BAC13	Bacteriocin IIa	2.0		BACTIBASE	BAC078 	 sakacin-P (Sakacin 674)	KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK	1OG7,1OHM,1OHN
+BAC14	Bacteriocin IIa	2.0		BACTIBASE	BAC079 	 Enterocin P	ATRSYGNGVYCNNSKCWVNWGEAKENIAGIVISGWASGLAGMGH	
+BAC15	Bacteriocin IIa	2.0		BACTIBASE	BAC081 	 piscicolin 126	KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG	
+BAC16	Bacteriocin IIa	2.0		BACTIBASE	BAC083 	 pediocin PA-1  (Pediocin ACH)	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	
+BAC17	Bacteriocin IIa	2.0		BACTIBASE	BAC088 	 Enterocin A	TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC	
+BAC18	Bacteriocin IIa	2.0		BACTIBASE	BAC091 	 carnobacteriocin B2 (Carnocin CP52)	VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP	1RY3,1CW5
+BAC19	Bacteriocin IIa	2.0		BACTIBASE	BAC104 	 Plantaricin 423	KYYGNGVTCGKHSCSVNWGQAFSCSVSHLANFGHGKC	
+BAC20	Bacteriocin IIa	2.0		BACTIBASE	BAC107 	 Acidocin A	KTYYGTNGVHCTKKSLWGKVRLKNVIPGTLCRKQSLPIKQDLKILLGWATGAFGKTFH	
+BAC21	Bacteriocin IIa	2.0		BACTIBASE	BAC108 	 Enterocin CRL35 (Mundticin KS)	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS	
+BAC22	Bacteriocin IIa	2.0		BACTIBASE	BAC116 	 Listeriocin 743A	KSYGNGVQCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	
+BAC23	Bacteriocin IIa	2.0		BACTIBASE	BAC118 	 Enterocin SE-K4	ATYYGNGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLGGIGGR	
+BAC24	Bacteriocin IIa	2.0		BACTIBASE	BAC124 	 Penocin A	KYYGNGVHCGKKTCYVDWGQATASIGKIIVNGWTQHGPWAHR	
+BAC25	Bacteriocin IIa	2.0		BACTIBASE	BAC150 	 Ubericin A	KTVNYGNGLYCNQKKCWVNWSETATTIVNNSIMNGLTGGNAGWHSGGRA	
+BAC26	Bacteriocin IIa	2.0		BACTIBASE	BAC167 	 Bacteriocin T8	TYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNH	
+BAC27	Bacteriocin IIa	2.0		BACTIBASE	BAC175 	 Enterocin HF	KYYGNGVSCNKKGCSVDWGKAIGIIGNNAAANLTTGGKAGWKG	
+BAC28	Bacteriocin IIa	2.0		BACTIBASE	BAC180 	 Avicin A	TYYGNGVSCNKKGCSVDWGKAISIIGNNSAANLATGGAAGWKS	
+BAC29	Bacteriocin IIa	2.0		BACTIBASE	BAC184 	 Mundticin L	KYYGNGLSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS	
+BAC30	Bacteriocin IIa	2.0		BACTIBASE	BAC200 	 Weissellin A	KNYGNGVYCNKHKCSVDWATFSANIANNSVAMAGLTGGNAGNK	
+BAC31	Bacteriocin IIa	2.0		BACTIBASE	BAC202 	 Sakacin G	KYYGNGVSCNSHGCSVNWGQAWTCGVNHLANGGHGVC	
+BAC32	Bacteriocin IIa	2.0		BACTIBASE	BAC204 	 Bacillocin 602	ATYYGNGLYCNKQKHYTWVDWNKASREIGKIIVNGWVQH	
+BAC33	Bacteriocin IIa	2.0		BACTIBASE	BAC206 	 Bacillocin 1580	VNYGNGVSCSKTKCSVNWGIITHQAFRVTSGVASG	
+BAC34	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Coagulin	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC	
+BAC35	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Divergicin M35	KYYGNGVYCNSKKCWVDWGTAQGCIDVVIGQLGGGIPGKGKC	
+BAC37	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Listeriocin 743 A 	KSYGNGVHCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	
+BAC38	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Pisciocin CS 526	KYYGNGLSNKKGTVDWGTAIGIIGNNAAANATGGAAGNK	
+BAC39	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Sakacin 5X	KYYGNGLSCNKSGCSVDWSKAISIIGNNAVANLTTGGAAGWKS	
+BAC40	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Leucoccin A 	KYYGNGVHCTKSGCSVNWGEAESAGVHRLANGGNGFW	
+BAC43	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Enterocin P	ATRSYGNGVYCNNSKCWVNWGEAKENIAGIVISGWASGLAQMGH	
+BAC44	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Bacteriocin 31 	ATYYGNGLYCNKCKCWVDWNKASREIGKIIVNGWVQHGPWAPR	
+BAC45	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Bacteriocin RC714 	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAP	
+BAC46	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Bacteriocin T8 	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR	
+BAC47	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Penocin A 	KKYYGNGVHCGKKTCYVDWGQATASIGKIIVNGWTQHGPWAHR	
+BAC48	Bacteriocin IIa	2.0		Drider and Rebuffat(2011)		Enterocin SE-K4 	ATYYGNGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLG	
+LAT1	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ42	Latarcin-1	SMWSGMWRRKLKKLRNALKKKLKGE	
+LAT2	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ4328	Latarcin 4a	GLKDKFKSMGEKLKQYIQTWKAKF	
+LAT3	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ43	Latarcin-2a	GLFGKLIKKFGRKAISYAVKKARGKH	
+LAT4	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ44	Latarcin-2b	GLFGKLIKKFGRKAISYAVKKARGKN	
+LAT5	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ45	Latarcin-3a	SWKSMAKKLKEYMEKLKQRA	
+LAT6	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ46	Latarcin-3b	SWASMAKKLKEYMEKLKQRA	
+LAT7	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ47	Latarcin-4b	SLKDKVKSMGEKLKQYIQTWKAKF	
+LAT8	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ48	Latarcin-5	GFFGKMKEYFKKFGASFKRRFANLKKRL	
+LAT9	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ2987	Latarcin 6a	QAFQTFKPDWNKIRYDAMKMQTSLGQMKKRFNL	
+LAT10	Latracin	2.0	Lachesana tarabaevi [Spider]	http://www.camp.bicnirrh.res.in/	CAMPSQ2988	Latarcin 7	GETFDKLKEKLKTFYQKLVEKAEDLKGDLKAKLS	
+MAS1	Mastoparan	2.0	Vespa magnifica [Hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ14	Mastoparan-like peptide 12a	INWKGIAAMAKKLL	
+MAS2	Mastoparan	2.0	Vespula lewisii [Korean yellow-jacket wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ2744	Mastoparan	INLKALAALAKKIL	1D7N
+MAS3	Mastoparan	2.0	Vespa mandarinia [Asian giant hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ2778	Mastoparan M	INLKAIAALAKKLL	
+MAS4	Mastoparan	2.0	Polistes dorsalis [Paper wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ3389	Pd_mastoparan PDD-A	INWKKIFEKVKNLV	
+MAS5	Mastoparan	2.0	Polistes dorsalis [Paper wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ3390	Pd_mastoparan PDD-B	INWLKLGKKILGAL	
+MAS6	Mastoparan	2.0	Polistes dorsalis [Paper wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ3391	Mp_mastoparan MP	INWLKLGKKMMSAL	
+MAS7	Mastoparan	2.0	Polistes dorsalis [Paper wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ3392	Pm_mastoparan PMM	INWKKIASIGKEVLKAL	
+MAS8	Mastoparan	2.0	Orancistrocerus drewseni [Solitary wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ3947	Eumenine mastoparan-OD	GRILSFIKGLAEHL	
+MAS11	Mastoparan	2.0	Polybia paulista [Neotropical social wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ25	Mastoparan-1	IDWKKLLDAAKQIL	
+MAS12	Mastoparan	2.0	Vespa magnifica [Hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ175	Mastoparan-like peptide 12c precursor	INLKAIAALAKKLLG	
+MAS13	Mastoparan	2.0	Agelaia pallipes [Neotropical social wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ557	Agelaia-mastoparan	INWLKLGKAIIDAL	
+MAS14	Mastoparan	2.0	Anterhynchium flavomarginatum micado [Solitary wasp]	http://www.camp.bicnirrh.res.in/	CAMPSQ1069	Eumenine mastoparan-AF	INLLKIAKGIIKSL	
+MAS15	Mastoparan	2.0	Vespa basalis [Hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ2743	Mastoparan B	LKLKSIVSWAKKVL	
+MAS17	Mastoparan	2.0	Vespa magnifica [Hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ176	Mastoparan-like peptide 12d	INLKAIAAMAKKLL	
+MAS18	Mastoparan	2.0	Vespa magnifica [Hornet]	http://www.camp.bicnirrh.res.in/	CAMPSQ16	Mastoparan-like peptide 12b	INWKGIAAMKKLL	
+MOR1	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ146	Moricin-like peptide A	KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	
+MOR2	Moricin	2.0	Bombyx mori [Silk moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1090	Moricin-1, Moricin-2	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKH	1KV4
+MOR3	Moricin	2.0	Heliothis virescens [Tobacco budworm moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1252	VIRE_HELVI Virescein	GKIPIGAIKKAGKAIGKGLRAVNIASTAHDVYTFFKPKKRH	
+MOR4	Moricin	2.0	Bombyx mori [Silk moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1657	Moricin	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA	1KV4
+MOR5	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ2910	G. mellonella moricin-like peptide A	KVNANAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	
+MOR6	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ147	Moricin-like peptide B	GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH	
+MOR7	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ148	Moricin-like peptide C1	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH	
+MOR8	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ149	Moricin-like peptide C2	KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ	
+MOR9	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ150	Moricin-like peptide C3	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ	
+MOR10	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ151	Moricin-like peptide C4, Moricin-like peptide C5	KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH	
+MOR11	Moricin	2.0	Galleria mellonella [Greater wax moth]	http://www.camp.bicnirrh.res.in/	CAMPSQ152	Moricin-like peptide D	KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ	
+MOR12	Moricin	2.0	Bean golden mosaic virus-[Brazil]	http://www.camp.bicnirrh.res.in/	CAMPSQ1027	SI Moricin	GKIPVKAIKKAGAAIGKGLRAINIASTAHDVYSFFKPKHKKK	1X22
+MOR13	Moricin	2.0	Manduca sexta [Tobacco hawkmoth]	http://www.camp.bicnirrh.res.in/	CAMPSQ1032	Manduca Sexta Moricin	GKIPVKAIKQAGKVIGKGLRAINIAGTTHDVVSFFRPKKKKH	2JR8
+CAT1	Cathelicidin	2.0	Oryctolagus cuniculus [Rabbit]	http://www.camp.bicnirrh.res.in/	CAMPSQ73	Antimicrobial protein CAP18 precursor	GLRKRLRKFRNKIKEKLKKI	1LYP
+CAT2	Cathelicidin	2.0	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ114	Myeloid antimicrobial peptide BMAP-27	GRFKRFRKKFKKLFKKLS	2KET
+CAT3	Cathelicidin	2.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ195	Cathelicidin antimicrobial peptide	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	2FBS, 2FBU, 2FCG, 2K6O, 2LMF
+CAT4	Cathelicidin	2.0	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ196	Antibacterial peptide BMAP-27	GRFKRFRKKFKKLFKKLSPVIPLLHLG	2KET
+CAT5	Cathelicidin	2.0	Gallus gallus [Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ644	Cathelicidin	RVKRVWPLVIRTVIAGYNLYRAIKKK	2AMN
+CAT6	Cathelicidin	2.0	Gallus gallus [Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ968	Fowlicidin 3	RVKRFWPLVPVAINTVAAGINLYKAIRRK	2HFR
+CAT7	Cathelicidin	2.0	Gallus gallus [ Chicken]	http://www.camp.bicnirrh.res.in/	CAMPSQ1054	Fowlicidin-2 , Myeloid antimicrobial peptide 27	LVQRGRFGRFLRKIRRFRPKVTITIQGSARFG	2GDL
+CAT8	Cathelicidin	2.0	Macaca mulatta [Rhesus macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ2270	Cationic antimicrobial protein	GDFFRKSKEKIGKEFKRIVQRIKDFLRN	2FBS, 2FCG, 2LMF
+CAT9	Cathelicidin	2.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ2816	Human LL-23	LLGDFFRKSKEKIGKEFKRIVQR	2FBU,2K6O,2LMF
+CAT10	Cathelicidin	2.0	Macaca mulatta [Rhesus macaque]	http://www.camp.bicnirrh.res.in/	CAMPSQ780	RL-37	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	
+CAT11	Cathelicidin	2.0	Mus musculus [Mouse]	http://www.camp.bicnirrh.res.in/	CAMPSQ979	Cathelin-related antimicrobial peptide	ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	
+CAT12	Cathelicidin	2.0	Rattus norvegicus [Norway rat]	http://www.camp.bicnirrh.res.in/	CAMPSQ2784	RCRAMP	GLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ	
+CAT13	Cathelicidin	2.0	Cavia porcellus [Guinea pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ898	Neutrophil cationic antibacterial polypeptide of 11 kDa	GLRKKFRKTRKRIQKLGRKIGKTGRKVWKAWREYGQIPYPCRI	
+CAT14	Cathelicidin	2.0	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ687	Cathelicidin-5 , Antibacterial peptide BMAP-28 , Myeloid antibacterial peptide 28	GGLRSLGRKILRAWKKYGPIIVPIIRIG	
+CAT15	Cathelicidin	2.0	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ341	Antibacterial peptide BMAP-34 precursor	GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG	
+CAT16	Cathelicidin	2.0	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ197	Antibacterial peptide PMAP-23	RIIDLLWRVRRPQKPKFVTVWVR	
+CAT17	Cathelicidin	2.0	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ198	Antibacterial peptide PMAP-36	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	
+CAT18	Cathelicidin	2.0	Sus scrofa [Pig]	http://www.camp.bicnirrh.res.in/	CAMPSQ199	Antibacterial peptide PMAP-37	GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS	
+CAT19	Cathelicidin	2.0	Felis catus [Cat]	http://www.camp.bicnirrh.res.in/	CAMPSQ3490	FeCath	QLGELIQQGGQKIVEKIQKIGQRIRDFFSNLRPRQEA	
+CAT20	Cathelicidin	2.0	Myxine glutinosa [Atlantic hagfish]	http://www.camp.bicnirrh.res.in/	CAMPSQ2847	HFIAP-3	GWFKKAWRKVKNAGRRVLKGVGIHYGVGLI	
+OCE1	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ482	Ocellatin-3	GVLDILKNAAKNILAHAAEQI	
+OCE2	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ566	Ocellatin-1	GVVDILKGAGKDLLAHLVGKISEKV	
+OCE3	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ567	Ocellatin-2	GVLDIFKDAAKQILAHAAEKQI	
+OCE4	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ806	Ocellatin-4	GLLDFVTGVGKDIFAQLIKQI	
+OCE5	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1938	Ocellatin-5	GLLDFLKAAGKGLVTNL	
+OCE6	Ocellatin	2.0	Leptodactylus fallax [Mountain chicken frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2795	Ocellatin-F1	GVVDILKGAAKDIAGHLASKVMNKL	
+OCE7	Ocellatin	2.0	Leptodactylus pentadactylus [Smokey jungle frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2799	Ocellatin-P1	GLLDTLKGAAKNVVGSLASKVMEKL	
+OCE8	Ocellatin	2.0	Leptodactylus validus	http://www.camp.bicnirrh.res.in/	CAMPSQ3216	Ocellatin-V1	GVVDILKGAGKDLLAHALSKLSEKV	
+OCE9	Ocellatin	2.0	Leptodactylus validus	http://www.camp.bicnirrh.res.in/	CAMPSQ3217	Ocellatin-V2	GVLDILKGAGKDLLAHALSKISEKV	
+OCE10	Ocellatin	2.0	Leptodactylus validus	http://www.camp.bicnirrh.res.in/	CAMPSQ3218	Ocellatin-V3	GVLDILTGAGKDLLAHALSKLSEKV	
+OCE11	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3323	Ocellatin-5	AVLDILKDVGKGLLSHFMEKV	
+OCE12	Ocellatin	2.0	Leptodactylus ocellatus [Argus frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3324	Ocellatin-6	AVLDFIKAAGKGLVTNIMEKVG	
+PLE1	Pleurocidin	2.0	Morone chrysops [White bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ206	Moronecidin	FFHHIFRGIVHVGKTIHKLVTGG	
+PLE2	Pleurocidin	2.0	Morone saxatilis [Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ207	Moronecidin	FFHHIFRGIVHVGKTIHRLVTGG	2JOS, 2OJM
+PLE3	Pleurocidin	2.0	Morone chrysops [White bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ208	Moronecidin	FFHHIFRGIVHVGRTIHKLVTGG	
+PLE4	Pleurocidin	2.0	Morone saxatilis [Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ209	Moronecidin	FFHHIFRGIVHVGRTIHRLVTGG	2JOS, 2OJM
+PLE5	Pleurocidin	2.0	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ353	Pleurocidin-like peptide AP1	GWKSVFRKAKKVGKTVGGLALDHYLG	
+PLE6	Pleurocidin	2.0	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ354	Pleurocidin-like peptide AP2	GWKKWFNRAKKVGKTVGGLAVDHYLG	
+PLE7	Pleurocidin	2.0	Limanda ferruginea [Yellowtail flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ355	Pleurocidin-like peptide YT2	RWGKWFKKATHVGKHVGKAALTAYL	
+PLE8	Pleurocidin	2.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ356	Pleurocidin-like peptide GcSc4C5	GWGSIFKHIFKAGKFIHGAIQAHNDG	
+PLE9	Pleurocidin	2.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ357	Pleurocidin-like peptide GcSc4B7	FWGKLLKLGMHGIGLLHQHLG	
+PLE10	Pleurocidin	2.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ358	Pleurocidin-like peptide GC3.2	GWKKWFTKGERLSQRHFA	
+PLE14	Pleurocidin	2.0	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ372	Moronecidin	FFHHIFRGIVHVGKTIHRLVTG	2JOS, 2OJM
+PLE15	Pleurocidin	2.0	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ373	Moronecidin	FFHHIFRGIVHVGKTIHKLVTG	
+PLE16	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ374	Pleurocidin	GWGSFFKKAAHVGKHVGKAALTHYL	1Z64
+PLE17	Pleurocidin	2.0	Siniperca chuatsi [Chinese perch]	http://www.camp.bicnirrh.res.in/	CAMPSQ520	Moronecidin	IFHHIFKGIVHVGKTIHRLVTG	
+PLE18	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ672	Pleurocidin-like peptide WFX	RSTEDIIKSISGGGFLNAMNA	
+PLE19	Pleurocidin	2.0	Hippoglossoides platessoides [American plaice]	http://www.camp.bicnirrh.res.in/	CAMPSQ675	Pleurocidin-like peptide AP3	GWRTLLKKAEVKTVGKLALKHYL	
+PLE21	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ862	Winter flounder 1a	WLRRIGKGVKIIGGAALDHL	
+PLE22	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ863	Winter flounder 1a1	GRRKRKWLRRIGKGVKIIGGAALDHL	
+PLE24	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ865	Winter flounder 4	GWGSIFKHGRHAAKHIGHAAVNHYL	
+PLE25	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ866	Winter flounder Y	FFRLLFHGVHHGGGYLNAA	
+PLE26	Pleurocidin	2.0	Pseudopleuronectes americanus [Winter flounder]	http://www.camp.bicnirrh.res.in/	CAMPSQ867	Winter flounder Z	FFRLLFHGVHHVGKIKPRA	
+PLE27	Pleurocidin	2.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ868	Witch flounder GcSc4C5	AGWGSIFKHIFKAGKFIHGAIQAHND	
+PLE29	Pleurocidin	2.0	Glyptocephalus cynoglossus [Witch]	http://www.camp.bicnirrh.res.in/	CAMPSQ870	Witch flounder GC3.8-t	GWKKWLRKGAKHLGQAAIK	
+PLE31	Pleurocidin	2.0	Morone chrysops x Morone saxatilis [White bass x Striped bass]	http://www.camp.bicnirrh.res.in/	CAMPSQ3199	Piscidin 4	FFRHLFRGAKAIFRGARQGWRAHKVVSRYRNRDVPETDNNQEEP	
+RAN1	Ranatuerin	2.0	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ100	Ranatuerin-2SEA	GFISTVKNLATNVAGTVIDTIKCKVTGGC	
+RAN2	Ranatuerin	2.0	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ101	Ranatuerin-2SEB	AIMDTIKDTAKTVAVGLLNKLKCKITGC	
+RAN3	Ranatuerin	2.0	Rana sevosa [Dusky gopher frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ102	Ranatuerin-2SEC	GIMDTIKDTAKTVAVGLLNKLKCKITGC	
+RAN4	Ranatuerin	2.0	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ423	Ranatuerin-1T	GLLSGLKKVGKHVAKNVAVSLMDSLKCKISGDC	
+RAN6	Ranatuerin	2.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ425	Ranatuerin-2	GLFLDTLKGAAKDVAGKLEGLKCKITGCKLP	
+RAN7	Ranatuerin	2.0	Rana catesbeiana [American bullfrog]	http://www.camp.bicnirrh.res.in/	CAMPSQ426	Ranatuerin-3	GFLDIINKLGKTFAGHMLDKIKCTIGTCPPSP	
+RAN14	Ranatuerin	2.0	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ433	Ranatuerin-2La	GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC	
+RAN15	Ranatuerin	2.0	Rana luteiventris [Spotted frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ434	Ranatuerin-2Lb	GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC	
+RAN16	Ranatuerin	2.0	Rana berlandieri [Rio Grande leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ435	Ranatuerin-2B	GLLDTIKGVAKTVAASMLDKLKCKISGC	
+RAN18	Ranatuerin	2.0	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ439	Ranatuerin-2Ca	GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP	
+RAN19	Ranatuerin	2.0	Rana clamitans [Green frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ440	Ranatuerin-2Cb	GLFLDTLKGLAGKLLQGLKCIKAGCKP	
+RAN20	Ranatuerin	2.0	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ503	Ranatuerin-2BYa	GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC	
+RAN21	Ranatuerin	2.0	Rana boylii [Foothill yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ504	Ranatuerin-2BYb	GIMDSVKGLAKNLAGKLLDSLKCKITGC	
+RAN22	Ranatuerin	2.0	Rana sakuraii [Japanese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ682	Ranatuerin 2SKa	GLLDAIKDTAQNLFANVLDKIKCKFTKC	
+RAN23	Ranatuerin	2.0	Rana cascadae	http://www.camp.bicnirrh.res.in/	CAMPSQ996	Ranatuerin-2CSa	GILSSFKGVAKGVAKDLAGKLLETLKCKITGC	2K10
+RAN24	Ranatuerin	2.0	Rana dybowskii [Dybowsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2676	Ranatuerin-2YJ precursor	LMDIFKVAVNKLLAAGMNKPRCKAAHC	
+RAN25	Ranatuerin	2.0	Rana pipiens [Northern leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2727	RANATUERIN 2P	LMDTVKNVAKNLAGHMLDKLKCKITGC	
+RAN26	Ranatuerin	2.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2828	Ranatuerin-2PLa	GIMDTVKNVAKNLAGQLLDKLKCKITAC	
+RAN27	Ranatuerin	2.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2829	Ranatuerin-2PLb	GIMDTVKNAAKDLAGQLLDKLKCRITGC	
+RAN28	Ranatuerin	2.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2830	Ranatuerin-2PLd	GIMDSVKNVAKNIAGQLLDKLKCKITGC	
+RAN29	Ranatuerin	2.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2831	Ranatuerin-2PLc	GLLDTKNTAKNLAVGLLDKIKCKMTGC	
+RAN30	Ranatuerin	2.0	Rana palustris [Pickerel frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2832	Ranatuerin-2PLf	GIMDTVKNAAKDLAGQLDKLKCRITGC	
+RAN33	Ranatuerin	2.0	Rana grylio [Pig frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2907	Ranatuerin-2G	GLLLDTLKGAAKDIAGIALEKLKCKITGCKP	
+RAN34	Ranatuerin	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3137	Ranatuerin-2PRa	GLMDVFKGAAKNLLASALDKIRCKVTKC	
+RAN35	Ranatuerin	2.0	Rana areolata [Crawfish frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3145	Ranatuerin-2ARa	GLMDTVKNAAKNLAGQLLDTIKCKMTGC	
+RAN36	Ranatuerin	2.0	Rana areolata [Crawfish frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3146	Ranatuerin-2ARb	GILDTIKNAAKTVAVGLLEKIKCKMTGC	
+RAN37	Ranatuerin	2.0	Rana muscosa [Mountain yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3223	Ranatuerin-2Ma	GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC	
+RAN38	Ranatuerin	2.0	Rana muscosa [Mountain yellow-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3224	Ranatuerin-2Mb	GIMDSVKGVAKNLAAKLLEKLKCKITGC	
+RAN39	Ranatuerin	2.0	Rana blairi [Leopard frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3231	Ranatuerin-2Ya	GLMDTIKGVAKTVAASWLDKLKCKITGC	
+RAN40	Ranatuerin	2.0	Rana aurora aurora [Northern red-legged frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3232	Ranatuerin-2AUa	GILSSFKGVAKGVAKNLAGKLLDELKCKITGC	
+RAN41	Ranatuerin	2.0	Rana pretiosa	http://www.camp.bicnirrh.res.in/	CAMPSQ3445	Ranatuerin-2PRb	GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC	
+RAN42	Ranatuerin	2.0	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3768	Ranatuerin-2CHa	GLMDTVKNAAKNLAGQLLDRLKCKITGC	
+RAN43	Ranatuerin	2.0	Lithobates chiricahuensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3769	Ranatuerin-2CHb	GLMDTIKGVAKNVAASLLEKLKCKVTGC	
+RAN44	Ranatuerin	2.0	Rana arvalis [Moor frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3868	Ranatuerin-2AVa	GLLDVVKGAAKNLLASALDKLKCKVTGC	
+B2R2	Brevinin-2	2.0	Rana grahami	http://www.camp.bicnirrh.res.in/	CAMPSQ992	Brevinin -2 Gra , Brevinin-2E-OG1, Brevinin-2E-OG6	GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC	
+B2R3	Brevinin-2	2.0	Rana guentheri [Gunther frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ89	Brevinin-2GHa	GFSSLFKAGAKYLLKSVGKAGAQQLACKAANNCA	
+B2R4	Brevinin-2	2.0	Rana guentheri [Gunther frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ90	Brevinin-2GHb precursor	GVITDALKGAAKTVAAELLRKAHCKLTNSC	
+B2R5	Brevinin-2	2.0	Rana guentheri [Gunther frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ91	Brevinin-2GHc precursor	SIWEGIKNAGKGFLVSILDKVRCKVAGGCNP	
+B2R6	Brevinin-2	2.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ183	Brevinin-2DYb	GLFDVVKGVLKGAGKNVAGSLLEQLKCKLSGGC	
+B2R7	Brevinin-2	2.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ184	Brevinin-2DYd	GIFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	
+B2R8	Brevinin-2	2.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ185	Brevinin-2DYe / Dybowskin-5	GLFSVVTGVLKAVGKNVAKNVGGSLLEQLKCKISGGC	
+B2R9	Brevinin-2	2.0	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ400	Brevinin-2Tc	GLWETIKNFGKKFTLNILHKLKCKIGGGC	
+B2R10	Brevinin-2	2.0	Rana temporaria [european common frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ401	Brevinin-2Td	GLWETIKNFGKKFTLNILHNLKCKIGGGC	
+B2R11	Brevinin-2	2.0	Rana porosa brevipoda [Japanese frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ454	Brevinin-2	GLLDSLKGFAATAGKGVLQSLLSTASCKLAKTC	
+B2R12	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ455	Brevinin-2E	GIMDTLKNLAKTAGKGALQSLLNKASCKLSGQC	
+B2R13	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ599	Brevinin-2Ea	GILDTLKNLAISAAKGAAQGLVNKASCKLSGQC	
+B2R14	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ600	Brevinin-2Eb	GILDTLKNLAKTAGKGALQGLVKMASCKLSGQC	
+B2R15	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ601	Brevinin-2Ec	GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC	
+B2R16	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ602	Brevinin-2Ed	GILDSLKNLAKNAGQILLNKASCKLSGQC	
+B2R17	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ603	Brevinin-2Ef	GIMDTLKNLAKTAGKGALQSLVKMASCKLSGQC	
+B2R18	Brevinin-2	2.0	Rana esculenta (edible frog ) [Edible frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ604	Brevinin-2Ee	GIFDKLKNFAKGVAQSLLNKASCKLSGQC	
+B2R19	Brevinin-2	2.0	Rana sakuraii [Japanese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ662	Brevinin-2SKb	GLFNVFKKVGKNVLKNVAGSLMDNLKCKVSGEC	
+B2R20	Brevinin-2	2.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ689	Brevinin-2DYa	GLLSAVKGVLKGAGKNVAGSLMDKLKCKLFGGC	
+B2R21	Brevinin-2	2.0	Odorrana grahami [Yunnanfu frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ704	OdC1, Brevinin -2 GrB	GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC	
+B2R22	Brevinin-2	2.0	Rana dybowskii [Dybovsky frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ773	Dybowskin-3 , Brevinin-2DYc	GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	
+B2R23	Brevinin-2	2.0	Rana tsushimensis	http://www.camp.bicnirrh.res.in/	CAMPSQ1010	Brevinin-2TSa	GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC	
+B2R24	Brevinin-2	2.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1070	Brevinin-2PTe	GFLDSFKNAMIGVAKSVGKTALSTLACKIDKSC	
+B2R25	Brevinin-2	2.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1071	Brevinin-2PTd	GFLDSFKNAMIGVAKSAGKTALNTLACKIDKTC	
+B2R26	Brevinin-2	2.0	Rana hosii [Hose rock frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1072	Brevinin-2HSb	GLLDTLKNMAINAAKGAGQSVLNTLSCKLSKTC	
+B2R27	Brevinin-2	2.0	Rana hosii [Hose rock frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1073	Brevinin-2HSa	GLLDSLKNLAINAAKGAGQSVLNTLSCKLSKTC	
+B2R28	Brevinin-2	2.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1082	Brevinin-2PTc	GLLDSFKNAMIGIAKSAGKTALNKIACKIDKTC	
+B2R29	Brevinin-2	2.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1083	Brevinin-2PTb	GFKGAFKNVMFGIAKSAGKSALNALACKIDKSC	
+B2R30	Brevinin-2	2.0	Rana picturata [Malaysian fire frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ1084	Brevinin-2PTa	GAIKDALKGAAKTVAVELLKKAQCKLEKTC	
+B2R31	Brevinin-2	2.0	Rana septentrionalis [Mink frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2809	Brevinin-2-related peptide	GIWDTIKSMGKVFAGKILQNL	
+B2R32	Brevinin-2	2.0	Rana ornativentris	http://www.camp.bicnirrh.res.in/	CAMPSQ2903	Brevinin-20a	GLFNVFKGALKTAGKHVAGSLLNQLKCKVSGGC	
+B2R33	Brevinin-2	2.0	Rana ornativentris	http://www.camp.bicnirrh.res.in/	CAMPSQ2904	Brevinin-20b	GIFNVFKGALKTAGKHVAGSLLNQLKCKVSGEC	
+B2R34	Brevinin-2	2.0	Rana schmackeri [Schmacker's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2930	Brevinin-2HS1	GLWDTIKQAGKKIFLSVLDKIRCKVAGGG	
+B2R35	Brevinin-2	2.0	Rana schmackeri [Schmacker's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ2931	Brevinin-2HS2	SLLGTVKDLLIGAGKSAAQSVLKGLSGKLSKDC	
+B2R37	Brevinin-2	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3132	Brevinin-2PRa	GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	
+B2R38	Brevinin-2	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3133	Brevinin-2PRb	GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	
+B2R39	Brevinin-2	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3134	Brevinin-2PRc	GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC	
+B2R40	Brevinin-2	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3135	Brevinin-2PRd	GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC	
+B2R41	Brevinin-2	2.0	Rana pirica	http://www.camp.bicnirrh.res.in/	CAMPSQ3136	Brevinin-2PRe	GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC	
+B2R43	Brevinin-2	2.0	Rana nigrovittata [Black-striped frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3397	Brevinin-2-RN1	GAFGNFLKGVAKKAGLKILSIAQCKLSGTC	
+B2R44	Brevinin-2	2.0	Rana nigrovittata [Black-striped frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3398	Brevinin-2-RN2	GAFGNFLKGVAKKAGLKILSIAQCKLFGTC	
+B2R45	Brevinin-2	2.0	Odorrana ishikawae [Ishikawa's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3433	Brevinin-2ISa	SLLDTFKNLAVNAAKSAGVSVLNALSCKISRTC	
+B2R46	Brevinin-2	2.0	Odorrana ishikawae [Ishikawa's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3434	Brevinin-2ISb	SFLTTFKDLAIKAAKSAGQSVLSTLSCKLSNTC	
+B2R47	Brevinin-2	2.0	Odorrana ishikawae [Ishikawa's frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3435	Brevinin-2ISc	SVLGTVKDLLIGAGKSAAQSVLTTLSCKLSNSC	
+B2R48	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3542	Brevinin-2-OA1	GILDTFKNMALNAAKSAGVSVLNALSCKLSKTC	
+B2R49	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3543	Brevinin-2-OA3	GLLDTFKNMAINAAHGAGVSVLNALSCKLKKTC	
+B2R50	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3544	Brevinin-2-OA4	GLLDTFKNLAINAAESAGVSVLNSLSCKLSKTC	
+B2R51	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3545	Brevinin-2-OA5	GLLDGILNANFNAAKSAGTSVLNALSCKLSKTC	
+B2R52	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3546	Brevinin-2-OA6	GVLATVKNLLIGTGDGAAQSVLKTLSCKLSNDC	
+B2R53	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3547	Brevinin-2-OA7	GVLGTVKDLLIGAGKSAAQSTLKTLSCKISNDC	
+B2R54	Brevinin-2	2.0	Odorrana andersonii [Golden crossband frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3548	Brevinin-2-OA8	GVLATVKNLLNGTGDGAAQSVLKTLSCKLSNDC	
+B2R55	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3550	Brevinin-2-OR2	GLLDTIKNMALNAAKSAGVSVLNSLSCKLSKTC	
+B2R56	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3551	Brevinin-2-OR3	GLIDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	
+B2R57	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3552	Brevinin-2-OR4	SVLGTVKDLLIGAGKSAAQSVLTANSCKLSNSC	
+B2R58	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3553	Brevinin-2-OR5	SFLDTLKNLAISAAKGAGQSVLSTLSCKLSETC	
+B2R59	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3554	Brevinin-2-OR6	GLLDTIKNMALNAAKSAGVSVLNSLSCKDSKTC	
+B2R60	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3555	Brevinin-2-OR7	GLLDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	
+B2R61	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3557	Brevinin-2-OR9	SFLSTFKELAINAAKNAGQSILHTLSCKLDKTC	
+B2R62	Brevinin-2	2.0	Odorrana rotodora	http://www.camp.bicnirrh.res.in/	CAMPSQ3558	Brevinin-2-OR10	SFLSTFKELAINAAKNAGQSLLHTLSCKLDKTC	
+B2R63	Brevinin-2	2.0	Odorrana wuchuanensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3559	Brevinin-2-OW1	SVMGTVKDLLIGAGKSAAQSVLKSLSCKISNDC	
+B2R64	Brevinin-2	2.0	Odorrana wuchuanensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3560	Brevinin-2-OW2	SVMGTVKDLLIGAGKSAAQSVLKSLSCKLSNDC	
+B2R65	Brevinin-2	2.0	Odorrana wuchuanensis	http://www.camp.bicnirrh.res.in/	CAMPSQ3561	Brevinin-2-OW3	SVMGTVKDLLIGAGKSAAQSVLKALSCKLSKDC	
+B2R66	Brevinin-2	2.0	Amolops ricketti [Chinese sucker frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3602	Brevinin-2RTa	GLMSTLKDFGKTAAKEIAQSLLSTASCKLAKTC	
+B2R67	Brevinin-2	2.0	Amolops ricketti [Chinese sucker frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3603	Brevinin-2RTb	GILDTLKEFGKTAAKGIAQSLLSTASCKLAKTC	
+B2R68	Brevinin-2	2.0	Rana sakuraii [Japanese brown frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3629	Brevinin-2SKa	GLFSAFKKVGKNVLKNVAGSLMDNLKCKVSGEC	
+B2R69	Brevinin-2	2.0	Amolops chunganensis [Chungan torrent frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ3724	Brevinin-2CG1	GILDKLKEFGISAARGVAQSLLNTTASCKLAKTC	
+B2R70	Brevinin-2	2.0	Odorrana hainanensis [Odor frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ5779	Brevinin-2HS2A, Brevinin-2HS2B	SLLGTVKDLLIGAGKSAAQSVLKGLSCKLSKDC	
+AUR6	Aurein	2.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ633	Uperin-2.1	GIVDFAKKVVGGIRNALGI	
+AUR7	Aurein	2.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ634	Uperin-2.2	GFVDLAKKVVGGIRNALGI	
+AUR8	Aurein	2.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ635	Uperin-2.3	GFFDLAKKVVGGIRNALGI	
+AUR9	Aurein	2.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ636	Uperin-2.4	GILDFAKTVVGGIRNALGI	
+GAE1	Gaegurin	2.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ69	Gaegurin-1	SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC	
+GAE2	Gaegurin	2.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ70	Gaegurin-2	GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC	
+GAE3	Gaegurin	2.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ71	Gaegurin-3	GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC	
+GAE5	Gaegurin	2.0	Rana rugosa [Japanese wrinkled frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ282	Gaegurin-4	GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC	
+BOM1	Bombinin	2.0	Bombina orientalis	http://www.camp.bicnirrh.res.in/	CAMPSQ38	Bombinin-like peptides 1	GIGASILSAGKSALKGLAKGLAEHFAN	
+BOM2	Bombinin	2.0	Bombina orientalis	http://www.camp.bicnirrh.res.in/	CAMPSQ39	Bombinin-like peptide 2 	GIGSAILSAGKSALKGLAKGLAEHFAN	
+BOM3	Bombinin	2.0	Bombina orientalis	http://www.camp.bicnirrh.res.in/	CAMPSQ40	Bombinin-like peptides 3 	GIGAAILSAGKSALKGLAKGLAEHF	
+BOM4	Bombinin	2.0	Bombina variegata	http://www.camp.bicnirrh.res.in/	CAMPSQ41	Bombinin-like peptide 1	GIGGALLSAAKVGLKGLAKGLAEHFAN	
+CLA4	Clavanin	2.0	Styela clava	http://www.camp.bicnirrh.res.in/	CAMPSQ349	Clavanin-D	AFKLLGRIIHHVGNFVYGFSHVF	
+DMI1	Dermicidin	2.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ238	Dermcidin	SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV	2KSG, 2YMK
+PSE1	Pseudin	2.0	Pseudis paradoxa [Paradoxical frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ242	Pseudin-1	GLNTLKKVFQGLHEAIKLINNHVQ	
+PSE2	Pseudin	2.0	Pseudis paradoxa [Paradoxical frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ243	Pseudin-2	GLNALKKVFQGIHEAIKLINNHVQ	2NCX
+PSE3	Pseudin	2.0	Pseudis paradoxa [Paradoxical frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ244	Pseudin-3	GINTLKKVIQGLHEVIKLVSNHE	
+PSE4	Pseudin	2.0	Pseudis paradoxa [Paradoxical frog]	http://www.camp.bicnirrh.res.in/	CAMPSQ245	Pseudin-4	GINTLKKVIQGLHEVIKLVSNHA	
+THI1	Thionin	2.0	Triticum aestivum [Wheat]	http://www.camp.bicnirrh.res.in/	CAMPSQ3709	Alpha-purothionin, Purothionin AII	KSCCRSTLGRNCYNLCRARGAQKLCAGVCRCKISSGLSCPKGFPK	2PLH
+THI2	Thionin	2.0	Triticum aestivum [Wheat]	http://www.camp.bicnirrh.res.in/	CAMPSQ3710	Beta-purothionin	KSCCKSTLGRNCYNLCRARGAQKLCANVCRCKLTSGLSCPKDFPK	1BHP
+UP1	Uperin	2.0	Uperoleia inundata [Floodplain toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ638	Uperin-3.1	GVLDAFRKIATVVKNVV	
+UP3	Uperin	2.0	Uperoleia mjobergii [Australian toadlet]	http://www.camp.bicnirrh.res.in/	CAMPSQ641	Uperin-3.5	GVGDLIRKAVSVIKNIV	
+TRA1	Tranferrin	2.0	Bos taurus [Bovine]	http://www.camp.bicnirrh.res.in/	CAMPSQ460	Lactotransferrin precursor	FKCRRWQWRMKKLGAPSITCVRRAF	
+TRA2	Tranferrin	2.0	Homo sapiens	http://www.camp.bicnirrh.res.in/	CAMPSQ2882	Human lactoferricin	GRRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQA	1Z6V
+TRA3	Tranferrin	2.0	Homo sapiens [Human]	http://www.camp.bicnirrh.res.in/	CAMPSQ4608	Lactotransferrin-H, HLP1	FQWQRNMRKVRGPPVS	
