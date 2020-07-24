@@ -32,6 +32,9 @@ You can replicate our paper results or change data used in data.py
 Data of our paper are in In_File folder
 
 #FILE OVERVIEW
+* Blots: original uncropped image files for Western Blots presented in the paper
+* correlation quant: individual cell images and background fluorescence values used in the imagestat_PCC-bg.R script
+* Epifluorescence originals: original epifluorescence microscopy image files encompassing the entire fields of view from which cells for presentation in the paper were cropped out
 * ACC: empty folder, will contain backup csv files of auto-cross covariance calculated by the program
 * In_File: Folder with data of the paper
 	- HA-RAMP: Folder with csv files of HA-RAMP peptides by family and to class establish in paper
@@ -39,7 +42,7 @@ Data of our paper are in In_File folder
 	- SP: Folder with csv files of signal peptides 
 	- TP: Folder with csv files of targeting peptides
 	- ResultHeliquest : Foldes with csv files of amphiohilic helix prediction and script for generate them (Look start of script to view dependencies) 
-*New3Helix: Folder with csv file of helix and peptide features and script for make distribution of theses features
+* New3Helix: Folder with csv file of helix and peptide features and script for make distribution of theses features
 * New_csv: empty folder, will contain backup csv files of peptides sequences used by the program
 * Out_File: Folder were result file of program are registred
 	- Out_Freq: result file of frequency amino acid analys
@@ -49,6 +52,7 @@ Data of our paper are in In_File folder
 	- Out_Tree: result file of ?? analys
 	- Out_Zscale: result file of mean z-scale analys
 * Z_scale_Wold: empty folder, will contain backup csv files of mean z-scale calculated by the program
+* confocal originals: original confocal microscopy image files encompassing the entire fields of view from which cells for presentation in the paper were cropped out
 * acc.R: R program that calculate auto-cross-covariance
 Can be use independly Command line : Rscript --vanilla acc.R -f <csv-file> -a <column-name> -l <lag> -o <out-file>
 * data.py: Python script that indicate data use in the analyse (you can edit this file for use your data)
@@ -59,4 +63,5 @@ Can be use independly Command line : Rscript --vanilla acc.R -f <csv-file> -a <c
 * requierments.txt: file contain all package need for the program
 * settings.py: Python script containing some backup setting. 
 * Z_scale_Wold.R: R script that calculate mean of z-scale
+* 
 
